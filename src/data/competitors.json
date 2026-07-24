@@ -1,0 +1,146 @@
+[
+  {
+    "id": "kinaxis",
+    "name": "Kinaxis Maestro",
+    "company": "Kinaxis Inc.",
+    "category": "Concurrent planning / enterprise incumbent",
+    "stage": "Market leader",
+    "positioning": "Public, Canada-based supply chain planning leader known for patented concurrent-planning technology (Maestro, formerly RapidResponse) that lets large enterprises simulate and recalculate their entire supply chain in near real time.",
+    "erpIntegrations": ["SAP", "Oracle", "Homegrown ERP", "Multiple via API"],
+    "strengths": [
+      "Patented concurrency engine — near-instant what-if recalculation across the full network",
+      "Deep reference base in high-tech, life sciences, aerospace/defense, and industrial manufacturing",
+      "Public-company scale, balance sheet, and long enterprise track record",
+      "Frequently cited for the fastest scenario analysis at enterprise scale"
+    ],
+    "weaknesses": [
+      "Long, services-heavy implementations typical of legacy concurrent-planning deployments",
+      "Configuration-first UX that often requires dedicated planning-ops staff to maintain",
+      "Not built on a CRM platform — commercial/sales-pipeline data has to be integrated in, not native",
+      "Premium enterprise pricing that can be hard to justify below large deal sizes"
+    ],
+    "pricingNotes": "Enterprise subscription, typically multi-year, sized to network complexity and user count. (Illustrative — confirm against current deal intel.)",
+    "website": "https://www.kinaxis.com/",
+    "sourceConfidence": "known-public"
+  },
+  {
+    "id": "o9-solutions",
+    "name": "o9 Digital Brain",
+    "company": "o9 Solutions",
+    "category": "AI-native integrated planning platform",
+    "stage": "Well-funded challenger",
+    "positioning": "Markets the \"Digital Brain\" — a graph-based, AI/ML-powered platform spanning demand, supply, and integrated business planning, positioned as a strategic, cross-functional planning layer for large global enterprises.",
+    "erpIntegrations": ["SAP", "Oracle", "Homegrown ERP", "Multiple via API"],
+    "strengths": [
+      "Graph-based data model built for large, complex, cross-functional planning scenarios",
+      "Strong analyst and enterprise mindshare in strategic IBP / demand-supply integration",
+      "Broad SI partner network (EY, Genpact, valantic, and others) for global rollouts",
+      "Marquee global brand logos across beauty, CPG, and industrial sectors"
+    ],
+    "weaknesses": [
+      "Large, platform-scale implementations with long time-to-value",
+      "Heavy reliance on SI/consulting partners to configure and roll out",
+      "Not natively unified with CRM/commercial systems — requires integration to connect sales data",
+      "Premium enterprise pricing aimed at large, multi-year transformation budgets"
+    ],
+    "pricingNotes": "Enterprise subscription, typically bundled with SI implementation services. (Illustrative — confirm against current deal intel.)",
+    "website": "https://o9solutions.com/",
+    "sourceConfidence": "known-public"
+  },
+  {
+    "id": "blue-yonder",
+    "name": "Blue Yonder Luminate Planning",
+    "company": "Blue Yonder (Panasonic)",
+    "category": "End-to-end planning & execution suite",
+    "stage": "Incumbent / consolidator",
+    "positioning": "Panasonic-owned end-to-end supply chain suite spanning demand and supply planning through warehouse and transportation execution — a single-vendor \"plan to execute\" story.",
+    "erpIntegrations": ["SAP", "Oracle", "Homegrown ERP", "Multiple via API"],
+    "strengths": [
+      "Broadest single-vendor footprint from planning through warehouse / transportation execution",
+      "Large existing retail, CPG, and manufacturing installed base",
+      "Regular new-logo momentum (dozens of new customers reported per quarter)",
+      "Panasonic-backed scale and balance sheet"
+    ],
+    "weaknesses": [
+      "Breadth-over-depth critique — planning is one of many priorities inside a very large suite",
+      "Historically complex, services-heavy implementations",
+      "Suite-wide upgrades and roadmap can move slower than focused planning-only vendors",
+      "Not CRM-native — commercial pipeline/opportunity data isn't a first-class object in the platform"
+    ],
+    "pricingNotes": "Enterprise suite licensing, often multi-module bundles. (Illustrative — confirm against current deal intel.)",
+    "website": "https://blueyonder.com/",
+    "sourceConfidence": "known-public"
+  },
+  {
+    "id": "sap-ibp",
+    "name": "SAP Integrated Business Planning",
+    "company": "SAP",
+    "category": "ERP-embedded incumbent",
+    "stage": "Market incumbent",
+    "positioning": "SAP's cloud supply chain planning suite, positioned as the \"safe default\" for the 1,000+ companies already standardized on SAP ERP — covering S&OP, demand, inventory, and response/supply planning natively alongside S/4HANA.",
+    "erpIntegrations": ["SAP S/4HANA", "SAP ECC", "SAP BW"],
+    "strengths": [
+      "Native fit for SAP-centric IT landscapes — the path of least resistance for SAP shops",
+      "Deep bench of SAP implementation partners and talent",
+      "Bundling leverage inside broader SAP enterprise agreements",
+      "Continual platform investment (Excel-based planning UX, embedded AI features)"
+    ],
+    "weaknesses": [
+      "Best-of-breed capability gaps versus concurrent-planning and AI-native specialists",
+      "Perceived as slower-moving and harder to configure than newer entrants",
+      "Value proposition narrows sharply outside SAP-standardized landscapes",
+      "Not built for CRM-linked or commercial-signal-driven planning workflows"
+    ],
+    "pricingNotes": "Typically bundled into broader SAP cloud / enterprise agreements. (Illustrative — confirm against current deal intel.)",
+    "website": "https://www.sap.com/products/scm/integrated-business-planning.html",
+    "sourceConfidence": "known-public"
+  },
+  {
+    "id": "anaplan",
+    "name": "Anaplan Supply Chain Planning",
+    "company": "Anaplan (Thoma Bravo)",
+    "category": "Connected planning platform",
+    "stage": "Established platform",
+    "positioning": "Flexible, modeling-first \"connected planning\" platform used broadly across finance, sales, and supply chain — supply chain teams build planning apps on top of Anaplan's general-purpose Hyperblock calculation engine.",
+    "erpIntegrations": ["SAP", "Oracle", "Homegrown ERP", "Multiple via API"],
+    "strengths": [
+      "Extremely flexible, build-your-own-model platform — can be shaped to almost any planning process",
+      "Strong existing footprint in FP&A that supply chain can piggyback on for a single-platform pitch",
+      "Large partner / consulting ecosystem for custom model-building",
+      "Long track record of supply chain wins across CPG, retail, and industrial accounts"
+    ],
+    "weaknesses": [
+      "General-purpose platform, not purpose-built for supply chain — planning logic must be custom-modeled",
+      "Model build and maintenance typically requires dedicated Anaplan modeling expertise",
+      "Best-of-breed supply-chain-specific features (concurrency, network optimization) are thinner than specialists",
+      "Private-equity owned (Thoma Bravo) — roadmap priorities can shift with portfolio strategy"
+    ],
+    "pricingNotes": "Per-user / per-workspace enterprise licensing. (Illustrative — confirm against current deal intel.)",
+    "website": "https://www.anaplan.com/",
+    "sourceConfidence": "known-public"
+  },
+  {
+    "id": "logility",
+    "name": "Logility Digital Supply Chain Platform",
+    "company": "Logility (an Aptean company)",
+    "category": "Supply chain planning specialist",
+    "stage": "Established specialist",
+    "positioning": "Long-standing supply chain planning specialist, now part of Aptean, pushing \"DemandAI+\" and agentic AI features, and consistently well-rated in Gartner Voice of the Customer for supply chain planning.",
+    "erpIntegrations": ["SAP", "Oracle", "Homegrown ERP", "Multiple via API"],
+    "strengths": [
+      "Strong customer satisfaction — 2025 Gartner Voice of the Customer recognition with high willingness-to-recommend scores",
+      "Purpose-built supply-chain-planning heritage (demand, inventory, S&OP) rather than a repurposed general platform",
+      "Newer agentic AI push (DemandAI+, Intelligent Order Response) aimed at mid-market and enterprise",
+      "Backed by Aptean's broader ERP / vertical-software portfolio and go-to-market"
+    ],
+    "weaknesses": [
+      "Smaller market profile and brand awareness than Kinaxis / o9 / Blue Yonder in competitive enterprise deals",
+      "Aptean acquisition integration is still relatively recent — roadmap and packaging can be in flux",
+      "Less concurrency / scenario-simulation depth than Kinaxis at extreme enterprise scale",
+      "Not CRM-native — commercial data has to be integrated separately"
+    ],
+    "pricingNotes": "Subscription licensing, positioned competitively for mid-market and enterprise. (Illustrative — confirm against current deal intel.)",
+    "website": "https://www.logility.com/",
+    "sourceConfidence": "known-public"
+  }
+]

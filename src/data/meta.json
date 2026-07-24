@@ -1,0 +1,21 @@
+{
+  "lastUpdated": "2026-07-24",
+  "scoringWeights": {
+    "erpFit": 0.3,
+    "greenfield": 0.3,
+    "size": 0.25,
+    "region": 0.15
+  },
+  "sizeBands": [
+    { "label": "Enterprise ($5B+ revenue)", "min": 5000 },
+    { "label": "Large ($1B-5B revenue)", "min": 1000 },
+    { "label": "Mid-market ($250M-1B revenue)", "min": 250 },
+    { "label": "Emerging (<$250M revenue)", "min": 0 }
+  ],
+  "factorLabels": {
+    "erpFit": "Platform fit (Salesforce / SAP / Oracle depth)",
+    "greenfield": "Greenfield planning opportunity",
+    "size": "Account size / scale",
+    "region": "Regional priority"
+  }
+}

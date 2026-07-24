@@ -1,0 +1,128 @@
+[
+  {
+    "id": "n-2026-06-30-gartner-trends",
+    "date": "2026-06-30",
+    "title": "Gartner Identifies Top Supply Chain Technology Trends for 2026",
+    "source": "Gartner Newsroom",
+    "url": "https://www.gartner.com/en/newsroom/press-releases/2026-06-30-gartner-identifies-top-supply-chain-technology-trends-for-2026",
+    "summary": "Gartner names agentic AI and physical AI as top supply chain technology trends for 2026, with AI moving from proof-of-concept to embedded, agentic capability inside core planning and execution processes.",
+    "tags": ["industry-trend", "agentic-ai", "gartner"]
+  },
+  {
+    "id": "n-2026-06-29-mane-kinaxis",
+    "date": "2026-06-29",
+    "title": "MANE Selects Kinaxis to Strengthen Global Planning Capabilities",
+    "source": "Business Upturn / Yahoo Finance",
+    "url": "https://finance.yahoo.com/technology/articles/mane-selects-kinaxis-strengthen-global-110000230.html",
+    "summary": "MANE, a top-five global flavors and fragrances company, selected Kinaxis to modernize its planning capabilities as part of a broader enterprise-wide transformation initiative.",
+    "tags": ["competitor:kinaxis", "market-trend"]
+  },
+  {
+    "id": "n-2026-03-10-kinaxis-mq",
+    "date": "2026-03-10",
+    "title": "Kinaxis Named a Leader in the 2026 Gartner Magic Quadrant for Supply Chain Planning Solutions",
+    "source": "Kinaxis",
+    "url": "https://www.kinaxis.com/en/blog/kinaxis-leader-2026-gartner-magic-quadrant-supply-chain-planning-solutions-discrete-process-industries",
+    "summary": "Kinaxis was positioned as a Leader in both the Discrete Industries and Process Industries 2026 Gartner Magic Quadrant reports for Supply Chain Planning Solutions.",
+    "tags": ["competitor:kinaxis", "gartner", "klas"]
+  },
+  {
+    "id": "n-2026-03-10-blueyonder-mq",
+    "date": "2026-03-10",
+    "title": "Blue Yonder Named a Leader in the Inaugural 2026 Gartner Magic Quadrant for Supply Chain Planning Solutions: Discrete Industries",
+    "source": "Blue Yonder",
+    "url": "https://now.blueyonder.com/gartner-magic-quadrant-scp-discrete.html",
+    "summary": "Blue Yonder was named a Leader in the first-ever Discrete Industries edition of Gartner's Magic Quadrant for Supply Chain Planning Solutions.",
+    "tags": ["competitor:blue-yonder", "gartner"]
+  },
+  {
+    "id": "n-2026-03-10-o9-mq",
+    "date": "2026-03-10",
+    "title": "o9 Named a Leader in 2026 Gartner Magic Quadrant for Supply Chain Planning Solutions (Discrete and Process Industries)",
+    "source": "o9 Solutions",
+    "url": "https://o9solutions.com/resources/2026-gartner-magic-quadrant-discrete-industries",
+    "summary": "o9 Solutions was recognized as a Leader in both the Discrete and Process Industries 2026 Gartner Magic Quadrant reports for Supply Chain Planning Solutions.",
+    "tags": ["competitor:o9-solutions", "gartner"]
+  },
+  {
+    "id": "n-2026-02-09-blueyonder-q4",
+    "date": "2026-02-09",
+    "title": "Blue Yonder Releases Q4 2025 Company Highlights and Showcases New Solution Enhancements",
+    "source": "Business Wire",
+    "url": "https://www.businesswire.com/news/home/20260209683028/en/Blue-Yonder-Releases-Q4-2025-Company-Highlights-and-Showcases-New-Solution-Enhancements",
+    "summary": "Blue Yonder reported 29 new customer logos added in Q4 2025 alongside enhancements to its Demand and Supply Planning and Warehouse Management solutions.",
+    "tags": ["competitor:blue-yonder", "market-trend"]
+  },
+  {
+    "id": "n-2025-12-11-logility-voc",
+    "date": "2025-12-11",
+    "title": "Logility Recognized in the 2025 Gartner Voice of the Customer for Supply Chain Planning Solutions",
+    "source": "Logility",
+    "url": "https://www.logility.com/press-release/2025-gartner-voice-of-the-customer/",
+    "summary": "Logility, an Aptean company, achieved a 4.9/5 overall rating and 100% Willingness to Recommend in the 2025 Gartner Voice of the Customer report for Supply Chain Planning Solutions.",
+    "tags": ["competitor:logility", "gartner", "klas"]
+  },
+  {
+    "id": "n-2025-11-06-blueyonder-q3",
+    "date": "2025-11-06",
+    "title": "Blue Yonder Releases Q3 2025 Company Highlights and Showcases Q4 2025 Industry Insights",
+    "source": "Business Wire",
+    "url": "https://www.businesswire.com/news/home/20251106168427/en/Blue-Yonder-Releases-Q3-2025-Company-Highlights-and-Showcases-Q4-2025-Industry-Insights",
+    "summary": "Blue Yonder added 24 new customer logos in Q3 2025, including 7-Eleven Philippines, Century Pacific, Catom, Dedeman, Mitchells & Butlers, and Societe Magasin General.",
+    "tags": ["competitor:blue-yonder", "market-trend"]
+  },
+  {
+    "id": "n-2025-09-09-kinaxis-shimadzu",
+    "date": "2025-09-09",
+    "title": "Kinaxis Powers Shimadzu's Supply Chain Advancement for the Modern Manufacturing Era",
+    "source": "Business Wire",
+    "url": "https://www.businesswire.com/news/home/20250909728801/en/Kinaxis-Powers-Shimadzus-Supply-Chain-Advancement-for-the-Modern-Manufacturing-Era",
+    "summary": "Precision instrument maker Shimadzu selected Kinaxis Maestro to simulate trade scenarios and align cross-functional teams amid global tariff and trade volatility.",
+    "tags": ["competitor:kinaxis", "market-trend"]
+  },
+  {
+    "id": "n-2025-08-12-ketteq-landry-qa",
+    "date": "2025-08-12",
+    "title": "Disrupting the Norm: A Q&A with Mike Landry on ketteQ's $20M Series B and What's Next",
+    "source": "ketteQ",
+    "url": "https://www.ketteq.com/blog/disrupting-the-norm-a-q-a-with-mike-landry-on-ketteqs-20m-series-b-and-whats-next",
+    "summary": "ketteQ CEO Mike Landry discusses the company's Series B raise, plans for global expansion, and continued investment in agentic AI and Agentforce-powered planning.",
+    "tags": ["ketteq", "funding"]
+  },
+  {
+    "id": "n-2025-08-05-ketteq-series-b",
+    "date": "2025-08-05",
+    "title": "ketteQ Secures $20M Series B Funding to Scale Global Growth and Continued AI-Powered Supply Chain Planning Innovation",
+    "source": "PR Newswire",
+    "url": "https://www.prnewswire.com/news-releases/ketteq-secures-20m-series-b-funding-to-scale-global-growth-and-continued-ai-powered-supply-chain-planning-innovation-302521962.html",
+    "summary": "ketteQ announced a $20 million Series B led by Vocap Partners, with the company citing Coca-Cola, Carrier, Johnson Controls, NCR Voyix, and Alliance Consumer Group among the companies it is trusted by.",
+    "tags": ["ketteq", "funding"]
+  },
+  {
+    "id": "n-2025-05-16-oracle-mq",
+    "date": "2025-05-16",
+    "title": "Oracle Once Again Named a Leader in Gartner Magic Quadrant for Supply Chain Planning Solutions",
+    "source": "Oracle",
+    "url": "https://www.oracle.com/news/announcement/oracle-once-again-named-a-leader-in-2025-gartner-magic-quadrant-for-supply-chain-planning-solutions-2025-05-16/",
+    "summary": "Oracle was again positioned as a Leader in Gartner's Magic Quadrant for Supply Chain Planning Solutions, underscoring continued competition among ERP-embedded and best-of-breed vendors.",
+    "tags": ["market-trend", "gartner"]
+  },
+  {
+    "id": "n-2025-05-05-etex-anaplan",
+    "date": "2025-05-05",
+    "title": "Etex Selects Anaplan's Scenario Planning and Analysis Platform",
+    "source": "Anaplan",
+    "url": "https://www.anaplan.com/news/etex-selects-anaplan/",
+    "summary": "Global building materials manufacturer Etex selected Anaplan to run supply chain, finance, and commercial planning for its fiber cement business.",
+    "tags": ["competitor:anaplan", "market-trend"]
+  },
+  {
+    "id": "n-2025-01-23-logility-2024",
+    "date": "2025-01-23",
+    "title": "Logility Celebrates 2024 Achievements and Unveils 2025 Innovations",
+    "source": "Business Wire",
+    "url": "https://www.businesswire.com/news/home/20250123315162/en/Logility-Celebrates-2024-Achievements-and-Unveils-2025-Innovations",
+    "summary": "Logility recapped 2024 wins and previewed 2025 product innovation, including expanded generative and agentic AI capabilities across its planning suite.",
+    "tags": ["competitor:logility", "market-trend"]
+  }
+]

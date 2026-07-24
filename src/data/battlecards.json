@@ -1,0 +1,230 @@
+[
+  {
+    "id": "bc-kinaxis",
+    "competitorId": "kinaxis",
+    "summary": "Win on speed-to-value, Salesforce-native commercial data, and lower-risk deployment \u2014 not on trying to out-concurrent their concurrency engine.",
+    "whereWeWin": [
+      "Salesforce-native platform means CRM opportunities, orders, and account data are first-class planning inputs \u2014 no separate integration project to see commercial signal",
+      "PolymatiQ agentic AI can be deployed as an overlay on an existing Kinaxis footprint to accelerate specific decisions without a rip-and-replace program",
+      "Materially faster implementation timelines than a multi-year concurrent-planning rollout",
+      "AWS-hosted elastic solver scales cost with usage rather than requiring big up-front infrastructure commitments"
+    ],
+    "whereTheyWin": [
+      "Deeper, more mature concurrency / what-if simulation at extreme enterprise network scale",
+      "Longer enterprise track record and larger reference base in aerospace/defense, high-tech, and life sciences",
+      "Public-company scale and balance sheet reassurance for the largest, most risk-averse buyers"
+    ],
+    "objections": [
+      {
+        "objection": "We already have Kinaxis \u2014 why would we add another planning tool?",
+        "response": "This usually isn't a replace conversation. ketteQ's PolymatiQ agents can sit on top of the existing Kinaxis environment to unlock specific decisions faster \u2014 especially ones that depend on Salesforce commercial data Kinaxis doesn't natively see \u2014 without disrupting the core deployment."
+      },
+      {
+        "objection": "Kinaxis's concurrency engine is the gold standard \u2014 can ketteQ really compete there?",
+        "response": "We're not claiming to out-simulate Kinaxis at extreme network complexity. We win on time-to-value, Salesforce-native commercial visibility, and lower implementation risk for teams that don't need (or can't afford the time/cost of) a full concurrent-planning re-platform."
+      }
+    ],
+    "landmines": [
+      "Ask how long their original Kinaxis implementation took from contract to go-live, and how long the last major configuration change took.",
+      "Ask whether sales/CRM data (pipeline, forecasts, account plans) flows into planning today, or whether it's a manual, after-the-fact reconciliation.",
+      "Ask what it would cost \u2014 in time and consulting spend \u2014 to stand up a comparable capability today from scratch."
+    ],
+    "proofPoints": [
+      "Carrier expanded ketteQ's use across 20 of its brands and planning teams globally",
+      "Documented case: 50% improvement in planner allocation productivity within six months",
+      "Salesforce-native UX with AWS-hosted PolymatiQ solver for elastic, usage-based compute",
+      "Publicly named reference customers: Coca-Cola, Carrier, Johnson Controls, NCR Voyix, and Alliance Consumer Group (ketteQ Series B announcement, Aug 2025)"
+    ],
+    "sourceConfidence": "illustrative"
+  },
+  {
+    "id": "bc-o9-solutions",
+    "competitorId": "o9-solutions",
+    "summary": "Win on faster time-to-value and CRM-native commercial data versus a large, SI-dependent platform transformation.",
+    "whereWeWin": [
+      "Deployable in weeks/months rather than the multi-year, SI-led transformation programs o9's \"Digital Brain\" rollouts are known for",
+      "Salesforce-native means commercial/opportunity data is already inside the planning platform, not a custom integration into a graph data model",
+      "Lower dependency on large systems-integrator partners to configure and maintain the platform",
+      "PolymatiQ agents can run on top of an existing o9 investment to speed specific decisions rather than compete for the whole platform budget"
+    ],
+    "whereTheyWin": [
+      "More mature graph-based data model for extremely complex, cross-functional enterprise planning",
+      "Broader SI partner ecosystem (EY, Genpact, valantic) for large global rollouts",
+      "Stronger brand recognition in large-enterprise IBP RFPs today"
+    ],
+    "objections": [
+      {
+        "objection": "We're already mid-transformation on o9 \u2014 why introduce ketteQ now?",
+        "response": "Large o9 transformations often take years to reach full value. ketteQ can sit alongside that program and use PolymatiQ agents to solve specific, high-value decisions now \u2014 particularly ones that depend on Salesforce commercial data \u2014 while the broader transformation continues."
+      },
+      {
+        "objection": "o9's graph data model handles more complexity than ketteQ.",
+        "response": "For the most complex, cross-functional strategic planning, that may be true. But most planning decisions don't need that scale of complexity \u2014 they need speed and access to commercial data. That's where we win, and at a fraction of the time-to-value."
+      }
+    ],
+    "landmines": [
+      "Ask how far into their o9 rollout they are, and when they expect to see full ROI.",
+      "Ask how many SI consultants are staffed on the program today and at what run-rate cost.",
+      "Ask whether sales/CRM signal reaches the planning model today or only after a manual export/import cycle."
+    ],
+    "proofPoints": [
+      "Materially faster time-to-value than large SI-led platform transformations",
+      "Salesforce-native architecture eliminates a common integration bottleneck for commercial data",
+      "PolymatiQ agentic AI can augment an existing o9 investment rather than requiring full replacement",
+      "Publicly named reference customers: Coca-Cola, Carrier, Johnson Controls, NCR Voyix, and Alliance Consumer Group (ketteQ Series B announcement, Aug 2025)"
+    ],
+    "sourceConfidence": "illustrative"
+  },
+  {
+    "id": "bc-blue-yonder",
+    "competitorId": "blue-yonder",
+    "summary": "Win on planning-specific focus and speed versus a very large, execution-heavy suite where planning is one of many priorities.",
+    "whereWeWin": [
+      "Purpose-built planning focus rather than one module inside a sprawling plan-to-execute suite",
+      "Salesforce-native commercial data as a first-class planning input, not a downstream integration",
+      "Faster, lower-risk deployment than a broad Luminate suite rollout",
+      "PolymatiQ agents can layer on top of an existing Blue Yonder deployment to accelerate specific planning decisions"
+    ],
+    "whereTheyWin": [
+      "Single-vendor breadth from planning through warehouse and transportation execution",
+      "Very large existing retail, CPG, and manufacturing installed base",
+      "Panasonic-backed scale and continued new-logo momentum"
+    ],
+    "objections": [
+      {
+        "objection": "Blue Yonder already covers planning through execution \u2014 why add another vendor?",
+        "response": "That breadth is real, but planning is one of many priorities inside a very large suite. ketteQ focuses specifically on adaptive planning and can integrate with existing execution systems (including Blue Yonder's) rather than asking you to re-platform everything."
+      },
+      {
+        "objection": "We just signed/renewed with Blue Yonder \u2014 the timing is wrong.",
+        "response": "Understood \u2014 this isn't necessarily a replacement conversation. Ask what planning decisions are still slow or manual today despite the suite investment; that's usually where a focused, Salesforce-native overlay adds the fastest incremental value."
+      }
+    ],
+    "landmines": [
+      "Ask how planning-specific enhancements get prioritized against warehouse/transportation execution priorities in Blue Yonder's roadmap.",
+      "Ask how long their last major planning configuration change took to roll out.",
+      "Ask whether commercial/CRM data is a native input to planning today or requires a separate integration."
+    ],
+    "proofPoints": [
+      "Purpose-built adaptive planning platform, not a module inside a broader execution suite",
+      "Salesforce-native UX unifies commercial and planning data without a custom integration project",
+      "PolymatiQ agentic AI deployable as a fast-moving layer on top of existing execution systems",
+      "Publicly named reference customers: Coca-Cola, Carrier, Johnson Controls, NCR Voyix, and Alliance Consumer Group (ketteQ Series B announcement, Aug 2025)"
+    ],
+    "sourceConfidence": "illustrative"
+  },
+  {
+    "id": "bc-sap-ibp",
+    "competitorId": "sap-ibp",
+    "summary": "Win on speed, modern AI-native architecture, and Salesforce-native commercial visibility versus the safe-but-slow SAP-standardization default.",
+    "whereWeWin": [
+      "Modern, Salesforce-native and AWS-hosted architecture versus a heavier, more configuration-intensive ERP-embedded suite",
+      "PolymatiQ agentic AI can run as an augmentation layer on top of an existing SAP landscape (ECC or S/4HANA) without a disruptive re-platform",
+      "Commercial/CRM signal (pipeline, orders, account plans) is native to the platform, not something bolted on after SAP go-live",
+      "Faster configuration and time-to-value for planning-specific use cases"
+    ],
+    "whereTheyWin": [
+      "Native fit and lowest perceived risk for organizations already fully standardized on SAP S/4HANA",
+      "Deep bench of SAP implementation partners and existing SAP skill sets on staff",
+      "Bundling leverage inside broader SAP enterprise agreements"
+    ],
+    "objections": [
+      {
+        "objection": "We're an SAP shop \u2014 SAP IBP is the safe, default choice.",
+        "response": "Standardizing on SAP ERP doesn't have to mean settling for SAP's planning capability. ketteQ deploys as an overlay on your existing SAP landscape, adding modern AI-driven planning and native Salesforce commercial visibility without disrupting your S/4HANA investment."
+      },
+      {
+        "objection": "Our IT team only wants to manage one SAP-standard toolchain.",
+        "response": "That's a fair operational concern \u2014 walk through the integration model and support burden concretely, and compare it to the cost of staying with planning capability gaps SAP IBP is commonly critiqued for versus best-of-breed and AI-native specialists."
+      }
+    ],
+    "landmines": [
+      "Ask how satisfied planners actually are with SAP IBP's configuration effort and time-to-change today.",
+      "Ask whether sales/CRM data reaches the planning process today, or only ERP-side transactional history.",
+      "Ask how planning-specific investment competes for roadmap priority against the rest of the SAP portfolio."
+    ],
+    "proofPoints": [
+      "PolymatiQ agentic AI deployable directly on top of SAP ECC or S/4HANA landscapes",
+      "Salesforce-native commercial data as a first-class planning input",
+      "Documented case: 15% reduction in S&OP cycle time and 20% improvement in forecast accuracy",
+      "Publicly named reference customers: Coca-Cola, Carrier, Johnson Controls, NCR Voyix, and Alliance Consumer Group (ketteQ Series B announcement, Aug 2025)"
+    ],
+    "sourceConfidence": "illustrative"
+  },
+  {
+    "id": "bc-anaplan",
+    "competitorId": "anaplan",
+    "summary": "Win on purpose-built planning logic and speed versus a flexible-but-generic, build-your-own-model platform.",
+    "whereWeWin": [
+      "Purpose-built supply chain planning logic out of the box \u2014 no need to hand-model demand, supply, and allocation logic in a general-purpose calc engine",
+      "Salesforce-native architecture already unifies commercial and planning data; Anaplan requires custom modeling to connect CRM data",
+      "PolymatiQ agentic AI automates planning decisions rather than requiring planners to maintain complex custom models",
+      "Faster time-to-value since core planning processes are pre-built, not modeled from scratch"
+    ],
+    "whereTheyWin": [
+      "Extreme flexibility \u2014 can be shaped to almost any planning process, not just supply chain",
+      "Existing FP&A footprint that some buyers want to extend into supply chain on one platform",
+      "Large, mature partner ecosystem for custom model-building"
+    ],
+    "objections": [
+      {
+        "objection": "We already use Anaplan for FP&A \u2014 we want one platform end-to-end.",
+        "response": "That's a reasonable instinct for finance planning, but supply chain planning logic (demand shaping, allocation, concurrency) is deep, specialized work that has to be custom-modeled in Anaplan. ketteQ brings that logic pre-built and Salesforce-native, and can still integrate with your Anaplan FP&A models for financial roll-up."
+      },
+      {
+        "objection": "Our Anaplan modelers can build whatever we need.",
+        "response": "They likely can \u2014 the question is how long it takes and how much ongoing maintenance it requires as your business changes. Ask what the model build and upkeep has cost so far, and compare that to a platform where the planning logic is already built."
+      }
+    ],
+    "landmines": [
+      "Ask how much internal or contracted Anaplan modeling expertise is required to maintain the current supply chain model.",
+      "Ask how long it took to build the current supply/demand planning model, and how long the last major change took.",
+      "Ask whether commercial/CRM data flows into the planning model natively or via custom integration."
+    ],
+    "proofPoints": [
+      "Purpose-built demand, supply, inventory, and allocation logic \u2014 not a custom-modeled calc engine",
+      "Salesforce-native platform unifies CRM and planning without custom model-building",
+      "PolymatiQ agentic AI automates decisions instead of requiring ongoing manual model maintenance",
+      "Publicly named reference customers: Coca-Cola, Carrier, Johnson Controls, NCR Voyix, and Alliance Consumer Group (ketteQ Series B announcement, Aug 2025)"
+    ],
+    "sourceConfidence": "illustrative"
+  },
+  {
+    "id": "bc-logility",
+    "competitorId": "logility",
+    "summary": "Win on Salesforce-native commercial data and unified CRM + planning versus a well-regarded but CRM-separate planning specialist.",
+    "whereWeWin": [
+      "Salesforce-native platform unifies CRM, order, and account data with planning \u2014 Logility integrates commercial data separately",
+      "PolymatiQ agentic AI spans planning and CRM-linked commercial workflows in one platform",
+      "AWS-hosted elastic solver architecture built specifically for agentic, AI-first planning",
+      "Faster path to a unified 360-degree view of past orders, current inventory/capacity, and future pipeline"
+    ],
+    "whereTheyWin": [
+      "Strong, independently validated customer satisfaction (2025 Gartner Voice of the Customer recognition)",
+      "Long supply-chain-planning heritage and purpose-built demand/inventory/S&OP capability",
+      "Backed by Aptean's broader ERP and vertical-software portfolio and go-to-market reach"
+    ],
+    "objections": [
+      {
+        "objection": "Logility just won a major customer-satisfaction award \u2014 why would we look elsewhere?",
+        "response": "That recognition is well-earned and reflects strong core planning capability. Our differentiation isn't about out-planning Logility on demand/inventory basics \u2014 it's Salesforce-native commercial visibility and agentic AI unifying CRM and planning in a single platform, which Logility doesn't natively offer."
+      },
+      {
+        "objection": "We're happy with Logility and don't want to disrupt what's working.",
+        "response": "This doesn't have to be a replacement conversation. Ask whether commercial/CRM signal reaches planning decisions today, or whether that's still a manual, spreadsheet-driven step \u2014 that's usually the clearest opening for a Salesforce-native complement."
+      }
+    ],
+    "landmines": [
+      "Ask how sales pipeline, opportunity, and account data currently reaches the planning process.",
+      "Ask whether planning and CRM data live in separate systems that require manual reconciliation.",
+      "Ask what a unified, real-time view of orders + inventory + capacity + pipeline would be worth to the business."
+    ],
+    "proofPoints": [
+      "Salesforce-native UX with a single, unified view of commercial and planning data",
+      "PolymatiQ agentic AI engine spans CRM-linked and planning workflows",
+      "AWS-hosted solver architecture purpose-built for AI-first adaptive planning",
+      "Publicly named reference customers: Coca-Cola, Carrier, Johnson Controls, NCR Voyix, and Alliance Consumer Group (ketteQ Series B announcement, Aug 2025)"
+    ],
+    "sourceConfidence": "illustrative"
+  }
+]

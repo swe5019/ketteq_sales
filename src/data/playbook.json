@@ -1,0 +1,116 @@
+{
+  "objections": [
+    {
+      "category": "Cost / budget",
+      "objection": "We don't have budget for another planning tool right now.",
+      "response": "Frame ketteQ as an overlay, not a rip-and-replace — it can run on top of the ERP/planning systems already in place (SAP, Oracle, Kinaxis, Blue Yonder, o9, Anaplan, Logility, or homegrown) and target the specific decisions costing the most in stockouts, excess inventory, or planner time today. Offer to model ROI on their own revenue and inventory numbers."
+    },
+    {
+      "category": "Status quo",
+      "objection": "Our planners are managing fine with spreadsheets and our existing ERP today.",
+      "response": "Spreadsheet-based and ERP-native planning scale poorly as SKU count, channel complexity, and promotional activity grow. PolymatiQ automates the scenario work planners are doing manually today, and Salesforce-native commercial data means the plan reflects real pipeline, not just historical orders."
+    },
+    {
+      "category": "Trust / accuracy",
+      "objection": "We're worried about trusting an AI-driven planning engine with real decisions.",
+      "response": "PolymatiQ's recommendations are transparent and auditable — planners review and approve, the system doesn't act unsupervised on high-stakes decisions. Propose a scoped pilot with a clear before/after metric (forecast accuracy, fill rate, planner cycle time) so trust is earned on their own data."
+    },
+    {
+      "category": "Incumbent",
+      "objection": "We're already committed to Kinaxis / o9 / Blue Yonder / SAP IBP / Anaplan / Logility.",
+      "response": "This usually isn't a replacement conversation. ketteQ can layer on top of that investment to accelerate specific decisions — especially ones that depend on Salesforce commercial data the incumbent doesn't natively see. See the relevant battlecard for the specific angle."
+    },
+    {
+      "category": "Integration",
+      "objection": "We're not on Salesforce for CRM — does ketteQ still make sense?",
+      "response": "The Salesforce-native UX is the differentiator, but the AWS-hosted PolymatiQ solver and planning data model integrate with SAP, Oracle, and homegrown systems regardless of CRM. Lead with the planning capability and integration roadmap rather than assuming Salesforce is a hard requirement."
+    },
+    {
+      "category": "Security / governance",
+      "objection": "How do you handle our ERP and commercial data securely?",
+      "response": "Walk through the Salesforce platform's enterprise security model plus AWS-hosted solver security posture. Contrast with the governance risk of planning decisions still happening in ungoverned, single-owner spreadsheets outside any system of record."
+    }
+  ],
+  "discoveryQuestions": [
+    {
+      "theme": "Pain & priority",
+      "questions": [
+        "How much planner time goes into manual scenario analysis or spreadsheet reconciliation every S&OP cycle?",
+        "Where do stockouts, excess inventory, or missed allocation opportunities rank among this year's priorities?",
+        "What's prompting you to look at supply chain planning software now versus 12 months ago?"
+      ]
+    },
+    {
+      "theme": "Current state",
+      "questions": [
+        "What ERP and planning systems are in place today, and how well do they talk to each other?",
+        "Does sales pipeline or CRM data factor into the demand plan today, or is that a separate, manual step?",
+        "How do you measure forecast accuracy and S&OP cycle time today?"
+      ]
+    },
+    {
+      "theme": "Decision process",
+      "questions": [
+        "Who owns this decision on the supply chain / planning side, and who owns it on IT / finance?",
+        "What would a successful pilot need to prove for you to expand it enterprise-wide?",
+        "What's your timeline, and which budget cycle would this fall into?"
+      ]
+    },
+    {
+      "theme": "Competitive",
+      "questions": [
+        "Are you currently running or evaluating Kinaxis, o9, Blue Yonder, SAP IBP, Anaplan, or Logility?",
+        "What would make you choose an overlay/augmentation approach versus a full platform replacement?"
+      ]
+    }
+  ],
+  "roiTalkingPoints": [
+    {
+      "driver": "Planner productivity",
+      "stat": "Meaningful reduction in manual scenario-analysis and allocation work per planner",
+      "note": "One documented case reported a 50% improvement in planner allocation productivity within six months of go-live."
+    },
+    {
+      "driver": "S&OP cycle time",
+      "stat": "Faster consensus planning cycles",
+      "note": "One documented case reported a 15% reduction in S&OP cycle time alongside a 20% improvement in revenue and spend forecast accuracy."
+    },
+    {
+      "driver": "Inventory efficiency",
+      "stat": "Reduced overall inventory while improving fill rates",
+      "note": "Channel-specific demand planning with promotion effects and inventory pooling/allocation can reduce total inventory while protecting service levels — model this on the prospect's own SKU/channel mix."
+    },
+    {
+      "driver": "Forecast accuracy",
+      "stat": "Improved demand forecast accuracy across channels",
+      "note": "Better forecast accuracy compounds into lower safety stock requirements and fewer expedite/premium-freight costs downstream."
+    },
+    {
+      "driver": "Time-to-value",
+      "stat": "Faster implementation than legacy concurrent-planning or platform transformations",
+      "note": "Use this to contrast against multi-year, services-heavy rollouts typical of Kinaxis, o9, and Blue Yonder enterprise deployments."
+    }
+  ],
+  "winStories": [
+    {
+      "setting": "Global HVAC / industrial manufacturer (Carrier)",
+      "story": "Carrier expanded its use of ketteQ's planning platform across 20 of its brands and planning teams worldwide, scaling from an initial deployment into a broad, multi-brand rollout.",
+      "outcome": "Enterprise-wide expansion across 20 brands (publicly referenced ketteQ case study)"
+    },
+    {
+      "setting": "Industrial products manufacturer (Zeus)",
+      "story": "Zeus selected ketteQ to power its supply chain transformation, replacing manual and disconnected planning processes with a unified, Salesforce-native platform.",
+      "outcome": "Selected as supply chain transformation partner (publicly referenced ketteQ case study)"
+    },
+    {
+      "setting": "Canadian packaged beverage & tea company",
+      "story": "Implemented channel-specific demand planning that incorporated promotion effects and inventory pooling/allocation, reducing overall inventory while enhancing fill rates.",
+      "outcome": "Reduced inventory with improved fill rates (publicly referenced ketteQ case study; company name not disclosed in source material)"
+    },
+    {
+      "setting": "Named reference customers (per ketteQ's own Series B announcement)",
+      "story": "ketteQ's August 2025 Series B press release names Coca-Cola, Carrier, Johnson Controls, NCR Voyix, and Alliance Consumer Group among the companies it is trusted by — useful, credible logos to invoke when a prospect asks \"who else uses this?\"",
+      "outcome": "Publicly disclosed reference customer list (source: ketteQ Series B press release, prnewswire.com, Aug 5, 2025)"
+    }
+  ]
+}
