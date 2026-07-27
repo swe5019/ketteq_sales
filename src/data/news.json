@@ -22,18 +22,6 @@
     ]
   },
   {
-    "id": "n-2026-07-24-qc3qp1",
-    "date": "2026-07-24",
-    "title": "Nissin Foods USA adopts AI planning with Blue Yonder",
-    "source": "IT Brief UK",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPanlCc2hBWHZsSHZwQ1k5aDBVWmtiOVF4Y0pyT0VYUGQ5cWNQeFNlVmpqbGJ5c3hrUDRfNmtSQkdNX3g2Sm1laGNSbXAtMjlKbllQOFdlaFU1dWJNM2hZX3F4ZWFIQlUzNTQ3bXlTR3JKNUFPSlhYa0N2LTE0d0NGdEIwVmIteDg?oc=5",
-    "summary": "Nissin Foods USA adopts AI planning with Blue Yonder IT Brief UK",
-    "tags": [
-      "competitor:blue-yonder",
-      "agentic-ai"
-    ]
-  },
-  {
     "id": "n-2026-07-23-1d0ti3x",
     "date": "2026-07-23",
     "title": "o9 Solutions Demonstrates Over 10x Faster Optimization for Enterprise Supply Chain Planning with NVIDIA cuOpt",
@@ -336,6 +324,18 @@
     "summary": "Supply chain leaders stress agility and AI-driven planning at Anaplan Connect Mumbai 2026 ET Edge Insights",
     "tags": [
       "competitor:anaplan",
+      "agentic-ai"
+    ]
+  },
+  {
+    "id": "n-2026-06-19-8v0j7l",
+    "date": "2026-06-19",
+    "title": "Kinaxis strengthens India play as enterprises adopt AI for supply chain resilience",
+    "source": "ET Manufacturing",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPeEM1cDBsUFlTYXY3ckRCSm5FVEMwc0RJdkJlRzNXQV8xNHJHVTRTRVBzVElsRVN5Q09UOFo5MGMteVdZb0pWZ19LMjdlNExtTGhqaTBpaFI3aEdvT2liX2otQ1dZbTl2LVNaS3JqNUxjLU9mMm5TNkcxMmpHMUlhdk9hYnZYMHBIZkh3VzJ3QlF1dFJyZ3FGY0twOXJKYzY5Y1FRenkyMUQ5MHNRNXo2SUxEdnlqcXJCaW5hcl9OU1JyQ3lTd3libVhXc0lDbWlOTUhWeXFlcEoxN2dIZW1kY09tSXNDUVBLRzNYZ1FR0gHzAUFVX3lxTE5BVlJRLUoyV1c2czJXV0dIb1I3TXk3dEEwaldHWWdmM2dsZEV2Z2pZVkpDM0NOaTlFSkFOTl9peF9qUldiVC1NM2VGeXhnenBVajZVaGh1QVRpZWJfdzRDdHFyXzVsaWJlRV81YjVtY1c1amI2VExYRGROaWtPVUJuNndpUXFxSFBLa1pTdzlYYU4xeVRVV0RnZFQ0Z3Nrd0ZNamVVUjB4QjRDZVhTMXVGd3hteGhScXJtOEV1dWJHX0FueXUwTVduZm1HNVpsVWIzNGJ1SjhpeHhoTkJNenhFRGxkQTFMS2szQ1lsWU5jZ3llWQ?oc=5",
+    "summary": "Kinaxis strengthens India play as enterprises adopt AI for supply chain resilience ET Manufacturing",
+    "tags": [
+      "competitor:kinaxis",
       "agentic-ai"
     ]
   }
