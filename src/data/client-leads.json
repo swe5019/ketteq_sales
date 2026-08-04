@@ -16,9 +16,9 @@
     "competitorId": "kinaxis",
     "competitorName": "Kinaxis Maestro",
     "title": "Scotts Miracle-Gro widens tech partnership for supply chain AI",
-    "source": "supplychaindive.com",
+    "source": "Supply Chain Dive",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN0RJYXdpSnBNdk1jQnliRGtmcEhsYS1hZVFqREhKVjhGSExCTlNBa0oxdlFfNko5NDNRMmZNTnFvZGFVMDEtVGRBbVM2bnhzelhtYzJCUS1qVElQX1liWnJiaGVGREsweVRUbDRZbVRTSnBZQ0dzcW10Tjd5Y21nd2V1ajgxY2h5dEs2RlcxSGwzOE9tUW5tWnN2VzUweFpkdkJmSFd5ZzVXeVU?oc=5",
-    "summary": "Scotts Miracle-Gro widens tech partnership for supply chain AI supplychaindive.com",
+    "summary": "Scotts Miracle-Gro widens tech partnership for supply chain AI Supply Chain Dive",
     "status": "unverified"
   },
   {
@@ -66,17 +66,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2025-11-14-rv5wym",
-    "date": "2025-11-14",
-    "competitorId": "anaplan",
-    "competitorName": "Anaplan Supply Chain Planning",
-    "title": "CSCO Insights: Choosing Your Supply Chain Technology Partner",
-    "source": "Supply Chain Digital",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUmwxaVI3OFcxZloxMVN1TncxLVlKVDdqanE3UFJDM1ZqdV96dWsxTk9wSmszLXNuWTlOYllmUUtUWThkR1NZdE1LdnludFUyWkRTbFpZSnh1WXZOeEtSeHJXdjc1X3dzWkgxREU0dVRqdGtYRndxYjRyQURVcHpjY2s4aU43U2czSzEzOW9iSktycVJOLUEtMzFUSQ?oc=5",
-    "summary": "CSCO Insights: Choosing Your Supply Chain Technology Partner Supply Chain Digital",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2025-09-25-65tt53",
     "date": "2025-09-25",
     "competitorId": "blue-yonder",
@@ -110,6 +99,17 @@
     "status": "unverified"
   },
   {
+    "id": "lead-2025-04-08-1pog7i1",
+    "date": "2025-04-08",
+    "competitorId": "blue-yonder",
+    "competitorName": "Blue Yonder Luminate Planning",
+    "title": "Mathis Home rolls out inventory management, forecasting upgrade",
+    "source": "Supply Chain Dive",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcG5Ydkl5XzlrVEFxeEl2TmlVa0FwVXpZVnZnNktJcTdfb25IaktRcGEyZFR4eENyMWJsTm1uOTFRTUg2U3RJZ1FoWkdYX1Q3WXZXZjN4bFRNTlZXOERZTklCN1ZlN0RfV2JseDRKVDJNNkdndzRvMGl2eXpvVzYxU3I2eFJpVVVrWmNmUFV2TDZROUk3YnZWcDdQV0RPQ0x6dUNr?oc=5",
+    "summary": "Mathis Home rolls out inventory management, forecasting upgrade Supply Chain Dive",
+    "status": "unverified"
+  },
+  {
     "id": "lead-2025-04-02-1vyo971",
     "date": "2025-04-02",
     "competitorId": "kinaxis",
@@ -132,14 +132,14 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2025-02-18-42fbu4",
+    "id": "lead-2025-02-18-7qyrm0",
     "date": "2025-02-18",
     "competitorId": "blue-yonder",
     "competitorName": "Blue Yonder Luminate Planning",
-    "title": "Rhenus Warehousing Solutions and Blue Yonder Partner for Global Standardization",
-    "source": "logistics-manager.com",
+    "title": "Rhenus Warehousing Solutions and Blue Yonder Partner for Global Standardization - LM",
+    "source": "LM - Logistics Manager",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZm5FSGRxcEVSLVRHam0yT1ZOZmtxbmtSbE1BYm16SGZnYWN5YVAzWldhb1lwenZvdk92NXlhV0JxRDUwX191Q2R3akdEeVFCT0F4SS1HWU1QQlY2VGVyT0JKcDZ6ZmcyODVIaW0wc3hBalJUTzlOdGx4bmFJV3FVWXNoTkN5MndOMUJjVTN6cU1Gb0I4NVljOEF2VEVYMVVMMkxlbjJkNG5DU2x6SkxJ?oc=5",
-    "summary": "Rhenus Warehousing Solutions and Blue Yonder Partner for Global Standardization logistics-manager.com",
+    "summary": "Rhenus Warehousing Solutions and Blue Yonder Partner for Global Standardization LM - Logistics Manager",
     "status": "unverified"
   },
   {
@@ -242,6 +242,17 @@
     "status": "unverified"
   },
   {
+    "id": "lead-2024-03-18-okmxwk",
+    "date": "2024-03-18",
+    "competitorId": "kinaxis",
+    "competitorName": "Kinaxis Maestro",
+    "title": "Watch: Castlery & Kinaxis: A Data Analytics Partnership",
+    "source": "Supply Chain Brain",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeU9EQWpPZDA0MDRsdXZTU1hDR25RUkNmenhXWlktU1haQlBhcWcyRnhjWVhscTFCR2NHSUxTZHhoZjZCSzZKU1Q2M3FLS2dPb2UwbkN0OC1iZFc3c29OSjBoU05qdWZNZ1N5b0F5RDFXbi0wS1pSSGp6Q1MyMEN1OVNVMG50WU84YkpiMFB2Y29WdDVwaEJ0YU4wb1c4TzJiNmoxTnVleHFIZ184a0hlZTNheDNqZnU2c1hN?oc=5",
+    "summary": "Watch: Castlery & Kinaxis: A Data Analytics Partnership Supply Chain Brain",
+    "status": "unverified"
+  },
+  {
     "id": "lead-2024-01-31-14t9uih",
     "date": "2024-01-31",
     "competitorId": "blue-yonder",
@@ -280,9 +291,9 @@
     "competitorId": "sap-ibp",
     "competitorName": "SAP Integrated Business Planning",
     "title": "Accenture Expands Partnership with SAP to Help Clients Establish Responsible and Resilient Supply Chains",
-    "source": "newsroom.accenture.com",
+    "source": "Accenture",
     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNV2RWcWZOYjh6elNZSUQzUVFDZ3dfeHJQY1B1eXJYTERKb0hGOWRfcDltZlBGQlZYQjVzVjRoZ0QxSW8ybmN2MW43cng0aGdGQ2tZZnZ2LURHSUZlcEFESnJ3cExpZjJmcUtpUHZTZmNnQ2FNdnl4aHVxSGFpVm9GaTBrNmtIR0R3S09Nd1d4dEZBNU5pS1JpaEkyYXdrZkh4VGgydXZOZXJpdC1CYjYzbGY1NjFkZEdpZjZHbjEtczlyNWNuUW53cXJGU1BoVF9KN0ExQWcwUVQwamJOcmc?oc=5",
-    "summary": "Accenture Expands Partnership with SAP to Help Clients Establish Responsible and Resilient Supply Chains newsroom.accenture.com",
+    "summary": "Accenture Expands Partnership with SAP to Help Clients Establish Responsible and Resilient Supply Chains Accenture",
     "status": "unverified"
   },
   {
@@ -313,9 +324,9 @@
     "competitorId": "kinaxis",
     "competitorName": "Kinaxis Maestro",
     "title": "Subaru expands partnership with Kinaxis to improve forecasting",
-    "source": "Automotive Logistics",
+    "source": "automotivelogistics.media",
     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQX2NQcGlTS0JibEwxRGhmSDRkS0pmYmZnbnY1NnUyZHJiZm11N1Q3OVhkZzdFTVlUbWZtZWtEeGRIYnhXMUx1ckhLMzR2MUllZlRkZkdnX3dFRk9DSUNHZHdJRTlkTEZ0ZmJKaVpyYkh6SXJIRUpwZ0I2OXJWczdtRldDRWpxQ2FBT1B4Q2Z6bUNUekFDOUJ5cXhHWlUxVGJDTTREeENFU0J3TDl1SjZrNGZkY0E0Ni0xSVkteGVzeWlhWmR6UDJrSVlSajRYc202Y3JuU0U2ZnNjS3NoREs5Mmp6dmNzUEU?oc=5",
-    "summary": "Subaru expands partnership with Kinaxis to improve forecasting Automotive Logistics",
+    "summary": "Subaru expands partnership with Kinaxis to improve forecasting automotivelogistics.media",
     "status": "unverified"
   },
   {
@@ -390,9 +401,9 @@
     "competitorId": "blue-yonder",
     "competitorName": "Blue Yonder Luminate Planning",
     "title": "TCL Selects Blue Yonder and Accenture to Transform Supply Chain Planning Capabilities",
-    "source": "newsroom.accenture.com",
+    "source": "Accenture",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRlV4X3NrWjFmMkdBai0wVmg1Z09sMExib2p5ZE9hczZ2ck5HSGl5YkFzNHVvZEZRZGp0TnBQS3FpYzltS3REc0RZVE9KLXhyOXktbXROR0dOM24zWjBRSmVfUDlVUkZzWHRLTjlWZ0NKSzJJWldGdGdaQ2ZOVVZTcjhaUE5mbi1JcGJ2UmN0WU1maUpNX3l3MkpfWE9aZjkySlNOY3RqRHgwWHFHTURyOW9ZRUhYSXprWUF3c1c3QlQxdTVz?oc=5",
-    "summary": "TCL Selects Blue Yonder and Accenture to Transform Supply Chain Planning Capabilities newsroom.accenture.com",
+    "summary": "TCL Selects Blue Yonder and Accenture to Transform Supply Chain Planning Capabilities Accenture",
     "status": "unverified"
   },
   {
@@ -404,6 +415,17 @@
     "source": "Business Wire",
     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMHk3c2lLQUN0dThzQnpMeXBTbFFHUXN4OE1FOU9UVEFCYkxXVlJfcHRMWFhLaDVxazNXdVdIZ0NTRVFLYWJVeWlzWkxQNkhxN2JyRVBoeHVJSTEwWnpheHZRMUFqT1EzR045UlZ2c28taldpR3VNdmFMYVFiaklRUlBOSUE1WEtpMnZFUENFdFUyNG8xcXZ6NGRCWmx3dnJYYVB0UkpRbjFpckdob3FvUTJuYk1QLU4yVGZJYmV1S3A1YjVqei1oY3JVS01tZndaemxtQ0tocw?oc=5",
     "summary": "Honda Trading Asia Co., Ltd. Selects Blue Yonder to Digitally Transform Supply Chain Business Wire",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2022-04-29-9vtl6",
+    "date": "2022-04-29",
+    "competitorId": "kinaxis",
+    "competitorName": "Kinaxis Maestro",
+    "title": "Kinaxis, TraceLink partner on supply chain planning",
+    "source": "TechTarget",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMmhTX3JRNlZTT2hOXzVWdXUyM1U0cy00WW1XTDllTEgwZVppdExvbjd6TmVNaGYtUUlUX0xaem9vTVkzQmd1cUNrWDJXNTBNaFpaeVI1ckU4bGtoZjZIU2xHeTlhMjhuRVFQMVE3ckNFZ182MnE5emNGdVNyRHQ1WU1BTng0WGNLcHRvWDJRUmVkZ05TenFZa1RGZWk5NE0yUVlwcg?oc=5",
+    "summary": "Kinaxis, TraceLink partner on supply chain planning TechTarget",
     "status": "unverified"
   },
   {
@@ -423,9 +445,20 @@
     "competitorId": "o9-solutions",
     "competitorName": "o9 Digital Brain",
     "title": "Improving the supply chain as UST and o9 Solutions partner",
-    "source": "Technology Magazine",
+    "source": "technologymagazine.com",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ0g3VzhELWhTZXZtdmFQTXloekJ0YUo1bW50VzZXVG4zbVUzeFZYVGcyT3dHaW9yM1ZRQjk1ZmppZDBJOXpQRWtaWmhUZURqdURYU0FYb1AzSjNDSXFmbDRQSFJqTEwxZGxkZGkzU285QlA0UWo5OE1zVmxxRVlKYnRQUFhWUHhXdG50Sld6WFVROW9KcGwwdVM1U3ZoTUdYb2lxT1JHTzFrS0NnX2tockRHZw?oc=5",
-    "summary": "Improving the supply chain as UST and o9 Solutions partner Technology Magazine",
+    "summary": "Improving the supply chain as UST and o9 Solutions partner technologymagazine.com",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2021-10-06-1p34u3c",
+    "date": "2021-10-06",
+    "competitorId": "kinaxis",
+    "competitorName": "Kinaxis Maestro",
+    "title": "How Schneider Electric is adopting autonomous supply chain planning with Kinaxis",
+    "source": "Diginomica",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYzR5akdCZnExaFhGbGFJZnZ4YmVkdUdZTmkwc2s1LXVZWXZiTU5hZnF2ZmItY0FxWlNEcGVlQnFIdU1iY2gwWlRMel9ITmdzSllnRjBPVWdqblN1Q2pfZzFZNWZKcjBQYV9yUk5XYjh0c2JxRnl4d3hqSWdDaHpVTW5yeFdSOVhtMTNUS09ubG1KUDJYVWtGemo4cw?oc=5",
+    "summary": "How Schneider Electric is adopting autonomous supply chain planning with Kinaxis Diginomica",
     "status": "unverified"
   },
   {
