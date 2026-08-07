@@ -1,17 +1,5 @@
 [
   {
-    "id": "n-2026-08-06-8kyllp",
-    "date": "2026-08-06",
-    "title": "Earnings call transcript: Kinaxis tops Q2 2026 estimates and raises outlook",
-    "source": "Investing.com",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeXdsNldLSjNJUTFGekRGQ3JMMWFWZ0JqaVRNWFpKZ3N3dV92eEo4WUNXRHBoRXIwODloVHcwcDQ3NkotOHNadGpCTDYtMXFuWDdQS01ZTVNKV1dTcXZ6Tzc2S2NWN0RmTGJxaDBHY1BnQ1lTWmNPdS1PQks4ZUFNWGluRXp2ZV9IZWpVSEhXY2VXNFpIWUpqVndDekd5Q2FwLWxVNmJjMENnc2lPcmhKakxqU29id1BaNGFmOEljalBwSHN4dUVwa2JSQi05d0xDN3JHcg?oc=5",
-    "summary": "Earnings call transcript: Kinaxis tops Q2 2026 estimates and raises outlook Investing.com",
-    "tags": [
-      "competitor:kinaxis",
-      "funding"
-    ]
-  },
-  {
     "id": "n-2026-08-06-1fk68w0",
     "date": "2026-08-06",
     "title": "Kinaxis (TSX:KXS) Results Spotlight Growing AI Planning Demand",
@@ -276,9 +264,9 @@
     "id": "n-2026-07-20-1c6nx9t",
     "date": "2026-07-20",
     "title": "o9 Solutions: Interview With CTO Dr. Ashwin Rao About The Supply Chain Optimization Company",
-    "source": "Pulse 2.0",
+    "source": "pulse2.com",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYYUE1S09pWDFLbnAxdGtOemJNMndMWkFWbDRhbHZiUEQzX0w3cENJTzNnb05TYmMtOVUzcW1lYTlJME9GbTZSVGpUMnRPU09rdnR5dlNkOTFRa25rUmM2cWgtdjZmVzNEdkJ6QVhzY3Q5QdIBd0FVX3lxTFBZQnFndThKbEwzdnMyOTIxQl9VY011b0FXeE5TMG40V21pQ3lIcEVwQ1F3bi1sVVdMQlpOLXp1OXowa3FFZGkyeV9LODNGRDlyNG9ZMVlCeDRuUWMwQjBzclRhZThIWHhZMGlGN1JNRm8wZVhkUFZn?oc=5",
-    "summary": "o9 Solutions: Interview With CTO Dr. Ashwin Rao About The Supply Chain Optimization Company Pulse 2.0",
+    "summary": "o9 Solutions: Interview With CTO Dr. Ashwin Rao About The Supply Chain Optimization Company pulse2.com",
     "tags": [
       "competitor:o9-solutions"
     ]
@@ -336,6 +324,17 @@
     "summary": "Kinaxis Inc. to Host Second Quarter 2026 Financial Results Conference Call on August 6, 2026 Business Wire",
     "tags": [
       "competitor:kinaxis"
+    ]
+  },
+  {
+    "id": "n-2026-07-10-7xd6hd",
+    "date": "2026-07-10",
+    "title": "PwC as a Leader in 2026 Gartner® Magic Quadrant™ for Supply Chain Strategy, Planning and Operations Consulting",
+    "source": "PwC",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObFRNeGdHVjQ0eTRDWE11U3pPUjNZMlZGX1c0Z2RuOGNVczdxNjI0d0tiNFBrR2hhVS02X0VwLW5seXdNXzVja3FOSGZCSlBHUGJVN1Q1bHkzbXhPckFOakFpRE9GY1ZIclYwM2FqZVhMRHAtLXVoMGx2bXdXSWlWSkZzTm0xTENjajZOeTJvaUJjR09DMUdXVWxJNDdsOUU?oc=5",
+    "summary": "PwC as a Leader in 2026 Gartner® Magic Quadrant™ for Supply Chain Strategy, Planning and Operations Consulting PwC",
+    "tags": [
+      "gartner"
     ]
   }
 ]
