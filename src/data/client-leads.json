@@ -121,17 +121,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2025-04-16-n0kd74",
-    "date": "2025-04-16",
-    "competitorId": "o9-solutions",
-    "competitorName": "o9 Digital Brain",
-    "title": "DS Group Partner with o9 for Supply Chain Planning",
-    "source": "SMEStreet",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM1FxdFRCSGR5MmhuSmwyRU5MMG1IRWpuR0FORFY0SDFQNGhXbEJIc2lzSWptcnF0ZFRkZEk5M2d6dEFyMkN3emVuREVvcy11bHNhOEM0a3dCVkdreGFZZndSVEphazAtV3RDMXpmOW95aV8wWjRaM3dzckVTME1PRWJfbTBuQl9GZl8xM2JHQndhREot0gGUAUFVX3lxTE4zUXF0VEJIZHkyaG5KbDJFTkwwbUhFam5HQU5EVjRIMVA0aFdsQkhzaXNJam1ycXRkVGRkSTkzZ3p0QXIyQ3d6ZW5ERW9zLXVsc2E4QzRrd0JWR2t4YVlmd1JUSmFrMC1XdEMxemY5b3lpXzBaNFozd3NyRVMwTU9FYl9tMG5CX0ZmXzEzYkdCd2FESi0?oc=5",
-    "summary": "DS Group Partner with o9 for Supply Chain Planning SMEStreet",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2025-04-02-1vyo971",
     "date": "2025-04-02",
     "competitorId": "kinaxis",
@@ -313,9 +302,9 @@
     "competitorId": "blue-yonder",
     "competitorName": "Blue Yonder Luminate Planning",
     "title": "Birla Carbon adopts Blue Yonder supply chain solution",
-    "source": "Tyrepress",
+    "source": "tyrepress.com",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdUlEcnRHWW9PZHRtUlVKclFVNmNqLTJwclQ1SG84eW91cXZ4cjJUZDMybzZaZ0c4TGNRdlI3c3JnX2FmSlFucGxiczdTS3dnNXFJR1ZyYlFBeUJoUzVCYWlNVk5Uc0xpR3BDN2JmY056eVJKZ2t3QllhcU85TXpucXZDWDV4dVdGM3FuMzI2V3VKUQ?oc=5",
-    "summary": "Birla Carbon adopts Blue Yonder supply chain solution Tyrepress",
+    "summary": "Birla Carbon adopts Blue Yonder supply chain solution tyrepress.com",
     "status": "unverified"
   },
   {
@@ -324,9 +313,9 @@
     "competitorId": "o9-solutions",
     "competitorName": "o9 Digital Brain",
     "title": "WS Audiology Selects AI Platform to Enhance Supply Chain Planning",
-    "source": "hearingreview.com",
+    "source": "The Hearing Review",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZzM5ZkxDUDhfSm8xMWxLWGFNUzF6aENxbmIzdlRNLUFaMmRZNGdQM2J5akNIWEpWc2RaUS1rT0hrMnBkT3lSU3NOYXMwLTRSR21aZUR0dlZTU0U2eDFfekx5OHRYNEQ0a3NaQ2txQ0REUmlHc0hMR0dreWVuNVF5cXE3WE1FdmVuRVRrY1ByTng5bko0VktWdGRkQTJuRUFfZDNpNGJOWHpsMERscjBkS3JscG5zeXZSME1NNg?oc=5",
-    "summary": "WS Audiology Selects AI Platform to Enhance Supply Chain Planning hearingreview.com",
+    "summary": "WS Audiology Selects AI Platform to Enhance Supply Chain Planning The Hearing Review",
     "status": "unverified"
   },
   {
@@ -547,6 +536,17 @@
     "source": "Consumer Goods Technology",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuRjRPaDVEMnk4VWtsOGxua2ZyUlNETm01V2xwdzlKckpmcTlZT0dlNVFrUW5xcTBBamFrLW92X0xETUZIVmxkS3c2MXpKQnVsaEtESnFQbnZ2WXFTZGtCZWxnSW5mbFhiOWpSWkpCVUxoLWtNV1R3?oc=5",
     "summary": "Griffith Foods Rolls Out S&OP Tool Globally Consumer Goods Technology",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2017-02-02-1ju0297",
+    "date": "2017-02-02",
+    "competitorId": "kinaxis",
+    "competitorName": "Kinaxis Maestro",
+    "title": "Supply & Demand Chain Executive Selects Kinaxis Executive As A \"Pro To Know\"",
+    "source": "Supply Chain Market",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaTJTY2U5SEtXS3RGc0JrZi1SMUxiX1BzUk1HMXRybUlKaDRTaWJPbnRVQmhFQWpYT3E4MjBsNDBJUU1sdzlrcHpXWXVnWHNIYmkyQUhTci1ubDFRQmhzRWNuUDhINzd6YVdzYXVtNnlDakUyRHdhOWRQUTgwMzRGeC1oRHhkSzA?oc=5",
+    "summary": "Supply & Demand Chain Executive Selects Kinaxis Executive As A \"Pro To Know\" Supply Chain Market",
     "status": "unverified"
   }
 ]
