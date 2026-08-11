@@ -66,17 +66,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2025-11-14-rv5wym",
-    "date": "2025-11-14",
-    "competitorId": "anaplan",
-    "competitorName": "Anaplan Supply Chain Planning",
-    "title": "CSCO Insights: Choosing Your Supply Chain Technology Partner",
-    "source": "Supply Chain Digital",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUmwxaVI3OFcxZloxMVN1TncxLVlKVDdqanE3UFJDM1ZqdV96dWsxTk9wSmszLXNuWTlOYllmUUtUWThkR1NZdE1LdnludFUyWkRTbFpZSnh1WXZOeEtSeHJXdjc1X3dzWkgxREU0dVRqdGtYRndxYjRyQURVcHpjY2s4aU43U2czSzEzOW9iSktycVJOLUEtMzFUSQ?oc=5",
-    "summary": "CSCO Insights: Choosing Your Supply Chain Technology Partner Supply Chain Digital",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2025-09-25-65tt53",
     "date": "2025-09-25",
     "competitorId": "blue-yonder",
@@ -126,9 +115,9 @@
     "competitorId": "kinaxis",
     "competitorName": "Kinaxis Maestro",
     "title": "Kinaxis and AI4OPT at Georgia Tech Announce Co-Innovation Partnership to Advance Scalable AI in Supply Chain Orchestration",
-    "source": "gatech.edu",
+    "source": "Georgia Institute of Technology",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ2Q0UEJpZHRvZ0lRNmI4S1hhcWRSTjQ0bERaQUVNaTExSVpDRDNUMjJ4QUEzLWlIQndHVHNwWUxZTzRDLVhhYnFzQUVfeHo5eHF0OFRDYTZ3cmFCRnVfLUozOU4yV1p3MXE4bkFtTHI5ZmE3Vkw4MlhDQzk4Mjh4X3BRWVhqeU9Cdl9jcXBKTkNfem91RGx5Zm5QNFkyMi1zRTJfZzVrTkVXc1gzZkQtSG9OUUtILXFseVFHQy1Gcw?oc=5",
-    "summary": "Kinaxis and AI4OPT at Georgia Tech Announce Co-Innovation Partnership to Advance Scalable AI in Supply Chain Orchestration gatech.edu",
+    "summary": "Kinaxis and AI4OPT at Georgia Tech Announce Co-Innovation Partnership to Advance Scalable AI in Supply Chain Orchestration Georgia Institute of Technology",
     "status": "unverified"
   },
   {
@@ -176,6 +165,17 @@
     "status": "unverified"
   },
   {
+    "id": "lead-2024-10-08-89m1jd",
+    "date": "2024-10-08",
+    "competitorId": "kinaxis",
+    "competitorName": "Kinaxis Maestro",
+    "title": "Kinaxis Partners with Ono Pharmaceutical to Strengthen Global Supply Chain Operations",
+    "source": "eHealth Magazine",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUGNCYzRDb2diNnRrTGZ5azJmTU5kQzJVRm1nZnNVT2pIT1UyU1hmRTFGSm1wbUxtLW9ELW1fZ19oaV9vZ0NpV1NzcnRlaFNwZDA3azBWczlSZ3VaUC1BaU5yVFFORDBrYS16RzUzQ3FmLVM2RXZEMi1XbDgzXzJCOWJMN1QzSFFFbUNTMlcwemZMNXBodlNhbm1SaFJIWnQ1WkxuYlNfMmMxVE9tN0h2OXdWcWNFV19ZeWx6Z2RicWRLbVkw?oc=5",
+    "summary": "Kinaxis Partners with Ono Pharmaceutical to Strengthen Global Supply Chain Operations eHealth Magazine",
+    "status": "unverified"
+  },
+  {
     "id": "lead-2024-07-29-hg5zgs",
     "date": "2024-07-29",
     "competitorId": "blue-yonder",
@@ -195,6 +195,17 @@
     "source": "Retail Technology Innovation Hub",
     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYWJncjU2WWE0NGllbkFpR3c4dGZjVXNvbVB1aDVWX3ZKU1pTakRSQWVHRnlVcXFEUHZadGVzVldQM3ZraDFRcjVyamoxck43QWRqaGFEcTFRLVUxV21YOTJXN0xUcl9Qc213cTZzNTkxVTk0LTBUNFhLTFpldlM2VDRnZnpUZzIzaHJmZTJzZVJoeFZGdFBMWGNKOWI1N29Db0dCbi0yYXhGVEJQcFVjMHpYMDZ2TzB2Z2lCQlh5NWdXbGtpanVjQS0wR1dDcnlyVlBlUFlqV0ZoSGpZdEh5STltUVpvZw?oc=5",
     "summary": "Waitrose makes major AI move as it extends partnership with supply chain technology firm Blue Yonder Retail Technology Innovation Hub",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2024-05-16-a7ldi9",
+    "date": "2024-05-16",
+    "competitorId": "blue-yonder",
+    "competitorName": "Blue Yonder Luminate Planning",
+    "title": "Walmart Rolls Out Luminate Data Insights Service to Suppliers in Mexico, Canada",
+    "source": "Retail TouchPoints",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRFMxZGctOEdpblNnRXdGbU80RExVUlozOHpXMnlnZ1BMR1NqOWptTjIwVkNWcHMzeUVFN0E3OEVEWkF3aktCU1hvVE9fdk5RaGVmcHRUemNrenlHZDE1OURBeGFBTWhVUUdKa0trTlpMR09fY21nUmFVbnpDRXZoTUFRODhHRFFKM0NxYTRPdHJDTlR1dGNJNU9fem5CU2lYd2U2LURLb3JJX2E2dnR1QTdfQ0pBRnY2NE1nTmotS05tTmtJZlE?oc=5",
+    "summary": "Walmart Rolls Out Luminate Data Insights Service to Suppliers in Mexico, Canada Retail TouchPoints",
     "status": "unverified"
   },
   {
@@ -396,17 +407,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2022-04-29-9vtl6",
-    "date": "2022-04-29",
-    "competitorId": "kinaxis",
-    "competitorName": "Kinaxis Maestro",
-    "title": "Kinaxis, TraceLink partner on supply chain planning",
-    "source": "TechTarget",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMmhTX3JRNlZTT2hOXzVWdXUyM1U0cy00WW1XTDllTEgwZVppdExvbjd6TmVNaGYtUUlUX0xaem9vTVkzQmd1cUNrWDJXNTBNaFpaeVI1ckU4bGtoZjZIU2xHeTlhMjhuRVFQMVE3ckNFZ182MnE5emNGdVNyRHQ1WU1BTng0WGNLcHRvWDJRUmVkZ05TenFZa1RGZWk5NE0yUVlwcg?oc=5",
-    "summary": "Kinaxis, TraceLink partner on supply chain planning TechTarget",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2022-03-21-bdadnp",
     "date": "2022-03-21",
     "competitorId": "blue-yonder",
@@ -415,6 +415,28 @@
     "source": "Logistics Viewpoints",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcGlhWG0wS2pvbVBpdTlPSnI2XzBITXVYSjZ1NExFeWFMclV4Y2tXc0lQY1FJVGZONjc4VS1VRWNGLXh1aHZzQnlUUnlUNjdBb2xBNUJLYVFfRUlpaWZNWUNUdk96Y2p5dFRIRElOVDhnM0xjZlh1blA5NFVHbDBiUnlrcjhWS2R6UjhCaUZuUXBGZw?oc=5",
     "summary": "Blue Yonder Pivots to a Partnership Strategy Logistics Viewpoints",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2021-08-27-4agjq5",
+    "date": "2021-08-27",
+    "competitorId": "blue-yonder",
+    "competitorName": "Blue Yonder Luminate Planning",
+    "title": "Dole Food & Beverages Group Adopts New Supply Chain Solutions To Avert Rising Challenges",
+    "source": "PYMNTS.com",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRGZiVUdMSUcwVk1iMUN5a2lJOUxwdHktZWg0Vm44d2V5RFlkeFQ4Rkxoa0lCMVIwMzJseVpIWlRtY1d5Zk4tMWpQOWI1cElqWjB3VVZHU2RkaWZoZU5XR3RxQ2lLOHk1YjdZNW4tS003Nm80UlVRZVNhTTJ1c0tfNXFBSmZlOHl2bnRSdmNySmtGcDlTeUNBNXZtc3VvRDY4RGRQMy1QVHh5ZUtIMGYyWEFKZmRETE5KWV96NUluMng0ZDVsWHhsX3A3U1ZaZw?oc=5",
+    "summary": "Dole Food & Beverages Group Adopts New Supply Chain Solutions To Avert Rising Challenges PYMNTS.com",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2021-08-11-bf79f",
+    "date": "2021-08-11",
+    "competitorId": "kinaxis",
+    "competitorName": "Kinaxis Maestro",
+    "title": "Bell Aircraft Implements Kinaxis Supply Chain Rapid Response",
+    "source": "Supply Chain Digital",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaUhqelgxN2FldUxpZF9EVVg0VXdyR2RuZnRnbzlVcjF0UXFIYWh2cGxDQlFQc3FiYi04TTBLR2NKUm5VQXg0Z2N2NmE0dEFPUl9wVXpMLWJiVWw5dXU5dUdnb1VLbHIza2I4SW51Uk43eTlWMi0yUE1fREphUkctM2p5bExqZm1JelpxRklXQms1TTNWc19rdXVvYXZQeFJpQS1sdmI3eDAxbjZnT2QtVUt3?oc=5",
+    "summary": "Bell Aircraft Implements Kinaxis Supply Chain Rapid Response Supply Chain Digital",
     "status": "unverified"
   },
   {
