@@ -66,17 +66,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2025-11-14-rv5wym",
-    "date": "2025-11-14",
-    "competitorId": "anaplan",
-    "competitorName": "Anaplan Supply Chain Planning",
-    "title": "CSCO Insights: Choosing Your Supply Chain Technology Partner",
-    "source": "supplychaindigital.com",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUmwxaVI3OFcxZloxMVN1TncxLVlKVDdqanE3UFJDM1ZqdV96dWsxTk9wSmszLXNuWTlOYllmUUtUWThkR1NZdE1LdnludFUyWkRTbFpZSnh1WXZOeEtSeHJXdjc1X3dzWkgxREU0dVRqdGtYRndxYjRyQURVcHpjY2s4aU43U2czSzEzOW9iSktycVJOLUEtMzFUSQ?oc=5",
-    "summary": "CSCO Insights: Choosing Your Supply Chain Technology Partner supplychaindigital.com",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2025-09-25-65tt53",
     "date": "2025-09-25",
     "competitorId": "blue-yonder",
@@ -132,14 +121,25 @@
     "status": "unverified"
   },
   {
+    "id": "lead-2025-04-02-1izzjz4",
+    "date": "2025-04-02",
+    "competitorId": "kinaxis",
+    "competitorName": "Kinaxis Maestro",
+    "title": "Kinexions 2025: Kinaxis Unveils Databricks Partnership",
+    "source": "Supply Chain Digital",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUTlTa0FIei1lWnhzZUV6Y3RSMzJHWHVoZXNzZy02TkFxdDBjbDZMNWM5MXpqejAtWUdFaU1EQVFxU0gzOGFWTWljU1JIaFFOMUt5ZkNfaWVhbUtSN2dUaWV4MTVEQ1FmODlxWHdnbjZ2cGYxYmZMeUNJRmpLQ2hrbmtfTTR2M1ZnTk9jMHVKU01lVGc?oc=5",
+    "summary": "Kinexions 2025: Kinaxis Unveils Databricks Partnership Supply Chain Digital",
+    "status": "unverified"
+  },
+  {
     "id": "lead-2025-04-01-l32alg",
     "date": "2025-04-01",
     "competitorId": "kinaxis",
     "competitorName": "Kinaxis Maestro",
     "title": "Kinaxis Partners With Databricks to Accelerate AI-Powered Supply Chain Orchestration",
-    "source": "01net.it",
+    "source": "01net",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSXh4aGZyZlgzbWtUX1pyc2xPVUJMQVUzZmtUYWg1cHFsa1AtZ2Y1VHk2bzZTdmV0Qk1tWExBaWlDbHdqeENGdm9pZHNLNEQxQzR0ZFJPOHRQd3E4NWdaUzFEc0RDTXg3LUJhazdTRk9RNmJXYVN1eWZBeFd3SDVPc2J3bUhjcU93Y2FpMjlWQU10YXlfckNVUUNqLTFSRjV1MVpPTnE1Q0FEQQ?oc=5",
-    "summary": "Kinaxis Partners With Databricks to Accelerate AI-Powered Supply Chain Orchestration 01net.it",
+    "summary": "Kinaxis Partners With Databricks to Accelerate AI-Powered Supply Chain Orchestration 01net",
     "status": "unverified"
   },
   {
@@ -159,9 +159,9 @@
     "competitorId": "blue-yonder",
     "competitorName": "Blue Yonder Luminate Planning",
     "title": "Europastry Selects Blue Yonder TM Solutions to Optimize European Supply Chain",
-    "source": "erp.today",
+    "source": "ERP Today",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY1Y1U2JWLS1Iak1URmdLdXBJemVCdEdMcDZzQlRWRnFJVEd5U3pSSUZ0ZEd2c19JM0JMYkJ5ZWFlXzJudUgwaWZmQWNodmZQZEk4LVdjcU5zU2pSVEhOeEJrZi1QU00zNDVfR3JUMHEzSmJrajhoemFVUkYtY3p6RGRKS0xRaHF2SnhCMk82VXlycmVXS2EzS1l0OUc?oc=5",
-    "summary": "Europastry Selects Blue Yonder TM Solutions to Optimize European Supply Chain erp.today",
+    "summary": "Europastry Selects Blue Yonder TM Solutions to Optimize European Supply Chain ERP Today",
     "status": "unverified"
   },
   {
@@ -357,9 +357,9 @@
     "competitorId": "o9-solutions",
     "competitorName": "o9 Digital Brain",
     "title": "PwC India and o9 Solutions announce strategic partnership focused on supply chain transformation at scale",
-    "source": "mediabrief.com",
+    "source": "MediaBrief",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTUdnb3FibGlDNG95eEhvWnhnZUtBM2NrbllsRUM4aVRZXzZmbmh3NExNWGsxTVhQeHlHYm9fbnBlTUwtRzhtN013ZnlKbVk0ZDg2X3ZpdGdScmNPb3NjUUE3WEdwZF91YUozUHhGYjRocnpaVmRFVlo3TzJNTzdPV19FM3gzRXFD?oc=5",
-    "summary": "PwC India and o9 Solutions announce strategic partnership focused on supply chain transformation at scale mediabrief.com",
+    "summary": "PwC India and o9 Solutions announce strategic partnership focused on supply chain transformation at scale MediaBrief",
     "status": "unverified"
   },
   {
@@ -418,17 +418,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2022-04-29-9vtl6",
-    "date": "2022-04-29",
-    "competitorId": "kinaxis",
-    "competitorName": "Kinaxis Maestro",
-    "title": "Kinaxis, TraceLink partner on supply chain planning",
-    "source": "TechTarget",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMmhTX3JRNlZTT2hOXzVWdXUyM1U0cy00WW1XTDllTEgwZVppdExvbjd6TmVNaGYtUUlUX0xaem9vTVkzQmd1cUNrWDJXNTBNaFpaeVI1ckU4bGtoZjZIU2xHeTlhMjhuRVFQMVE3ckNFZ182MnE5emNGdVNyRHQ1WU1BTng0WGNLcHRvWDJRUmVkZ05TenFZa1RGZWk5NE0yUVlwcg?oc=5",
-    "summary": "Kinaxis, TraceLink partner on supply chain planning TechTarget",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2022-03-21-bdadnp",
     "date": "2022-03-21",
     "competitorId": "blue-yonder",
@@ -437,6 +426,17 @@
     "source": "Logistics Viewpoints",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcGlhWG0wS2pvbVBpdTlPSnI2XzBITXVYSjZ1NExFeWFMclV4Y2tXc0lQY1FJVGZONjc4VS1VRWNGLXh1aHZzQnlUUnlUNjdBb2xBNUJLYVFfRUlpaWZNWUNUdk96Y2p5dFRIRElOVDhnM0xjZlh1blA5NFVHbDBiUnlrcjhWS2R6UjhCaUZuUXBGZw?oc=5",
     "summary": "Blue Yonder Pivots to a Partnership Strategy Logistics Viewpoints",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2021-10-06-1p34u3c",
+    "date": "2021-10-06",
+    "competitorId": "kinaxis",
+    "competitorName": "Kinaxis Maestro",
+    "title": "How Schneider Electric is adopting autonomous supply chain planning with Kinaxis",
+    "source": "Diginomica",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYzR5akdCZnExaFhGbGFJZnZ4YmVkdUdZTmkwc2s1LXVZWXZiTU5hZnF2ZmItY0FxWlNEcGVlQnFIdU1iY2gwWlRMel9ITmdzSllnRjBPVWdqblN1Q2pfZzFZNWZKcjBQYV9yUk5XYjh0c2JxRnl4d3hqSWdDaHpVTW5yeFdSOVhtMTNUS09ubG1KUDJYVWtGemo4cw?oc=5",
+    "summary": "How Schneider Electric is adopting autonomous supply chain planning with Kinaxis Diginomica",
     "status": "unverified"
   },
   {
@@ -467,9 +467,9 @@
     "competitorId": "blue-yonder",
     "competitorName": "Blue Yonder Luminate Planning",
     "title": "UK's M&S selects Blue Yonder's Luminate Planning for supply chain",
-    "source": "alchempro.com",
+    "source": "ALCHEMPro",
     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcFpsTTRDUlpMdlJpM1FNNzVEMUU2eV84WmNtOWFXVGFmSG9RVVJ5ZFd3bmdBNHlQa3FyREthY0ZKblotTUxKMDh6eE9nVGI5eTc1TFRmb3NzT05BS0lLT24wN00wdlg2UFZvd24yTjMtcHg2ZG0ydjlhR1Fyd003Q194TTFoa1hTSFh0eld2emgtNC1BbTMtZWE0dzdKQ0YwdnpVeVZIZXhWWGowYzM3UFgzQjJrVUQzaDhZN3BLYllTc1lXRXpTdlVMUWVDeG5FM0tlVFNPckFab2g2?oc=5",
-    "summary": "UK's M&S selects Blue Yonder's Luminate Planning for supply chain alchempro.com",
+    "summary": "UK's M&S selects Blue Yonder's Luminate Planning for supply chain ALCHEMPro",
     "status": "unverified"
   },
   {
