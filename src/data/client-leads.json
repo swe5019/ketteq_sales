@@ -27,9 +27,9 @@
     "competitorId": "blue-yonder",
     "competitorName": "Blue Yonder Luminate Planning",
     "title": "Kuehne+Nagel rolls out cloud-native Contract Logistics solution across over 1,000 sites globally",
-    "source": "newsroom.kuehne-nagel.com",
+    "source": "Kuehne+Nagel",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVEVpVm01RHVNNG44TDNydzNJc0lqeUtyQmJlbGVhUzZqLWJoUnZaYVdobnF0aExUV2w0MVZqbnRxS3BIY0xCTDYzOHBrQVpDQ3hndXp6Q2RoT0pFY3JzelBrWnpEdnJDTVV0UW92d3NBMzNGMDAwcDlqcDlQWkE2b24wd3Z1NGdpU3dhZzhlR3BsdEowLU5wV3JVbDd5OGhlSlVOb3FFbjBWSGtEWFRTVTZhQUZ4bEFhWTFXd1lUZXNJTk1OckhWZA?oc=5",
-    "summary": "Kuehne+Nagel rolls out cloud-native Contract Logistics solution across over 1,000 sites globally newsroom.kuehne-nagel.com",
+    "summary": "Kuehne+Nagel rolls out cloud-native Contract Logistics solution across over 1,000 sites globally Kuehne+Nagel",
     "status": "unverified"
   },
   {
@@ -38,9 +38,9 @@
     "competitorId": "kinaxis",
     "competitorName": "Kinaxis Maestro",
     "title": "Scotts Miracle-Gro widens tech partnership for supply chain AI",
-    "source": "Supply Chain Dive",
+    "source": "supplychaindive.com",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN0RJYXdpSnBNdk1jQnliRGtmcEhsYS1hZVFqREhKVjhGSExCTlNBa0oxdlFfNko5NDNRMmZNTnFvZGFVMDEtVGRBbVM2bnhzelhtYzJCUS1qVElQX1liWnJiaGVGREsweVRUbDRZbVRTSnBZQ0dzcW10Tjd5Y21nd2V1ajgxY2h5dEs2RlcxSGwzOE9tUW5tWnN2VzUweFpkdkJmSFd5ZzVXeVU?oc=5",
-    "summary": "Scotts Miracle-Gro widens tech partnership for supply chain AI Supply Chain Dive",
+    "summary": "Scotts Miracle-Gro widens tech partnership for supply chain AI supplychaindive.com",
     "status": "unverified"
   },
   {
@@ -88,17 +88,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2025-11-14-rv5wym",
-    "date": "2025-11-14",
-    "competitorId": "anaplan",
-    "competitorName": "Anaplan Supply Chain Planning",
-    "title": "CSCO Insights: Choosing Your Supply Chain Technology Partner",
-    "source": "Supply Chain Digital",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUmwxaVI3OFcxZloxMVN1TncxLVlKVDdqanE3UFJDM1ZqdV96dWsxTk9wSmszLXNuWTlOYllmUUtUWThkR1NZdE1LdnludFUyWkRTbFpZSnh1WXZOeEtSeHJXdjc1X3dzWkgxREU0dVRqdGtYRndxYjRyQURVcHpjY2s4aU43U2czSzEzOW9iSktycVJOLUEtMzFUSQ?oc=5",
-    "summary": "CSCO Insights: Choosing Your Supply Chain Technology Partner Supply Chain Digital",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2025-09-25-65tt53",
     "date": "2025-09-25",
     "competitorId": "blue-yonder",
@@ -132,25 +121,14 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2025-04-08-1pog7i1",
-    "date": "2025-04-08",
-    "competitorId": "blue-yonder",
-    "competitorName": "Blue Yonder Luminate Planning",
-    "title": "Mathis Home rolls out inventory management, forecasting upgrade",
-    "source": "Supply Chain Dive",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcG5Ydkl5XzlrVEFxeEl2TmlVa0FwVXpZVnZnNktJcTdfb25IaktRcGEyZFR4eENyMWJsTm1uOTFRTUg2U3RJZ1FoWkdYX1Q3WXZXZjN4bFRNTlZXOERZTklCN1ZlN0RfV2JseDRKVDJNNkdndzRvMGl2eXpvVzYxU3I2eFJpVVVrWmNmUFV2TDZROUk3YnZWcDdQV0RPQ0x6dUNr?oc=5",
-    "summary": "Mathis Home rolls out inventory management, forecasting upgrade Supply Chain Dive",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2025-04-02-1vyo971",
     "date": "2025-04-02",
     "competitorId": "kinaxis",
     "competitorName": "Kinaxis Maestro",
     "title": "Kinaxis and AI4OPT at Georgia Tech Announce Co-Innovation Partnership to Advance Scalable AI in Supply Chain Orchestration",
-    "source": "Georgia Institute of Technology",
+    "source": "gatech.edu",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ2Q0UEJpZHRvZ0lRNmI4S1hhcWRSTjQ0bERaQUVNaTExSVpDRDNUMjJ4QUEzLWlIQndHVHNwWUxZTzRDLVhhYnFzQUVfeHo5eHF0OFRDYTZ3cmFCRnVfLUozOU4yV1p3MXE4bkFtTHI5ZmE3Vkw4MlhDQzk4Mjh4X3BRWVhqeU9Cdl9jcXBKTkNfem91RGx5Zm5QNFkyMi1zRTJfZzVrTkVXc1gzZkQtSG9OUUtILXFseVFHQy1Gcw?oc=5",
-    "summary": "Kinaxis and AI4OPT at Georgia Tech Announce Co-Innovation Partnership to Advance Scalable AI in Supply Chain Orchestration Georgia Institute of Technology",
+    "summary": "Kinaxis and AI4OPT at Georgia Tech Announce Co-Innovation Partnership to Advance Scalable AI in Supply Chain Orchestration gatech.edu",
     "status": "unverified"
   },
   {
@@ -297,6 +275,17 @@
     "status": "unverified"
   },
   {
+    "id": "lead-2024-01-18-1m34rlj",
+    "date": "2024-01-18",
+    "competitorId": "o9-solutions",
+    "competitorName": "o9 Digital Brain",
+    "title": "o9 Solutions to launch a specialised supply chain skills academy in TS",
+    "source": "The Hindu",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPLVJPRV8wazZQVGtKWm8yRFlzZ3NEYVZ5OTBlWnhJWTdRNVI4OFk5dmpLSVhRc0VRUm1fdnpCNXF6Q2VueHB0Wm5HZnoyeEc1SjU2MHdaLXBzakxBVDRjODlMaElFVVpKVzNGYTZwZFUyc3dpUEthTk00S01SOUxOVU9PLXRlVm93ZC1BTFhfeWRHOV9GUUVvQ3hEYWx1ZXFMREU1MjhzUW0wT2NJaktGM2tIczctam9MQmRyeTlpQTdWQklQOThGT2I2Z0d6dGhOdnlhZjRB0gHcAUFVX3lxTE9TczV5dFR6R0tIeVpGUXd5ajZpWHc1THFBcFYtYVV0dnpvdl9oX05sT3hHTVA2MXk0UC0weE5OaGx4TkxqSm1tUml4NUcyYlVFTWJRRGw2cThxMnRnZ2NzSlR1Ny1ja1FTLXNmQzBxcF96UjdaYTZZYjRTUF8yLWhIbHpqR0hXMlZ5MTM4NEJyXzJjS1VPcHU2Ty1PWmR0T2g4VHNkN282akY3TlhOQTBEbXFyYldpNFE3RWU5aWxwM0VGd01vX0lGa0pDa1dNR3duazhYRF9fWG13cXo?oc=5",
+    "summary": "o9 Solutions to launch a specialised supply chain skills academy in TS The Hindu",
+    "status": "unverified"
+  },
+  {
     "id": "lead-2023-12-05-1npwx8z",
     "date": "2023-12-05",
     "competitorId": "blue-yonder",
@@ -335,9 +324,9 @@
     "competitorId": "o9-solutions",
     "competitorName": "o9 Digital Brain",
     "title": "o9 Solutions Announces New Office in India and Strategic Partnership to Develop Supply Chain Talent",
-    "source": "Dallas Innovates",
+    "source": "dallasinnovates.com",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcFNtcUxzM3VBM2ZSUFlUTTBmQ3EzbWUwRVZ5ems0THd3Um9sdmVOeXp3TzNFcnZhUkNkUmRpak5pS0lLNldjbmQzVzVESmUzdTRUd0RyWUxJNHRtRTVNT1VwdlhVTlJMU0VDcE54cVMwSl91bmdoQndHM1Roek9jbU51RGJQYkozZmFJSURZT2Nfc2dyYWg2djNSQmNBWFhRY1pheFVVZGh1Z0xKUUNRVjktOXlYSjN5TGdVZ3N5ZXd4emUxZVFJ?oc=5",
-    "summary": "o9 Solutions Announces New Office in India and Strategic Partnership to Develop Supply Chain Talent Dallas Innovates",
+    "summary": "o9 Solutions Announces New Office in India and Strategic Partnership to Develop Supply Chain Talent dallasinnovates.com",
     "status": "unverified"
   },
   {
@@ -401,9 +390,9 @@
     "competitorId": "anaplan",
     "competitorName": "Anaplan Supply Chain Planning",
     "title": "GANT partners with Anaplan and Bedford Consulting",
-    "source": "Retail Insight Network",
+    "source": "retail-insight-network.com",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUnN3djVLMXRXZEI5ZzB2U0M3S2kwR3ZwbVVpVkxoY1JYQnA2Z0RLNDUzOU92VXZhSzlJdXFxZHlBQkl5X3dIb1BTd1poN3ZBZEctRlNEandrS2lEZTBqQXRBYzNvZDhYRC0xek45dnBqclFEVnBmenFXcnFreE91RA?oc=5",
-    "summary": "GANT partners with Anaplan and Bedford Consulting Retail Insight Network",
+    "summary": "GANT partners with Anaplan and Bedford Consulting retail-insight-network.com",
     "status": "unverified"
   },
   {
@@ -448,6 +437,17 @@
     "source": "Logistics Viewpoints",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcGlhWG0wS2pvbVBpdTlPSnI2XzBITXVYSjZ1NExFeWFMclV4Y2tXc0lQY1FJVGZONjc4VS1VRWNGLXh1aHZzQnlUUnlUNjdBb2xBNUJLYVFfRUlpaWZNWUNUdk96Y2p5dFRIRElOVDhnM0xjZlh1blA5NFVHbDBiUnlrcjhWS2R6UjhCaUZuUXBGZw?oc=5",
     "summary": "Blue Yonder Pivots to a Partnership Strategy Logistics Viewpoints",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2021-08-27-4agjq5",
+    "date": "2021-08-27",
+    "competitorId": "blue-yonder",
+    "competitorName": "Blue Yonder Luminate Planning",
+    "title": "Dole Food & Beverages Group Adopts New Supply Chain Solutions To Avert Rising Challenges",
+    "source": "PYMNTS.com",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRGZiVUdMSUcwVk1iMUN5a2lJOUxwdHktZWg0Vm44d2V5RFlkeFQ4Rkxoa0lCMVIwMzJseVpIWlRtY1d5Zk4tMWpQOWI1cElqWjB3VVZHU2RkaWZoZU5XR3RxQ2lLOHk1YjdZNW4tS003Nm80UlVRZVNhTTJ1c0tfNXFBSmZlOHl2bnRSdmNySmtGcDlTeUNBNXZtc3VvRDY4RGRQMy1QVHh5ZUtIMGYyWEFKZmRETE5KWV96NUluMng0ZDVsWHhsX3A3U1ZaZw?oc=5",
+    "summary": "Dole Food & Beverages Group Adopts New Supply Chain Solutions To Avert Rising Challenges PYMNTS.com",
     "status": "unverified"
   },
   {
@@ -511,9 +511,9 @@
     "competitorId": "blue-yonder",
     "competitorName": "Blue Yonder Luminate Planning",
     "title": "Building Partnership Capacity and Logistics",
-    "source": "airuniversity.af.edu",
+    "source": "Air University (af.edu)",
     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVm9uVDJVQU1VZ1p2TmdfOEh3bFMwY29EeXZHWlhTOEt6R05haFdXRXViOTg5aGx5WXVidDhuaDZCTkY1cVFqMGpOLUFkS1dZY0JZUVpyZ3dFMnloRTFqcUd0aXVmT0Q3dk95eUJTLXBYd0pXa2h3SzMxalRNRzk3el9JOU9LQTRJdzJBSktaUGJaZXFRbGY0SXVxNkxHVVpqRkRGaE1oVTNuaHJwVW5qRkRUbDgyVGNuOThmUkp1Uk45ZlAxVWVtMlBIMWNWLTZZ?oc=5",
-    "summary": "Building Partnership Capacity and Logistics airuniversity.af.edu",
+    "summary": "Building Partnership Capacity and Logistics Air University (af.edu)",
     "status": "unverified"
   },
   {
