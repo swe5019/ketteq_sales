@@ -176,6 +176,17 @@
     "status": "unverified"
   },
   {
+    "id": "lead-2025-02-18-tsxzx3",
+    "date": "2025-02-18",
+    "competitorId": "blue-yonder",
+    "competitorName": "Blue Yonder Luminate Planning",
+    "title": "Blue Yonder, UA Walton College announce supply chain management partnership",
+    "source": "Talk Business & Politics",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZXEzSDZjMjVqUnUtTWtyWTgtY3ZCcDFIeDBTSjZFQmRUbnhmaFRTZXpKbVhBYk1OWHNFNWVrQlpPZU00QS1iRzF1RXA5WExEb0NHYnVQejZzdDBxUHFRemp5NGNBQS1xeEkyZU9wdzhHbWRkeC1KRlZRekFkNEFuckQ2N1QxNUc4UjREUzBEUXB4ZkoxYnFMdkN2WGZHMkpfZzdnMU15U0IwUWNJ?oc=5",
+    "summary": "Blue Yonder, UA Walton College announce supply chain management partnership Talk Business & Politics",
+    "status": "unverified"
+  },
+  {
     "id": "lead-2025-01-16-g9zd22",
     "date": "2025-01-16",
     "competitorId": "blue-yonder",
@@ -357,9 +368,31 @@
     "competitorId": "kinaxis",
     "competitorName": "Kinaxis Maestro",
     "title": "Subaru expands partnership with Kinaxis to improve forecasting",
-    "source": "automotivelogistics.media",
+    "source": "Automotive Logistics",
     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQX2NQcGlTS0JibEwxRGhmSDRkS0pmYmZnbnY1NnUyZHJiZm11N1Q3OVhkZzdFTVlUbWZtZWtEeGRIYnhXMUx1ckhLMzR2MUllZlRkZkdnX3dFRk9DSUNHZHdJRTlkTEZ0ZmJKaVpyYkh6SXJIRUpwZ0I2OXJWczdtRldDRWpxQ2FBT1B4Q2Z6bUNUekFDOUJ5cXhHWlUxVGJDTTREeENFU0J3TDl1SjZrNGZkY0E0Ni0xSVkteGVzeWlhWmR6UDJrSVlSajRYc202Y3JuU0U2ZnNjS3NoREs5Mmp6dmNzUEU?oc=5",
-    "summary": "Subaru expands partnership with Kinaxis to improve forecasting automotivelogistics.media",
+    "summary": "Subaru expands partnership with Kinaxis to improve forecasting Automotive Logistics",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2023-08-08-dk1o2o",
+    "date": "2023-08-08",
+    "competitorId": "blue-yonder",
+    "competitorName": "Blue Yonder Luminate Planning",
+    "title": "StrongPoint Partners With Leading Supply Chain Solutions Provider Blue Yonder",
+    "source": "Business Wire",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcElkSWN0NnZkYmltMjUwNnVsVmhvbjdlTGhWX25Eak1jNDBnV1dLZjloTnhrM2JxQUVyU0FRRXlMQk9WLXNfdlVSWUdLQnZzc0JQQzNrTDRpRHg2TlpVQnRqdXMtRW5Ca01Ga21PMGdCMWJuRU5vTG5QdDdvTHRVX0JTSDlYRGl4Q1dYQ0tua0NGZno3M25xZmFWLW0xUkdxbklpbEwzUUM5OG9XQzMzNHZ3WlFBdEdzTnl0c0I3dkZZWkxBNklSWllvYng0LVE?oc=5",
+    "summary": "StrongPoint Partners With Leading Supply Chain Solutions Provider Blue Yonder Business Wire",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2023-07-10-vhm1yk",
+    "date": "2023-07-10",
+    "competitorId": "o9-solutions",
+    "competitorName": "o9 Digital Brain",
+    "title": "Singapore rolls out initiatives to capture new digital jobs in supply chain management",
+    "source": "Singapore Economic Development Board (EDB)",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQY2NBZzdVQWRNbnlFelNNM0F2WnlKRUpoeXpkMVFVamhSVlpQcTFYOF84ck5ZZmtMS0VROGt5eU1Nb29sR0dncHFyUGNySy1FenM4enNTVTJLVk1MVi0tWHp6VjVGejFsN3F4aGlaa1JHMmFVczZfc1luRUVXTy11LUx2NklFQnZCQ0xhRDYtYUhXRkNtUkZZM05pRTQzU09FSkFkTC1LbnVacXZxY1hyYlpyR3lETjdjczh6YjRTT2l2VVJscFpfMVU5SU9WVTJKRi1ITTFZdWNRbzE3?oc=5",
+    "summary": "Singapore rolls out initiatives to capture new digital jobs in supply chain management Singapore Economic Development Board (EDB)",
     "status": "unverified"
   },
   {
@@ -379,9 +412,9 @@
     "competitorId": "o9-solutions",
     "competitorName": "o9 Digital Brain",
     "title": "PwC India and o9 Solutions announce strategic partnership focused on supply chain transformation at scale",
-    "source": "MediaBrief",
+    "source": "mediabrief.com",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTUdnb3FibGlDNG95eEhvWnhnZUtBM2NrbllsRUM4aVRZXzZmbmh3NExNWGsxTVhQeHlHYm9fbnBlTUwtRzhtN013ZnlKbVk0ZDg2X3ZpdGdScmNPb3NjUUE3WEdwZF91YUozUHhGYjRocnpaVmRFVlo3TzJNTzdPV19FM3gzRXFD?oc=5",
-    "summary": "PwC India and o9 Solutions announce strategic partnership focused on supply chain transformation at scale MediaBrief",
+    "summary": "PwC India and o9 Solutions announce strategic partnership focused on supply chain transformation at scale mediabrief.com",
     "status": "unverified"
   },
   {
@@ -445,9 +478,9 @@
     "competitorId": "blue-yonder",
     "competitorName": "Blue Yonder Luminate Planning",
     "title": "Blue Yonder Pivots to a Partnership Strategy",
-    "source": "logisticsviewpoints.com",
+    "source": "Logistics Viewpoints",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcGlhWG0wS2pvbVBpdTlPSnI2XzBITXVYSjZ1NExFeWFMclV4Y2tXc0lQY1FJVGZONjc4VS1VRWNGLXh1aHZzQnlUUnlUNjdBb2xBNUJLYVFfRUlpaWZNWUNUdk96Y2p5dFRIRElOVDhnM0xjZlh1blA5NFVHbDBiUnlrcjhWS2R6UjhCaUZuUXBGZw?oc=5",
-    "summary": "Blue Yonder Pivots to a Partnership Strategy logisticsviewpoints.com",
+    "summary": "Blue Yonder Pivots to a Partnership Strategy Logistics Viewpoints",
     "status": "unverified"
   },
   {
@@ -478,9 +511,9 @@
     "competitorId": "kinaxis",
     "competitorName": "Kinaxis Maestro",
     "title": "The Weir Group’s ESCO selects Kinaxis to enable global supply chain transformation",
-    "source": "International Mining",
+    "source": "im-mining.com",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYWY3WG5RR0ZiQVo4ZkNRTTBCYnVpcmdkLUJ1RnhyU0xZYVRoclV3SWlzajNtVEF4S1E2MWMtNS1KWmlBQUU3cVFfY3ROVGMyTlRqX1l4YVdTbVNhc2dac3BWWTY0d0ZEZ2Vkc0xDSXVWdkw4QUM5LU5MRE5sV29HQ0hMYThzRG9wYlRfdlFpQzA5ckZSOEpNdXAyemJfSGJ2cERiOUZKbU5PSldu?oc=5",
-    "summary": "The Weir Group’s ESCO selects Kinaxis to enable global supply chain transformation International Mining",
+    "summary": "The Weir Group’s ESCO selects Kinaxis to enable global supply chain transformation im-mining.com",
     "status": "unverified"
   },
   {
@@ -514,28 +547,6 @@
     "source": "Air University (af.edu)",
     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVm9uVDJVQU1VZ1p2TmdfOEh3bFMwY29EeXZHWlhTOEt6R05haFdXRXViOTg5aGx5WXVidDhuaDZCTkY1cVFqMGpOLUFkS1dZY0JZUVpyZ3dFMnloRTFqcUd0aXVmT0Q3dk95eUJTLXBYd0pXa2h3SzMxalRNRzk3el9JOU9LQTRJdzJBSktaUGJaZXFRbGY0SXVxNkxHVVpqRkRGaE1oVTNuaHJwVW5qRkRUbDgyVGNuOThmUkp1Uk45ZlAxVWVtMlBIMWNWLTZZ?oc=5",
     "summary": "Building Partnership Capacity and Logistics Air University (af.edu)",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2018-05-16-v82z78",
-    "date": "2018-05-16",
-    "competitorId": "logility",
-    "competitorName": "Logility Digital Supply Chain Platform",
-    "title": "Griffith Foods Rolls Out S&OP Tool Globally",
-    "source": "Consumer Goods Technology",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuRjRPaDVEMnk4VWtsOGxua2ZyUlNETm01V2xwdzlKckpmcTlZT0dlNVFrUW5xcTBBamFrLW92X0xETUZIVmxkS3c2MXpKQnVsaEtESnFQbnZ2WXFTZGtCZWxnSW5mbFhiOWpSWkpCVUxoLWtNV1R3?oc=5",
-    "summary": "Griffith Foods Rolls Out S&OP Tool Globally Consumer Goods Technology",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2017-02-02-1ju0297",
-    "date": "2017-02-02",
-    "competitorId": "kinaxis",
-    "competitorName": "Kinaxis Maestro",
-    "title": "Supply & Demand Chain Executive Selects Kinaxis Executive As A \"Pro To Know\"",
-    "source": "Supply Chain Market",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaTJTY2U5SEtXS3RGc0JrZi1SMUxiX1BzUk1HMXRybUlKaDRTaWJPbnRVQmhFQWpYT3E4MjBsNDBJUU1sdzlrcHpXWXVnWHNIYmkyQUhTci1ubDFRQmhzRWNuUDhINzd6YVdzYXVtNnlDakUyRHdhOWRQUTgwMzRGeC1oRHhkSzA?oc=5",
-    "summary": "Supply & Demand Chain Executive Selects Kinaxis Executive As A \"Pro To Know\" Supply Chain Market",
     "status": "unverified"
   }
 ]
