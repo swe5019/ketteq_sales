@@ -27,9 +27,9 @@
     "competitorId": "blue-yonder",
     "competitorName": "Blue Yonder Luminate Planning",
     "title": "Kuehne+Nagel rolls out cloud-native Contract Logistics solution across over 1,000 sites globally",
-    "source": "Kuehne+Nagel",
+    "source": "newsroom.kuehne-nagel.com",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVEVpVm01RHVNNG44TDNydzNJc0lqeUtyQmJlbGVhUzZqLWJoUnZaYVdobnF0aExUV2w0MVZqbnRxS3BIY0xCTDYzOHBrQVpDQ3hndXp6Q2RoT0pFY3JzelBrWnpEdnJDTVV0UW92d3NBMzNGMDAwcDlqcDlQWkE2b24wd3Z1NGdpU3dhZzhlR3BsdEowLU5wV3JVbDd5OGhlSlVOb3FFbjBWSGtEWFRTVTZhQUZ4bEFhWTFXd1lUZXNJTk1OckhWZA?oc=5",
-    "summary": "Kuehne+Nagel rolls out cloud-native Contract Logistics solution across over 1,000 sites globally Kuehne+Nagel",
+    "summary": "Kuehne+Nagel rolls out cloud-native Contract Logistics solution across over 1,000 sites globally newsroom.kuehne-nagel.com",
     "status": "unverified"
   },
   {
@@ -38,9 +38,9 @@
     "competitorId": "kinaxis",
     "competitorName": "Kinaxis Maestro",
     "title": "Scotts Miracle-Gro widens tech partnership for supply chain AI",
-    "source": "supplychaindive.com",
+    "source": "Supply Chain Dive",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN0RJYXdpSnBNdk1jQnliRGtmcEhsYS1hZVFqREhKVjhGSExCTlNBa0oxdlFfNko5NDNRMmZNTnFvZGFVMDEtVGRBbVM2bnhzelhtYzJCUS1qVElQX1liWnJiaGVGREsweVRUbDRZbVRTSnBZQ0dzcW10Tjd5Y21nd2V1ajgxY2h5dEs2RlcxSGwzOE9tUW5tWnN2VzUweFpkdkJmSFd5ZzVXeVU?oc=5",
-    "summary": "Scotts Miracle-Gro widens tech partnership for supply chain AI supplychaindive.com",
+    "summary": "Scotts Miracle-Gro widens tech partnership for supply chain AI Supply Chain Dive",
     "status": "unverified"
   },
   {
@@ -121,14 +121,25 @@
     "status": "unverified"
   },
   {
+    "id": "lead-2025-04-08-1pog7i1",
+    "date": "2025-04-08",
+    "competitorId": "blue-yonder",
+    "competitorName": "Blue Yonder Luminate Planning",
+    "title": "Mathis Home rolls out inventory management, forecasting upgrade",
+    "source": "Supply Chain Dive",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcG5Ydkl5XzlrVEFxeEl2TmlVa0FwVXpZVnZnNktJcTdfb25IaktRcGEyZFR4eENyMWJsTm1uOTFRTUg2U3RJZ1FoWkdYX1Q3WXZXZjN4bFRNTlZXOERZTklCN1ZlN0RfV2JseDRKVDJNNkdndzRvMGl2eXpvVzYxU3I2eFJpVVVrWmNmUFV2TDZROUk3YnZWcDdQV0RPQ0x6dUNr?oc=5",
+    "summary": "Mathis Home rolls out inventory management, forecasting upgrade Supply Chain Dive",
+    "status": "unverified"
+  },
+  {
     "id": "lead-2025-04-02-1vyo971",
     "date": "2025-04-02",
     "competitorId": "kinaxis",
     "competitorName": "Kinaxis Maestro",
     "title": "Kinaxis and AI4OPT at Georgia Tech Announce Co-Innovation Partnership to Advance Scalable AI in Supply Chain Orchestration",
-    "source": "gatech.edu",
+    "source": "Georgia Institute of Technology",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ2Q0UEJpZHRvZ0lRNmI4S1hhcWRSTjQ0bERaQUVNaTExSVpDRDNUMjJ4QUEzLWlIQndHVHNwWUxZTzRDLVhhYnFzQUVfeHo5eHF0OFRDYTZ3cmFCRnVfLUozOU4yV1p3MXE4bkFtTHI5ZmE3Vkw4MlhDQzk4Mjh4X3BRWVhqeU9Cdl9jcXBKTkNfem91RGx5Zm5QNFkyMi1zRTJfZzVrTkVXc1gzZkQtSG9OUUtILXFseVFHQy1Gcw?oc=5",
-    "summary": "Kinaxis and AI4OPT at Georgia Tech Announce Co-Innovation Partnership to Advance Scalable AI in Supply Chain Orchestration gatech.edu",
+    "summary": "Kinaxis and AI4OPT at Georgia Tech Announce Co-Innovation Partnership to Advance Scalable AI in Supply Chain Orchestration Georgia Institute of Technology",
     "status": "unverified"
   },
   {
@@ -324,9 +335,9 @@
     "competitorId": "o9-solutions",
     "competitorName": "o9 Digital Brain",
     "title": "o9 Solutions Announces New Office in India and Strategic Partnership to Develop Supply Chain Talent",
-    "source": "dallasinnovates.com",
+    "source": "Dallas Innovates",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcFNtcUxzM3VBM2ZSUFlUTTBmQ3EzbWUwRVZ5ems0THd3Um9sdmVOeXp3TzNFcnZhUkNkUmRpak5pS0lLNldjbmQzVzVESmUzdTRUd0RyWUxJNHRtRTVNT1VwdlhVTlJMU0VDcE54cVMwSl91bmdoQndHM1Roek9jbU51RGJQYkozZmFJSURZT2Nfc2dyYWg2djNSQmNBWFhRY1pheFVVZGh1Z0xKUUNRVjktOXlYSjN5TGdVZ3N5ZXd4emUxZVFJ?oc=5",
-    "summary": "o9 Solutions Announces New Office in India and Strategic Partnership to Develop Supply Chain Talent dallasinnovates.com",
+    "summary": "o9 Solutions Announces New Office in India and Strategic Partnership to Develop Supply Chain Talent Dallas Innovates",
     "status": "unverified"
   },
   {
@@ -357,9 +368,20 @@
     "competitorId": "o9-solutions",
     "competitorName": "o9 Digital Brain",
     "title": "Singapore rolls out initiatives to capture new digital jobs in supply chain management",
-    "source": "Singapore Economic Development Board (EDB)",
+    "source": "edb.gov.sg",
     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQY2NBZzdVQWRNbnlFelNNM0F2WnlKRUpoeXpkMVFVamhSVlpQcTFYOF84ck5ZZmtMS0VROGt5eU1Nb29sR0dncHFyUGNySy1FenM4enNTVTJLVk1MVi0tWHp6VjVGejFsN3F4aGlaa1JHMmFVczZfc1luRUVXTy11LUx2NklFQnZCQ0xhRDYtYUhXRkNtUkZZM05pRTQzU09FSkFkTC1LbnVacXZxY1hyYlpyR3lETjdjczh6YjRTT2l2VVJscFpfMVU5SU9WVTJKRi1ITTFZdWNRbzE3?oc=5",
-    "summary": "Singapore rolls out initiatives to capture new digital jobs in supply chain management Singapore Economic Development Board (EDB)",
+    "summary": "Singapore rolls out initiatives to capture new digital jobs in supply chain management edb.gov.sg",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2023-06-28-xe4iik",
+    "date": "2023-06-28",
+    "competitorId": "anaplan",
+    "competitorName": "Anaplan Supply Chain Planning",
+    "title": "Twelve Consulting Group achieves accreditation for Consumer Goods, Manufacturing, and Finance expertise through new Anaplan partner program, PartnerAccelerate",
+    "source": "Business Wire",
+    "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNRThoYjlMRE5wSlFEQ2VrOXUyXzdUb3VHQk1jRWRlclprNFI0ckx4eEo3OEpIeXhBdXJ3LTlnMi1EdGRfNlpRZUtJVDEtLVJiTHFLNEhIMnhxanJOR0hEQ3RYampQR0wyTGJkREdoVjJzdHFKZ2VzQUN2RWdNTjR3YVFWQ1NIeUJtT05tYVA5aVlWZENWVllwM0JwX2kyRTh0bVpLNWVOWDNrOXFfV2RJd0JEUW1NOTZsRmVlVGxvanYtdDdaWUdIY1gwNEZOV3NpMmxfM1dBTnBLLTB0WWk2bjFZQzNYdEpwVmdjZlpMVFhqWW45a3JNMWFERF8yc2kyc0o3R1ppMlZBZ3JtRUdVREpMVHY3ZnBId2ZYNGNZaG84NVMtQzQzZjd0OWhLVjZrUEF2UGZLQQ?oc=5",
+    "summary": "Twelve Consulting Group achieves accreditation for Consumer Goods, Manufacturing, and Finance expertise through new Anaplan partner program, PartnerAccelerate Business Wire",
     "status": "unverified"
   },
   {
@@ -390,9 +412,9 @@
     "competitorId": "anaplan",
     "competitorName": "Anaplan Supply Chain Planning",
     "title": "GANT partners with Anaplan and Bedford Consulting",
-    "source": "retail-insight-network.com",
+    "source": "Retail Insight Network",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUnN3djVLMXRXZEI5ZzB2U0M3S2kwR3ZwbVVpVkxoY1JYQnA2Z0RLNDUzOU92VXZhSzlJdXFxZHlBQkl5X3dIb1BTd1poN3ZBZEctRlNEandrS2lEZTBqQXRBYzNvZDhYRC0xek45dnBqclFEVnBmenFXcnFreE91RA?oc=5",
-    "summary": "GANT partners with Anaplan and Bedford Consulting retail-insight-network.com",
+    "summary": "GANT partners with Anaplan and Bedford Consulting Retail Insight Network",
     "status": "unverified"
   },
   {
@@ -440,17 +462,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2021-08-27-4agjq5",
-    "date": "2021-08-27",
-    "competitorId": "blue-yonder",
-    "competitorName": "Blue Yonder Luminate Planning",
-    "title": "Dole Food & Beverages Group Adopts New Supply Chain Solutions To Avert Rising Challenges",
-    "source": "PYMNTS.com",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRGZiVUdMSUcwVk1iMUN5a2lJOUxwdHktZWg0Vm44d2V5RFlkeFQ4Rkxoa0lCMVIwMzJseVpIWlRtY1d5Zk4tMWpQOWI1cElqWjB3VVZHU2RkaWZoZU5XR3RxQ2lLOHk1YjdZNW4tS003Nm80UlVRZVNhTTJ1c0tfNXFBSmZlOHl2bnRSdmNySmtGcDlTeUNBNXZtc3VvRDY4RGRQMy1QVHh5ZUtIMGYyWEFKZmRETE5KWV96NUluMng0ZDVsWHhsX3A3U1ZaZw?oc=5",
-    "summary": "Dole Food & Beverages Group Adopts New Supply Chain Solutions To Avert Rising Challenges PYMNTS.com",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2021-06-22-nofu6g",
     "date": "2021-06-22",
     "competitorId": "logility",
@@ -467,9 +478,9 @@
     "competitorId": "blue-yonder",
     "competitorName": "Blue Yonder Luminate Planning",
     "title": "UK's M&S selects Blue Yonder's Luminate Planning for supply chain",
-    "source": "ALCHEMPro",
+    "source": "alchempro.com",
     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcFpsTTRDUlpMdlJpM1FNNzVEMUU2eV84WmNtOWFXVGFmSG9RVVJ5ZFd3bmdBNHlQa3FyREthY0ZKblotTUxKMDh6eE9nVGI5eTc1TFRmb3NzT05BS0lLT24wN00wdlg2UFZvd24yTjMtcHg2ZG0ydjlhR1Fyd003Q194TTFoa1hTSFh0eld2emgtNC1BbTMtZWE0dzdKQ0YwdnpVeVZIZXhWWGowYzM3UFgzQjJrVUQzaDhZN3BLYllTc1lXRXpTdlVMUWVDeG5FM0tlVFNPckFab2g2?oc=5",
-    "summary": "UK's M&S selects Blue Yonder's Luminate Planning for supply chain ALCHEMPro",
+    "summary": "UK's M&S selects Blue Yonder's Luminate Planning for supply chain alchempro.com",
     "status": "unverified"
   },
   {
@@ -478,9 +489,9 @@
     "competitorId": "kinaxis",
     "competitorName": "Kinaxis Maestro",
     "title": "The Weir Group’s ESCO selects Kinaxis to enable global supply chain transformation",
-    "source": "International Mining",
+    "source": "im-mining.com",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYWY3WG5RR0ZiQVo4ZkNRTTBCYnVpcmdkLUJ1RnhyU0xZYVRoclV3SWlzajNtVEF4S1E2MWMtNS1KWmlBQUU3cVFfY3ROVGMyTlRqX1l4YVdTbVNhc2dac3BWWTY0d0ZEZ2Vkc0xDSXVWdkw4QUM5LU5MRE5sV29HQ0hMYThzRG9wYlRfdlFpQzA5ckZSOEpNdXAyemJfSGJ2cERiOUZKbU5PSldu?oc=5",
-    "summary": "The Weir Group’s ESCO selects Kinaxis to enable global supply chain transformation International Mining",
+    "summary": "The Weir Group’s ESCO selects Kinaxis to enable global supply chain transformation im-mining.com",
     "status": "unverified"
   },
   {
