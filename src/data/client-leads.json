@@ -33,17 +33,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2026-06-02-1owocqs",
-    "date": "2026-06-02",
-    "competitorId": "kinaxis",
-    "competitorName": "Kinaxis Maestro",
-    "title": "Assessing Kinaxis's Valuation As New CMO Hire And LIDD Partnership Expand AI Supply Chain Reach",
-    "source": "Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZWNFaWt5dUxwLVRfTnByMWUwZUJVNlN2MmlIenpzc2lLOXJXbjlJaWNtNVpvRXFQamZ1bkR2RTFXZmFhdGtVTnRWdUhjaVM0ODJQQnhhMmp3ODREVzRiU3poSzVTMk90ajZzclN6ZmZ2R2FyMzhRemlBbG14dVZGUEt0MUxCa25kMzhOUkJiWjQyZEdnMkZkV1VVNTdxQTUwWUlIXw?oc=5",
-    "summary": "Assessing Kinaxis's Valuation As New CMO Hire And LIDD Partnership Expand AI Supply Chain Reach Yahoo Finance",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2026-05-19-7l9inh",
     "date": "2026-05-19",
     "competitorId": "blue-yonder",
@@ -137,9 +126,9 @@
     "competitorId": "kinaxis",
     "competitorName": "Kinaxis Maestro",
     "title": "Kinaxis and AI4OPT at Georgia Tech Announce Co-Innovation Partnership to Advance Scalable AI in Supply Chain Orchestration",
-    "source": "gatech.edu",
+    "source": "Georgia Institute of Technology",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ2Q0UEJpZHRvZ0lRNmI4S1hhcWRSTjQ0bERaQUVNaTExSVpDRDNUMjJ4QUEzLWlIQndHVHNwWUxZTzRDLVhhYnFzQUVfeHo5eHF0OFRDYTZ3cmFCRnVfLUozOU4yV1p3MXE4bkFtTHI5ZmE3Vkw4MlhDQzk4Mjh4X3BRWVhqeU9Cdl9jcXBKTkNfem91RGx5Zm5QNFkyMi1zRTJfZzVrTkVXc1gzZkQtSG9OUUtILXFseVFHQy1Gcw?oc=5",
-    "summary": "Kinaxis and AI4OPT at Georgia Tech Announce Co-Innovation Partnership to Advance Scalable AI in Supply Chain Orchestration gatech.edu",
+    "summary": "Kinaxis and AI4OPT at Georgia Tech Announce Co-Innovation Partnership to Advance Scalable AI in Supply Chain Orchestration Georgia Institute of Technology",
     "status": "unverified"
   },
   {
@@ -250,6 +239,17 @@
     "source": "SAP News Center",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY2V1UmFxS01ZalhRN29IS2RXRkw0OE5xM3lWNENDRFpxWDNuRUxxckdVTmZkcFF4dlcySm1sdDlkeF9DRmthdDRDT2E0M21FYzhJY3NwY1FHbmFjX3kwcW9jNmNveXV2OGNsSkhQbEZQUkpNVWpwSk9fa3RNYTd2U0Q5a2MzYTBrdlFMZUc1bzltNWhWejE4V9IBoAFBVV95cUxPalRmV0c1SG1oWnJhU1VLY2wybnhNQzltX2lwdlJLcWVrQXNxTnNOOFV5MUlVY3dRLWZpd1o0S0VTNzladzAtV3lObzhOQmpaMG5nYkFqSDU5eExyNE95N0EyTXRsRDZYSnRyQ0J0NkxLaXFQWjE2d0hXYUkwOHFIdnlOOU1oY29OYkt6Rkpac1NwZVRsOEJydFo2WG5LQ2xI?oc=5",
     "summary": "Ericsson Chooses SAP Software to Connect Supply Chains SAP News Center",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2024-03-18-okmxwk",
+    "date": "2024-03-18",
+    "competitorId": "kinaxis",
+    "competitorName": "Kinaxis Maestro",
+    "title": "Watch: Castlery & Kinaxis: A Data Analytics Partnership",
+    "source": "Supply Chain Brain",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeU9EQWpPZDA0MDRsdXZTU1hDR25RUkNmenhXWlktU1haQlBhcWcyRnhjWVhscTFCR2NHSUxTZHhoZjZCSzZKU1Q2M3FLS2dPb2UwbkN0OC1iZFc3c29OSjBoU05qdWZNZ1N5b0F5RDFXbi0wS1pSSGp6Q1MyMEN1OVNVMG50WU84YkpiMFB2Y29WdDVwaEJ0YU4wb1c4TzJiNmoxTnVleHFIZ184a0hlZTNheDNqZnU2c1hN?oc=5",
+    "summary": "Watch: Castlery & Kinaxis: A Data Analytics Partnership Supply Chain Brain",
     "status": "unverified"
   },
   {
@@ -456,9 +456,9 @@
     "competitorId": "blue-yonder",
     "competitorName": "Blue Yonder Luminate Planning",
     "title": "Blue Yonder Pivots to a Partnership Strategy",
-    "source": "logisticsviewpoints.com",
+    "source": "Logistics Viewpoints",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcGlhWG0wS2pvbVBpdTlPSnI2XzBITXVYSjZ1NExFeWFMclV4Y2tXc0lQY1FJVGZONjc4VS1VRWNGLXh1aHZzQnlUUnlUNjdBb2xBNUJLYVFfRUlpaWZNWUNUdk96Y2p5dFRIRElOVDhnM0xjZlh1blA5NFVHbDBiUnlrcjhWS2R6UjhCaUZuUXBGZw?oc=5",
-    "summary": "Blue Yonder Pivots to a Partnership Strategy logisticsviewpoints.com",
+    "summary": "Blue Yonder Pivots to a Partnership Strategy Logistics Viewpoints",
     "status": "unverified"
   },
   {
@@ -539,14 +539,14 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2018-05-16-v82z78",
-    "date": "2018-05-16",
-    "competitorId": "logility",
-    "competitorName": "Logility Digital Supply Chain Platform",
-    "title": "Griffith Foods Rolls Out S&OP Tool Globally",
-    "source": "Consumer Goods Technology",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuRjRPaDVEMnk4VWtsOGxua2ZyUlNETm01V2xwdzlKckpmcTlZT0dlNVFrUW5xcTBBamFrLW92X0xETUZIVmxkS3c2MXpKQnVsaEtESnFQbnZ2WXFTZGtCZWxnSW5mbFhiOWpSWkpCVUxoLWtNV1R3?oc=5",
-    "summary": "Griffith Foods Rolls Out S&OP Tool Globally Consumer Goods Technology",
+    "id": "lead-2018-10-25-mxla5a",
+    "date": "2018-10-25",
+    "competitorId": "kinaxis",
+    "competitorName": "Kinaxis Maestro",
+    "title": "Kinaxis partners with Deloitte to deliver supply chain solutions",
+    "source": "Consulting.ca",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNS0lJQmdNa24tNEZ1amp5NFpXNTloY3BKbUd5Q3ppZVNrN200XzgtNkNSem9sc3NWaVgtcXA5UTF1UkJYeFBFRHdFQm9NWHZsTUVlN0pwaVVESVd1RGN5MDZNREVIS2tYVWxuWEhHRVhaMFFJY05kQ19RUW45NEk3V1V4QlhLSFA0LWhrSlJGSmlLc2xLMmtTczlSV0hsbWxp0gGmAUFVX3lxTE1EV016aWgwNzY0QUF5TzhZQWt4S3lZZWQ3cUFXaXk0ak5OTmw2WEs5V2RDY0tEdWVJZDRGOUpSWEdhRC1pRkVocWZwMlZ2aUxFWklWTjZtNXlCVDVhWFFiU0xPdmJzeFdvR1Bob3hkUWpMX0JZN1hHU21BVXFBTHNWTmh1ZFhJeVEwczBBWDNnSU13Y3prWXBRZGVhZ1VETnIyT2RaQnc?oc=5",
+    "summary": "Kinaxis partners with Deloitte to deliver supply chain solutions Consulting.ca",
     "status": "unverified"
   }
 ]
