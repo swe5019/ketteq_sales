@@ -140,18 +140,6 @@
     ]
   },
   {
-    "id": "n-2026-08-12-5uh1rq",
-    "date": "2026-08-12",
-    "title": "Is Kinaxis (TSX:KXS) Redefining Supply Chain AI Leadership?",
-    "source": "Kalkine Media",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVks1M1Noay1NbEVUMTFseUpnQzBianduTDctOF93YTFkZTRaak55Y3V6eGNGNTlRRFU4T0RQczBRQUF6Z25xLUlTcE5sSmNLc2Z0MFk5b3lHRkN1Q0dPZ2dWeEc1dGVhSHl5ZjZISHBNV25ua05JdC10LWtWQVlxcjRiYXQ4TzNCWXlxdW1SNGxCTTdOY1Jjdlc0MXp1cjl5MEItWm10akRTc0dNYkhOOFVGNWY?oc=5",
-    "summary": "Is Kinaxis (TSX:KXS) Redefining Supply Chain AI Leadership? Kalkine Media",
-    "tags": [
-      "competitor:kinaxis",
-      "agentic-ai"
-    ]
-  },
-  {
     "id": "n-2026-08-11-o525vw",
     "date": "2026-08-11",
     "title": "Kinaxis-Sponsored Study Identifies Supply Chain AI Accountability Gap Amidst Rapid Adoption Expectations",
@@ -214,9 +202,9 @@
     "id": "n-2026-08-05-1f5zl16",
     "date": "2026-08-05",
     "title": "How to conquer uncertainty in manufacturing supply chains",
-    "source": "Diginomica",
+    "source": "diginomica",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WcGV5XzJSN2N5dUZ5RDQ2aHg2WEZTczJpMGMtbTRwRlZZREN5NzZscWw5ZXl4UVNYZmV4RnZWZUVPRGU0RWNISEI3cUVyVW95cmM0bWNTaHJLeXpBZWNmVmlRTVRDWEc3OUJ5YlRJMHJueXVHNllWZWduX25SQmc?oc=5",
-    "summary": "How to conquer uncertainty in manufacturing supply chains Diginomica",
+    "summary": "How to conquer uncertainty in manufacturing supply chains diginomica",
     "tags": [
       "industry"
     ]
@@ -271,23 +259,22 @@
     "id": "n-2026-07-23-9jly70",
     "date": "2026-07-23",
     "title": "Kinaxis’s Andrew Bell on why supply chains need to reverse decades of optimization – and become more complex on purpose",
-    "source": "Diginomica",
+    "source": "diginomica",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaGhoUDhqOUNWZlJSS2Z3MF83VG90aWVUMWh6ckx4N3YzMmVEeXh1aFBTaTVjNjh2YWhmallWOUxGbjdMUGV2TW9IRjFXQUkxX29jZ1VlVXA4SDdZQjlWYmxtTDFWNjBDLWcta3NycC1NeE03TUlLVkxuWEFPM2NnTWVTYTJOWlZGRUNaVHFmNnU1OF9vZDJsNkhBX1BLZXpMR2lxMQ?oc=5",
-    "summary": "Kinaxis’s Andrew Bell on why supply chains need to reverse decades of optimization – and become more complex on purpose Diginomica",
+    "summary": "Kinaxis’s Andrew Bell on why supply chains need to reverse decades of optimization – and become more complex on purpose diginomica",
     "tags": [
       "competitor:kinaxis"
     ]
   },
   {
-    "id": "n-2026-07-22-11p1r57",
-    "date": "2026-07-22",
-    "title": "Nissin Foods Teams Up with Highspring and Blue Yonder to Adopt AI-driven Supply Chain Planning for Faster, Smarter Decisions",
+    "id": "n-2026-07-23-1d0ti3x",
+    "date": "2026-07-23",
+    "title": "o9 Solutions Demonstrates Over 10x Faster Optimization for Enterprise Supply Chain Planning with NVIDIA cuOpt",
     "source": "Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSXdEN1FRbHFIcEZyR3Rya2RsX2k2aUJ3WWJOYnBCRkdxSllCS00yVldqODlxVDhBc25WWEFzYU5fOVhrYUpKdnFLcUp3VlhMby1LRm0yU2N0dWVIeFplLVUybmtsVW9sWWtERXJHTmtaeDRXOWlfQ3E5Rzd0WUlUY2pySXFCeFgzTUxyNU1EZHVlUUhzS3poVElDTG1MbzA?oc=5",
-    "summary": "Nissin Foods Teams Up with Highspring and Blue Yonder to Adopt AI-driven Supply Chain Planning for Faster, Smarter Decisions Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaUZxcHprYnE0UGl2NkEwTWZNeG44cHBPSE9ZZldkNTh1RHlxSVdWbXRGWXYxSEgxamg1WE1VaEpYZ3g1OUhTc0p3Szd0a243U3JXX3hodVYyRzNQYjdHbFNCRzVNdDhndDZZMFN5QW80eW9Qa2xqSDZjN1NaNFVQUFZTc2RhS2U0amp4d1N2dHFVWnI5NG13YU5Nc19BUTQ?oc=5",
+    "summary": "o9 Solutions Demonstrates Over 10x Faster Optimization for Enterprise Supply Chain Planning with NVIDIA cuOpt Yahoo Finance",
     "tags": [
-      "competitor:blue-yonder",
-      "agentic-ai"
+      "competitor:o9-solutions"
     ]
   },
   {
@@ -302,6 +289,18 @@
     ]
   },
   {
+    "id": "n-2026-07-22-11p1r57",
+    "date": "2026-07-22",
+    "title": "Nissin Foods Teams Up with Highspring and Blue Yonder to Adopt AI-driven Supply Chain Planning for Faster, Smarter Decisions",
+    "source": "Business Wire",
+    "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQdlBfUWZXLW5adUlNWnVJZGVnUGtVdjdfT0RabEhNSVpRdTNBc3R5U0lMNTd2MTlNeXQ2eEhTQ3Q1T3NMM20zQi1uVzlpVkJlLVRpU1ptdi1EOXVETnZxYkstLWZaQkdkRTJqTzEyZkFtaGduYVFLeWwxS2tKTTRfVjF1SENJSFh0ZnFyQkJMSjdmUW8yMzViVHpkWmUyQzN0b2h2VUxSQkRUOF84VVcwcS1FSkhBZE0tSXZVeFd6MXRqNDU4YUIzQUJhZVM3a1k3SUNwemNsamg2R1BXT1dNY0FQRTJVYUhocXpUdHhyMVFmUHlkbUJlS01CdlV3RXBDQU9nWlVKbDZjLTBr?oc=5",
+    "summary": "Nissin Foods Teams Up with Highspring and Blue Yonder to Adopt AI-driven Supply Chain Planning for Faster, Smarter Decisions Business Wire",
+    "tags": [
+      "competitor:blue-yonder",
+      "agentic-ai"
+    ]
+  },
+  {
     "id": "n-2026-07-22-12mv42w",
     "date": "2026-07-22",
     "title": "Kinexions 2026: AI Skills, Speed to Supply Chain Decisions, and Modernization Strategies",
@@ -310,17 +309,6 @@
     "summary": "Kinexions 2026: AI Skills, Speed to Supply Chain Decisions, and Modernization Strategies ARC Advisory Group",
     "tags": [
       "agentic-ai"
-    ]
-  },
-  {
-    "id": "n-2026-07-21-l34a5j",
-    "date": "2026-07-21",
-    "title": "Kinaxis Names Herb Yeh as Chief Financial Officer and Chief Strategy Officer",
-    "source": "Logistics Viewpoints",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVngxVXRKMzgxR1lyM2hGQ2xLTXNidU9wYjZiSXF0X0ppSUw0dG1aSkVXZG5FTm1EMlZPSTZPSFRwTXpGODl5SVd2bFFOakN3WnIwakFZMmFSVjNMYnpZQUY2WHVINXF3X1hCaWUzUmduUzZfUzdLalhWeTNRTVV1MEhyZGY4aWZVNXJDUzlSTm5QaHkzTzVfNjVUX3NoWXh6d2VBa3E0dkVybWFnMnI5OEhCYXROVUJzeXF2Tw?oc=5",
-    "summary": "Kinaxis Names Herb Yeh as Chief Financial Officer and Chief Strategy Officer Logistics Viewpoints",
-    "tags": [
-      "competitor:kinaxis"
     ]
   },
   {
@@ -335,14 +323,25 @@
     ]
   },
   {
-    "id": "n-2026-07-20-tuum84",
+    "id": "n-2026-07-20-1c6nx9t",
     "date": "2026-07-20",
-    "title": "Miebach celebrated by Gartner Magic Quadrant listing for supply chain services",
-    "source": "Consultancy.uk",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZE5BSmRfWjhKRjQxREJRT2RmZHcybnZTZ0FSYksxS2s0Vm1UVTVOUmMzR19uY0gxMmd2WDI1Z0dUOFJYZ1otR0RsbVQtYzFmcWxyemVXX0VzY01pYU9RZWV6V19iVGxPbHM3X0RPaWszdVpCdlF0Y3daZDBJSTZGemZlOGRoSk8xd1BwY0lCRTJxcjg1ZmZ2LUZ4UXRqdmM4SmNQaUQ0dks1N3lKOVBlcmpfaHVUMknSAbwBQVVfeXFMUEpuM2ptQWJqTTlCdExWVHJ4eHVmbWctZF9ndVlodi0tM2N4WVlJTHQ0X2NpbHFOOXBZUjIzOGhtbGozQ3NtN2oxMS1Ua0RWTkMwWk01VHFfWGZmUmMwU1VhT3VCX3c5WlRiZDN4M3FGSU44TGdyMHdsd0pReEZ5Ty1QSmZQR1pCaHNBUHQ5WW04bkhMdG5WWDFiWnF4eDB0bG1SMEtPVDVNVHBYSmFiNWVZTUtFUm1DbFpuZko?oc=5",
-    "summary": "Miebach celebrated by Gartner Magic Quadrant listing for supply chain services Consultancy.uk",
+    "title": "o9 Solutions: Interview With CTO Dr. Ashwin Rao About The Supply Chain Optimization Company",
+    "source": "Pulse 2.0",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYYUE1S09pWDFLbnAxdGtOemJNMndMWkFWbDRhbHZiUEQzX0w3cENJTzNnb05TYmMtOVUzcW1lYTlJME9GbTZSVGpUMnRPU09rdnR5dlNkOTFRa25rUmM2cWgtdjZmVzNEdkJ6QVhzY3Q5QdIBd0FVX3lxTFBZQnFndThKbEwzdnMyOTIxQl9VY011b0FXeE5TMG40V21pQ3lIcEVwQ1F3bi1sVVdMQlpOLXp1OXowa3FFZGkyeV9LODNGRDlyNG9ZMVlCeDRuUWMwQjBzclRhZThIWHhZMGlGN1JNRm8wZVhkUFZn?oc=5",
+    "summary": "o9 Solutions: Interview With CTO Dr. Ashwin Rao About The Supply Chain Optimization Company Pulse 2.0",
     "tags": [
-      "gartner"
+      "competitor:o9-solutions"
+    ]
+  },
+  {
+    "id": "n-2026-07-20-1a2mjvj",
+    "date": "2026-07-20",
+    "title": "Kinaxis Appoints Herb Yeh as Chief Financial Officer and Chief Strategy Officer",
+    "source": "Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT0JsNmxRdkNadFRqX0xxYm9JSFI2a0NsV05kbHFZTmxhSWg5MTRNZm9VcHpQTjNxcnFqeEtfaTVSYWtIUm1pTU9LMWdYbF9PdG81SEJ3QkJlUFljMHJodVVGX0RwaVNpbnBxMklLLWVOaWZCOXhGWDlac2Z6NnlvTE9CMGx5clJRSF9rdVcyU3RrLWFPS2FV?oc=5",
+    "summary": "Kinaxis Appoints Herb Yeh as Chief Financial Officer and Chief Strategy Officer Yahoo Finance",
+    "tags": [
+      "competitor:kinaxis"
     ]
   }
 ]
