@@ -70,9 +70,9 @@
     "id": "n-2026-09-03-1jd1hce",
     "date": "2026-09-03",
     "title": "Anaplan awards top Australian partners for 2026",
-    "source": "arnnet.com.au",
+    "source": "ARNnet",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOVZVUEh6MEl3ODdoSnR3aWtMNWZGdWdnR0lVTDBGVURBNWF1WmNwNUU5OGlETmFhZUxrc2wzNDRmRzRyckViRms3VVNOeEgtY292R2FoVzNIbXhsMnlQdGw0dVhjZVNWdjYwejJHR1ozZ211OWhRMktraGpmWXdJTUxqRHk5OVlhZTNvaVJHb2Z2QXZUYzZtLThB?oc=5",
-    "summary": "Anaplan awards top Australian partners for 2026 arnnet.com.au",
+    "summary": "Anaplan awards top Australian partners for 2026 ARNnet",
     "tags": [
       "competitor:anaplan"
     ]
@@ -206,9 +206,9 @@
     "id": "n-2026-08-28-1xb7wi6",
     "date": "2026-08-28",
     "title": "Supply chain agents replace apps as Blue Yonder rethinks work",
-    "source": "SiliconANGLE",
+    "source": "siliconangle.com",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORHpnX0NveW02TjVTYTdCU0czMkhsWVlOcGVyVXdmUDgzM2o1NUJxbEhGMUdIV1U0T3hWU0NYMUtpMWtqSE51eGRFVlNOLVZsVDdRUkd2WUU0RndPbm9JZVcwaDRLM3ZtTUNyaGZicDBOc1VhUUI3TUdOT2tiY2NzRVdQWmRyUG13TVdQcXpsMzJBTnhkV0dINEhxd3BNbnJxc1hjTEdQZlVKZw?oc=5",
-    "summary": "Supply chain agents replace apps as Blue Yonder rethinks work SiliconANGLE",
+    "summary": "Supply chain agents replace apps as Blue Yonder rethinks work siliconangle.com",
     "tags": [
       "competitor:blue-yonder"
     ]
@@ -247,19 +247,6 @@
     "tags": [
       "competitor:blue-yonder",
       "agentic-ai"
-    ]
-  },
-  {
-    "id": "n-2026-08-26-1vvipkw",
-    "date": "2026-08-26",
-    "title": "Kinaxis Stock Under Pressure: Can AI Supply Chain Growth Withstand Valuation and Execution Risks?",
-    "source": "kalkine.ca",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObDRISGpwMG1KTjF4OW5QYnJBNVZuMDhVbnBrcENIQ0pLYy1QeVN5SXYySzczQXJzSFRiRUsyNEFvam1iUWZlVkE3TWNtZlR6UDhoMkFBM1FrbU9sckpWanhPWl9rRGFRYWN5ckhUU2xXSEFPYnByQWJObDB2c09HaUJDajBpN2lGRFRMUzJyYzQ0OUVxN1dpY2l2djNvMW1kakRTWHdvZjBfUWZrRmViaTFMYW96ckk1eDBpc2paNXhjTkYwaExBRDJ3?oc=5",
-    "summary": "Kinaxis Stock Under Pressure: Can AI Supply Chain Growth Withstand Valuation and Execution Risks? kalkine.ca",
-    "tags": [
-      "competitor:kinaxis",
-      "agentic-ai",
-      "funding"
     ]
   },
   {
@@ -341,6 +328,17 @@
     "summary": "ketteQ Named to the 2026 Inc. 5000 List, the Most Prestigious Ranking of America's Fastest-Growing Private Companies PR Newswire",
     "tags": [
       "ketteq"
+    ]
+  },
+  {
+    "id": "n-2026-08-15-12bwvag",
+    "date": "2026-08-15",
+    "title": "What Do SAP (XTRA:SAP) Security Patches And Supply Chain Awards Mean?",
+    "source": "Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORVF5TEdfYmFuazJmellsWTUzNFZxNFdwbVpyV1NsV3FrNTBtNEhVdkg2aTRqTTJ4b3dSekF1aXlFUFN5QXJYZ0o3T2VJUFRoUGhoSFVQMVNQUG9UdTVDWGdWWnFDTDdPUkExa0pPYUdtT1JDUThVcnBWZVRMVnFvMEFQeWVlSFJKa0hYUGtTdVRkZjMyb0owbQ?oc=5",
+    "summary": "What Do SAP (XTRA:SAP) Security Patches And Supply Chain Awards Mean? Yahoo Finance",
+    "tags": [
+      "industry"
     ]
   }
 ]
