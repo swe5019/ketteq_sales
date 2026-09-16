@@ -27,9 +27,9 @@
     "competitorId": "blue-yonder",
     "competitorName": "Blue Yonder Luminate Planning",
     "title": "Kuehne+Nagel rolls out cloud-native Contract Logistics solution across over 1,000 sites globally",
-    "source": "newsroom.kuehne-nagel.com",
+    "source": "Kuehne+Nagel",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVEVpVm01RHVNNG44TDNydzNJc0lqeUtyQmJlbGVhUzZqLWJoUnZaYVdobnF0aExUV2w0MVZqbnRxS3BIY0xCTDYzOHBrQVpDQ3hndXp6Q2RoT0pFY3JzelBrWnpEdnJDTVV0UW92d3NBMzNGMDAwcDlqcDlQWkE2b24wd3Z1NGdpU3dhZzhlR3BsdEowLU5wV3JVbDd5OGhlSlVOb3FFbjBWSGtEWFRTVTZhQUZ4bEFhWTFXd1lUZXNJTk1OckhWZA?oc=5",
-    "summary": "Kuehne+Nagel rolls out cloud-native Contract Logistics solution across over 1,000 sites globally newsroom.kuehne-nagel.com",
+    "summary": "Kuehne+Nagel rolls out cloud-native Contract Logistics solution across over 1,000 sites globally Kuehne+Nagel",
     "status": "unverified"
   },
   {
@@ -187,14 +187,25 @@
     "status": "unverified"
   },
   {
+    "id": "lead-2024-09-03-3uantw",
+    "date": "2024-09-03",
+    "competitorId": "blue-yonder",
+    "competitorName": "Blue Yonder Luminate Planning",
+    "title": "FPT Software partners with Blue Yonder to transform Supply Chain Management across Southeast Asia",
+    "source": "Cyprus Shipping News",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRG91ZEowM0dLZ3lTYXdmejctNnl2VGlkQ21VQk9wMFlkbEN0aWlkdHhwYzJ6SERXUmUtdDRaMHNma3NjN1gybnVueUJvcEp6YnhNQkxTTmZBbVNjZFBrM09SaUh1YjRMc3NKeHZoRG5PcWQxRWthdDd1ZzB4S1JBU0JmUkdmUTNBVlZZUkUtbk1fM2Iya3M2U2ZlYk9xU2Y5aE54R0htcjZ0c1pQY2kyRG5kOTVyOWktTndfMHNCamI5Rl9LN183Vl9VUEdtdWpZTHNuX2JaOA?oc=5",
+    "summary": "FPT Software partners with Blue Yonder to transform Supply Chain Management across Southeast Asia Cyprus Shipping News",
+    "status": "unverified"
+  },
+  {
     "id": "lead-2024-08-02-16ircev",
     "date": "2024-08-02",
     "competitorId": "o9-solutions",
     "competitorName": "o9 Digital Brain",
     "title": "Adani Logistics, SBI among industrial partners for Telangana Skill University",
-    "source": "education.economictimes.indiatimes.com",
+    "source": "ET Education",
     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPTENkMk56cXg5dnN6YlBkTk1tQTV2bkt1SGVGeS14Z2tzYUtqWFd4S3V5WTRyQVR0ZHMxQnBNajhGMGxxTzR5a05rUzlzNzVscFdaczEyV01xLVc1SzhYQUNyTVYzR3RUTDQ2Q3JYeEJxaHFTczBZZ3hRakxzc0I2YkYyQ0V3S3lDZENFQmFQRWtJU0doOGI2MENhcDJaZGFTc0lod0tUN0NBSXdCc2JsdnZNV3lGNEg5Mk5zaUZTQUtsZFNYeXNXa1ZCNzlBUmY3cWZOaGpscVdpMGQtUmI2STJ2TmpGaFMzYTkzRlNoTF9SMjRSSFp5YmQ4cU82TDTSAYQCQVVfeXFMT3ZYTmVDQXRuakNZdXB4UjliMXF5WUkxbVlBUEtJZXJoTnNsZmZfTVEzRWRHcnZiQnVqN2lOMTNCeE0tX0VMS01oWm9OdlFnNnJRYmswdGtMd1RWUFVyUHZFMHBnWmxBS2dEUnduRjhaekQ2bUlvTS11X3ZPWXJMakN5X19NWng4N0YyNjRGbXNPSnlYbmYzUGwxX2p4bFNyak1nM0VYRmd6djFjVS1lUUZCQ1JvS1ozQWdtOFhmQnpHaGVzVDBWcjYwc0ZQMlZqb0dzSmpHZTQ1bHcwTjMyaXB6VDNsN1lYUmdURDYxVlJHdWplNy0yT2JVSjlhU0s4dk1mZzU?oc=5",
-    "summary": "Adani Logistics, SBI among industrial partners for Telangana Skill University education.economictimes.indiatimes.com",
+    "summary": "Adani Logistics, SBI among industrial partners for Telangana Skill University ET Education",
     "status": "unverified"
   },
   {
@@ -412,9 +423,9 @@
     "competitorId": "o9-solutions",
     "competitorName": "o9 Digital Brain",
     "title": "Retail Tech: URBN Deploys Merchandise Planning, Optoro Offers Home Pick-ups, Radar Raises $30 Million",
-    "source": "wwd.com",
+    "source": "WWD",
     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPakM3SjJpbTVOUHB0ZVYyclp3MmVhRmdZd25KeC1pNUYwWk9EZzJmd0tGV0VvVm8zcWI3NEVHSjhrRUpKdV9fUHAxT1RSUlZYbXZoUThaZkJER1lVX0w0cEZlOVVIMnQ4WjhTZkVXLUxtVDJpZi1uUTE3WUI4ZmVGTE9JWlc4Q0M4YXRDVU95YWpzYTgxM0ltcV9za3ZKUWJoZjR1R1dRNkJmR3YwWFl5X3RHQTc0ZGoyZVJxMmFBSUtWT2F3SC03d2FrbWF2V1BNN3hVQmtYX082Mm5Db0JqRm1FTzI3WW5wanZROWFHSFZPbWxwQ0Qw?oc=5",
-    "summary": "Retail Tech: URBN Deploys Merchandise Planning, Optoro Offers Home Pick-ups, Radar Raises $30 Million wwd.com",
+    "summary": "Retail Tech: URBN Deploys Merchandise Planning, Optoro Offers Home Pick-ups, Radar Raises $30 Million WWD",
     "status": "unverified"
   },
   {
@@ -434,9 +445,9 @@
     "competitorId": "o9-solutions",
     "competitorName": "o9 Digital Brain",
     "title": "PwC India and o9 Solutions announce strategic partnership focused on supply chain transformation at scale",
-    "source": "MediaBrief",
+    "source": "mediabrief.com",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTUdnb3FibGlDNG95eEhvWnhnZUtBM2NrbllsRUM4aVRZXzZmbmh3NExNWGsxTVhQeHlHYm9fbnBlTUwtRzhtN013ZnlKbVk0ZDg2X3ZpdGdScmNPb3NjUUE3WEdwZF91YUozUHhGYjRocnpaVmRFVlo3TzJNTzdPV19FM3gzRXFD0gGOAUFVX3lxTFBNdTVIaGFnM0otRktJbVlJcDVCVUhhczhuTXRqYU1sLXpReEVTUW91YTRZeFhraTlWVXFFLWNnM2JDWjMtMmFHWEhnakNrak1ITHFDOHdGM0FDZTlfTXctcDlFTDZ4R3BJYlIzLWVHX0ZmY1FKZDVaZGpjZG1DQ2ZNSDBWOG5lTDNGckVieUE?oc=5",
-    "summary": "PwC India and o9 Solutions announce strategic partnership focused on supply chain transformation at scale MediaBrief",
+    "summary": "PwC India and o9 Solutions announce strategic partnership focused on supply chain transformation at scale mediabrief.com",
     "status": "unverified"
   },
   {
@@ -522,9 +533,9 @@
     "competitorId": "blue-yonder",
     "competitorName": "Blue Yonder Luminate Planning",
     "title": "Blue Yonder and Snowflake Partner to Unlock Value of Data in Supply Chain Management",
-    "source": "Snowflake",
+    "source": "snowflake.com",
     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWjNKXzh3WmdERWVmUDk2OXdnZnVKanU0UDJCeE9lNDk5OXVZYzRjVWlLQlFQUnJfdWIzWFppb2Zvei1QUlM5MkFVZUsza2pvaXRwTEhCRENPaS1pTktkaWhwbkl5VE5TaXNlOXVIaGRPMGEtLTltUzkwU05yT01sMk5JNFdvdVMwY09FdzEyNUo5Vnd4aGVVVVJMYzVZZzJxalAtcmNCMWc4aFlrcE14VXdSbU1aTGNMUzkwd2o5TmdfTjByaDhHSVZLaUpZNDQ?oc=5",
-    "summary": "Blue Yonder and Snowflake Partner to Unlock Value of Data in Supply Chain Management Snowflake",
+    "summary": "Blue Yonder and Snowflake Partner to Unlock Value of Data in Supply Chain Management snowflake.com",
     "status": "unverified"
   },
   {
@@ -533,20 +544,9 @@
     "competitorId": "blue-yonder",
     "competitorName": "Blue Yonder Luminate Planning",
     "title": "Blue Yonder Pivots to a Partnership Strategy",
-    "source": "logisticsviewpoints.com",
+    "source": "Logistics Viewpoints",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcGlhWG0wS2pvbVBpdTlPSnI2XzBITXVYSjZ1NExFeWFMclV4Y2tXc0lQY1FJVGZONjc4VS1VRWNGLXh1aHZzQnlUUnlUNjdBb2xBNUJLYVFfRUlpaWZNWUNUdk96Y2p5dFRIRElOVDhnM0xjZlh1blA5NFVHbDBiUnlrcjhWS2R6UjhCaUZuUXBGZw?oc=5",
-    "summary": "Blue Yonder Pivots to a Partnership Strategy logisticsviewpoints.com",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2021-06-22-nofu6g",
-    "date": "2021-06-22",
-    "competitorId": "logility",
-    "competitorName": "Logility Digital Supply Chain Platform",
-    "title": "Retail Tech: Neiman Marcus Acquires Stylyze, Urban Deploys In-Store Reporting",
-    "source": "wwd.com",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWTU3d2I5N1FhZXdhYmFEQi1GaGZBVUxTUmZaLWNmd1hMS2ZvLXBCSGtxU0pOb3ZheGdBRDIzcmhKY3FUS0phV1AtSTktVGhiSHRWTkd6MlAweGlLaU5hVG5QVEI2dTZzazFoOFE1eDZ2bWxwcW5sWnQxSFVtVGtmdHZYUUdjbkVQZldEN3l4SUg1NFNqX2V4cW5OOEFoTGlRVjRNSjZlaWZqVGYyQktfeFZQUHYzaUt2eUs3NGotR0ZfTFVxeFR3Sktn?oc=5",
-    "summary": "Retail Tech: Neiman Marcus Acquires Stylyze, Urban Deploys In-Store Reporting wwd.com",
+    "summary": "Blue Yonder Pivots to a Partnership Strategy Logistics Viewpoints",
     "status": "unverified"
   }
 ]
