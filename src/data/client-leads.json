@@ -324,9 +324,9 @@
     "competitorId": "o9-solutions",
     "competitorName": "o9 Digital Brain",
     "title": "WS Audiology Selects AI Platform to Enhance Supply Chain Planning",
-    "source": "The Hearing Review",
+    "source": "hearingreview.com",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZzM5ZkxDUDhfSm8xMWxLWGFNUzF6aENxbmIzdlRNLUFaMmRZNGdQM2J5akNIWEpWc2RaUS1rT0hrMnBkT3lSU3NOYXMwLTRSR21aZUR0dlZTU0U2eDFfekx5OHRYNEQ0a3NaQ2txQ0REUmlHc0hMR0dreWVuNVF5cXE3WE1FdmVuRVRrY1ByTng5bko0VktWdGRkQTJuRUFfZDNpNGJOWHpsMERscjBkS3JscG5zeXZSME1NNg?oc=5",
-    "summary": "WS Audiology Selects AI Platform to Enhance Supply Chain Planning The Hearing Review",
+    "summary": "WS Audiology Selects AI Platform to Enhance Supply Chain Planning hearingreview.com",
     "status": "unverified"
   },
   {
@@ -478,9 +478,9 @@
     "competitorId": "kinaxis",
     "competitorName": "Kinaxis Maestro",
     "title": "The Weir Group’s ESCO selects Kinaxis to enable global supply chain transformation",
-    "source": "International Mining",
+    "source": "im-mining.com",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYWY3WG5RR0ZiQVo4ZkNRTTBCYnVpcmdkLUJ1RnhyU0xZYVRoclV3SWlzajNtVEF4S1E2MWMtNS1KWmlBQUU3cVFfY3ROVGMyTlRqX1l4YVdTbVNhc2dac3BWWTY0d0ZEZ2Vkc0xDSXVWdkw4QUM5LU5MRE5sV29HQ0hMYThzRG9wYlRfdlFpQzA5ckZSOEpNdXAyemJfSGJ2cERiOUZKbU5PSldu?oc=5",
-    "summary": "The Weir Group’s ESCO selects Kinaxis to enable global supply chain transformation International Mining",
+    "summary": "The Weir Group’s ESCO selects Kinaxis to enable global supply chain transformation im-mining.com",
     "status": "unverified"
   },
   {
@@ -528,17 +528,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2018-05-16-v82z78",
-    "date": "2018-05-16",
-    "competitorId": "logility",
-    "competitorName": "Logility Digital Supply Chain Platform",
-    "title": "Griffith Foods Rolls Out S&OP Tool Globally",
-    "source": "Consumer Goods Technology",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuRjRPaDVEMnk4VWtsOGxua2ZyUlNETm01V2xwdzlKckpmcTlZT0dlNVFrUW5xcTBBamFrLW92X0xETUZIVmxkS3c2MXpKQnVsaEtESnFQbnZ2WXFTZGtCZWxnSW5mbFhiOWpSWkpCVUxoLWtNV1R3?oc=5",
-    "summary": "Griffith Foods Rolls Out S&OP Tool Globally Consumer Goods Technology",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2017-02-02-1ju0297",
     "date": "2017-02-02",
     "competitorId": "kinaxis",
@@ -547,6 +536,17 @@
     "source": "Supply Chain Market",
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaTJTY2U5SEtXS3RGc0JrZi1SMUxiX1BzUk1HMXRybUlKaDRTaWJPbnRVQmhFQWpYT3E4MjBsNDBJUU1sdzlrcHpXWXVnWHNIYmkyQUhTci1ubDFRQmhzRWNuUDhINzd6YVdzYXVtNnlDakUyRHdhOWRQUTgwMzRGeC1oRHhkSzA?oc=5",
     "summary": "Supply & Demand Chain Executive Selects Kinaxis Executive As A \"Pro To Know\" Supply Chain Market",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2014-05-20-9l6a83",
+    "date": "2014-05-20",
+    "competitorId": "kinaxis",
+    "competitorName": "Kinaxis Maestro",
+    "title": "Kemira Selects Steelwedge For Supply Chain Planning",
+    "source": "Supply Chain Market",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcUFtWEo4YUFlQjFTR0ZWaE1ZN2VIRy03WURnQUlhSzZING0wazZyandTYXRKZUtxNVZYVW1ZTERCWWJhWlBRTGRYM192RV9QOURPem15Y1I5X3JZYnpPM0pQWVFDMjR2Tmc3VGo2V0ZxM1gyeEkwMEhfcGdYOXBQbU0yVjRFUGZzZDBEOS15MF9iLVFz?oc=5",
+    "summary": "Kemira Selects Steelwedge For Supply Chain Planning Supply Chain Market",
     "status": "unverified"
   }
 ]
