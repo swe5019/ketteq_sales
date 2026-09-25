@@ -57,6 +57,17 @@
     ]
   },
   {
+    "id": "n-2026-09-19-1fu3wju",
+    "date": "2026-09-19",
+    "title": "Why Is Kinaxis (TSX:KXS) Back in Focus?",
+    "source": "Kalkine Media",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQalMzazkzTG9Ya0xNSFFTcVBERkM4NDk3cUJjMVZ3azZYczl2eG1MdXlnbzZYVVJleEFUS0FtUTY4RUhielJXMlFVeHNvbFRUcVk1SWt3OE9pb3VFTkFHTWNjUXc2OHMzN3BueURiOHB1c0hZdlloU0VHRC1jRS0tMk14U3dteHVkQU9ueXJaWFpSanlONkg0d3N3?oc=5",
+    "summary": "Why Is Kinaxis (TSX:KXS) Back in Focus? Kalkine Media",
+    "tags": [
+      "competitor:kinaxis"
+    ]
+  },
+  {
     "id": "n-2026-09-18-1ghsz8",
     "date": "2026-09-18",
     "title": "ketteQ Highlighted as Planning Partner in Carrier Supply Chain Strategy",
@@ -94,9 +105,9 @@
     "id": "n-2026-09-15-1vkvtv9",
     "date": "2026-09-15",
     "title": "LCI Industries Selects ketteQ for Next-Gen Supply Chain Planning",
-    "source": "tradingview.com",
+    "source": "TradingView",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbU5lNXVrLUJJb0x6UTQtWDRJRTdlWExJcmEzQVBvN01NQWtZY2wyaS1adHRvSWl0WkxMdmR2MEw5YXBQWXBfMjc1T29KWXU2RDJxU3paN29NTl9XOUNnZUJOWW4ycFhRUmpKZERENW1md1l3S2FsWlpHQm9FZzJHM2lSUFZ0REZ1RUNIcFppell1RGtuckY3VU5uc0dUNkdDOFp4VjdmMFc2NDAxQWJqVnlaU3ZteF85NU5vdkNSN2Fpa2lI?oc=5",
-    "summary": "LCI Industries Selects ketteQ for Next-Gen Supply Chain Planning tradingview.com",
+    "summary": "LCI Industries Selects ketteQ for Next-Gen Supply Chain Planning TradingView",
     "tags": [
       "ketteq",
       "market-trend"
@@ -178,9 +189,9 @@
     "id": "n-2026-09-03-mzxbv8",
     "date": "2026-09-03",
     "title": "Blue Yonder still chasing profitability 5 years after Panasonic acquisition",
-    "source": "asia.nikkei.com",
+    "source": "Nikkei Asia",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUDhJa1ZESnNyUUdZZlVkS1BtZVJ1TDJpLU9HTnJ1cTV1WUFtTTBjVjVrMjU0N0NsMVl0X01yajJWTHB2NHhybEVnU2gtNER1SFpLMXJMRFg5Z1FrODA5WV9kY295anBPSHJTNVV6N2pCQzhzUkVfMXFtREtjajd6a2ZxS2lvblpWYXdybFBEQktFYXBPMXBoYW00cjU2UUdEVG01QThfcHBJdURUbjQtOEIyWHJkRGR4S0E?oc=5",
-    "summary": "Blue Yonder still chasing profitability 5 years after Panasonic acquisition asia.nikkei.com",
+    "summary": "Blue Yonder still chasing profitability 5 years after Panasonic acquisition Nikkei Asia",
     "tags": [
       "competitor:blue-yonder",
       "market-trend"
@@ -201,9 +212,9 @@
     "id": "n-2026-09-01-1kencal",
     "date": "2026-09-01",
     "title": "Blue Yonder Named a Leader in Green Quadrant® for Supply Chain Sustainability Software",
-    "source": "Business Wire",
+    "source": "businesswire.com",
     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZmNfZC1FSXBPUVdicFNvOGRTelZCZk5GcXM0bHRFUWVlUGRNWVpDTjBWeUZPRmJzMWhJdVRMaWNOZnNjSUZQcjFMVFJrZTI1Y3hiTmhReVFBek13elNLZWVCWFVYTWR3WnBpY3FocFNyVVJMYlBqd1IyUHNIV2oxY0Jialhlemd4dWoyWERyUVhhRk5fZ2pKX3lZUU0zWmQ3X3ZjVXVHNTV6YjNSaVpFTUxHaFBIYU9rLXNoTmNQN2c4MUJnYWRnUF9lN0pvVGNYeXVIU3ZOc2pqQQ?oc=5",
-    "summary": "Blue Yonder Named a Leader in Green Quadrant® for Supply Chain Sustainability Software Business Wire",
+    "summary": "Blue Yonder Named a Leader in Green Quadrant® for Supply Chain Sustainability Software businesswire.com",
     "tags": [
       "competitor:blue-yonder"
     ]
@@ -220,23 +231,12 @@
     ]
   },
   {
-    "id": "n-2026-08-26-vmwhvi",
-    "date": "2026-08-26",
-    "title": "o9 Solutions Selected by TPV Technology to Transform its Global Demand Planning Capabilities",
-    "source": "Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPa19ZWXplRm9FY3BZdlUxSUxwREkyU3dqMUxEOEw1NV83N2c0RXN4QlEtTnp1VkcxQkNIaFF3MnFXcDNib3RzT3ZPQms1b2FUNjdYcFlqNlhXaUd4XzR1cV92eU83THBrOUQyOHdFMW8yeWhUR090eTQ3anBCWnlmelcxRS0yRDlaUlhkWFQ4dVZQcWxDSWY2TU90YkNKOUtaeUE?oc=5",
-    "summary": "o9 Solutions Selected by TPV Technology to Transform its Global Demand Planning Capabilities Yahoo Finance",
-    "tags": [
-      "competitor:o9-solutions"
-    ]
-  },
-  {
     "id": "n-2026-08-26-giyqlb",
     "date": "2026-08-26",
     "title": "Blue Yonder’s New Agentic AI Tackles Retail’s Costliest Problems: Stockouts and Returns",
-    "source": "Business Wire",
+    "source": "businesswire.com",
     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbmx5X0d0bGJvUERVNGZHb3IweFZwek44RWpNOUYwc05FZnc1dVQxOVZzOU13Tm1wcUVUVnBsekNOV3NPVXVyeUU2cHBjR09ZbGhjX25zZGpNazdLQ2QxbjBLaXRIWElsNDVNU292eUNPZE5KMkhVcWF2QU9WSUNmVUFCZzh6dDJBX1NhcmlYMEJvMFpXUnZJZjhMeGUzZmswZXRwbnVRTGFhUkZmR0RnU3NRcUhfZnl0X1A1eHNodzVuTEJTR05KYmpOeFg3aXd6dlRTeEtFcnY?oc=5",
-    "summary": "Blue Yonder’s New Agentic AI Tackles Retail’s Costliest Problems: Stockouts and Returns Business Wire",
+    "summary": "Blue Yonder’s New Agentic AI Tackles Retail’s Costliest Problems: Stockouts and Returns businesswire.com",
     "tags": [
       "competitor:blue-yonder",
       "agentic-ai"
@@ -257,9 +257,9 @@
     "id": "n-2026-08-24-1qlr0rp",
     "date": "2026-08-24",
     "title": "Aptean (Logility) Recognized as the Only Visionary in the Inaugural 2026 Gartner® Magic Quadrant™ for Supply Chain Management Suites",
-    "source": "Business Wire",
+    "source": "businesswire.com",
     "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNQkJNS3hBZlJIejYtWmRGWC1ET1F2RHRINmRXaWtjelo2TW96RUF4VEJ2VF84MTdycnR3LXZvV2wyNmdvVDR3NEYyZHV2Mi1Ec0hQdUNEX0Z5Q3R4MkEtVmZMaEdhTmxpRVNyNzdwU1FmaHhyV29QcVdaN2tjSENKS3BqYkdlZ2ljVkpka1hOSHFZN0stbHZGZzFOWjR6UkxEaG04R19VY0hMQlRLRzhocXB1TXlJVzRWdXhTYXZLYkxPSU5YVGF5clRTOGwtbU03UlJZVklRRnU0SVRLdWdNZlpyVWRCaWJmSnduT19ETDZiRmdRdjVVVUlZSnJBZkZBcHE0V05BeFlQRUN5R25udnhfdw?oc=5",
-    "summary": "Aptean (Logility) Recognized as the Only Visionary in the Inaugural 2026 Gartner® Magic Quadrant™ for Supply Chain Management Suites Business Wire",
+    "summary": "Aptean (Logility) Recognized as the Only Visionary in the Inaugural 2026 Gartner® Magic Quadrant™ for Supply Chain Management Suites businesswire.com",
     "tags": [
       "competitor:logility",
       "gartner"
@@ -334,12 +334,12 @@
     ]
   },
   {
-    "id": "n-2026-08-05-1f5zl16",
+    "id": "n-2026-08-05-t9uolp",
     "date": "2026-08-05",
-    "title": "How to conquer uncertainty in manufacturing supply chains",
-    "source": "diginomica",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WcGV5XzJSN2N5dUZ5RDQ2aHg2WEZTczJpMGMtbTRwRlZZREN5NzZscWw5ZXl4UVNYZmV4RnZWZUVPRGU0RWNISEI3cUVyVW95cmM0bWNTaHJLeXpBZWNmVmlRTVRDWEc3OUJ5YlRJMHJueXVHNllWZWduX25SQmc?oc=5",
-    "summary": "How to conquer uncertainty in manufacturing supply chains diginomica",
+    "title": "Top 5 Supply Chain Planning Software in 2026",
+    "source": "Trans.INFO",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Rcm1UUEdFT0ZfR2lVQ25DSlVuNm5GWnphVmlBRGR2dUZkVmIxR09XV0tlSld2YXRWU2NZemlsVmtpLVZxVU50cVBBNFRSZDZKTGl3QkN4NUh1RXBqSEtiMXlsMXFHMjVpSWRGWGk4azlUSm9WMUFVdDVSVm5idw?oc=5",
+    "summary": "Top 5 Supply Chain Planning Software in 2026 Trans.INFO",
     "tags": [
       "industry"
     ]
