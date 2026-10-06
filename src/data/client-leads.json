@@ -104,9 +104,9 @@
     "competitorId": "anaplan",
     "competitorName": "Anaplan Supply Chain Planning",
     "title": "CSCO Insights: Choosing Your Supply Chain Technology Partner",
-    "source": "Supply Chain Digital",
+    "source": "Supply Chain Digital Magazine",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUmwxaVI3OFcxZloxMVN1TncxLVlKVDdqanE3UFJDM1ZqdV96dWsxTk9wSmszLXNuWTlOYllmUUtUWThkR1NZdE1LdnludFUyWkRTbFpZSnh1WXZOeEtSeHJXdjc1X3dzWkgxREU0dVRqdGtYRndxYjRyQURVcHpjY2s4aU43U2czSzEzOW9iSktycVJOLUEtMzFUSQ?oc=5",
-    "summary": "CSCO Insights: Choosing Your Supply Chain Technology Partner Supply Chain Digital",
+    "summary": "CSCO Insights: Choosing Your Supply Chain Technology Partner Supply Chain Digital Magazine",
     "status": "unverified"
   },
   {
@@ -154,6 +154,17 @@
     "status": "unverified"
   },
   {
+    "id": "lead-2025-06-11-lcec23",
+    "date": "2025-06-11",
+    "competitorId": "blue-yonder",
+    "competitorName": "Blue Yonder Luminate Planning",
+    "title": "Blue Yonder Named Snowflake Retail & Consumer Goods Data Cloud Product Partner Of The Year - Scoop",
+    "source": "Scoop - New Zealand News",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOHBtcDlpdWthWFYxNEE4Sm1GTHFKZjRqaVNRLWlQTVRuQkZjTXJVckM2WHpYcDVyNHJ0MUFQYy1BVVdoenJrSmYxbkZJVUN5c21jWU1nWEE2Tld2akVLOWZCWlVfeV8yQVdhTDd2a3JEdGtSb2RXOVNaZnpuWnFIOWVCVDhJcTBrWUZPSUtmZ1JTc2toSk5pdVdRZ2xsMFZXR3ZTazdSeTZGbjVNanVYdEEyRkFBSkxybFJhU3VvOUppQzdvckM5NA?oc=5",
+    "summary": "Blue Yonder Named Snowflake Retail & Consumer Goods Data Cloud Product Partner Of The Year Scoop - New Zealand News",
+    "status": "unverified"
+  },
+  {
     "id": "lead-2025-04-02-1vyo971",
     "date": "2025-04-02",
     "competitorId": "kinaxis",
@@ -187,17 +198,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2024-12-13-6fenic",
-    "date": "2024-12-13",
-    "competitorId": "anaplan",
-    "competitorName": "Anaplan Supply Chain Planning",
-    "title": "DHL Supply Chain Rolls Out Self-Driving Trucks in Texas",
-    "source": "SupplyChainBrain",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMDVHZnQ2Z3ZEdTJZTURWeTNrbHcwcGV5Mk05bmhhM1UwOWE0Ym9tS2ZCSlhVVUk1ZmFIOVJQMWZJbUwtNTFkdDBMR0hieW51aUNYSWlFX1FFejVLaEEya0YzRjJwTFJ6Zm9HVUl6T2pmSVFidnlMYTVMRWRDVGdQRWhxNUxSZEREbjZjRm80ck8yN25pUmVpMGpDRnYwY2txWW5xZzdn?oc=5",
-    "summary": "DHL Supply Chain Rolls Out Self-Driving Trucks in Texas SupplyChainBrain",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2024-11-08-b2rj98",
     "date": "2024-11-08",
     "competitorId": "kinaxis",
@@ -217,17 +217,6 @@
     "source": "Packaging News",
     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbkoyNzc5UXM0ZHkzZXZ1TS1reUI3eGhTalFwdjRRWDUwTU1zazBKeEUxZWNENk00MGladlI0ejhZa3h0ZWQ1dEgtV1hCMU4zcEtsLWhacFNzNUxzalB2c0Y4NlpiZGJGNUlPak5SdjhLWlpZVWNYWmE0c2x2X3REWWRoMUF4b0FqYndrcGRlaThFdVNyQ0pUY2MtbXh5ZlJ5SWplV2ZwbVBnSG45NElpS3FzS2J5SFFUOVJQWnlSWVZZM01IZXF3UUt0ekgxTU5fODVLZDdnVllMem5pRzR0Mmx0aw?oc=5",
     "summary": "Nulogy and Kinaxis announce partnership to accelerate synchronisation in supply chains Packaging News",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2024-09-06-lnnraf",
-    "date": "2024-09-06",
-    "competitorId": "kinaxis",
-    "competitorName": "Kinaxis Maestro",
-    "title": "Nulogy and Kinaxis Announce Partnership to Accelerate Synchronization for Manufacturing Supply Chain Networks",
-    "source": "PR Newswire Canada",
-    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxORGhzLVlNbGJEOEJscld0X0R1eWxIOWRXRVZuMXRjdzhYUEphWkZmZVJ5eHRTTThFbkdwZVJ1cWNjLTU5SEVTOWNmX0ZSRkh1c3BMYWpyeFdZanBzN3F1WWFSZzZYamlNSXBPbFZIckpHOTRzRHdycTZEbS00N2QtT2I3VTdpY2NvTFJPOWV6V3JvTHJiWGR5UkRLMXJVejVFQ3FCeHRoSmdHdldSbFRLb0EzT19MSVdrZ2xaQ05XNlI1ZVBBbERhazdmMUdhaFpJOGZlMjdhdEliaTVCY240aTZhbndZblVXUDhac3hqakhoMkdE?oc=5",
-    "summary": "Nulogy and Kinaxis Announce Partnership to Accelerate Synchronization for Manufacturing Supply Chain Networks PR Newswire Canada",
     "status": "unverified"
   },
   {
@@ -330,6 +319,17 @@
     "status": "unverified"
   },
   {
+    "id": "lead-2023-09-22-16rzl8t",
+    "date": "2023-09-22",
+    "competitorId": "o9-solutions",
+    "competitorName": "o9 Digital Brain",
+    "title": "WS Audiology Selects AI Platform to Enhance Supply Chain Planning",
+    "source": "The Hearing Review",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZzM5ZkxDUDhfSm8xMWxLWGFNUzF6aENxbmIzdlRNLUFaMmRZNGdQM2J5akNIWEpWc2RaUS1rT0hrMnBkT3lSU3NOYXMwLTRSR21aZUR0dlZTU0U2eDFfekx5OHRYNEQ0a3NaQ2txQ0REUmlHc0hMR0dreWVuNVF5cXE3WE1FdmVuRVRrY1ByTng5bko0VktWdGRkQTJuRUFfZDNpNGJOWHpsMERscjBkS3JscG5zeXZSME1NNg?oc=5",
+    "summary": "WS Audiology Selects AI Platform to Enhance Supply Chain Planning The Hearing Review",
+    "status": "unverified"
+  },
+  {
     "id": "lead-2023-08-28-nz6ucr",
     "date": "2023-08-28",
     "competitorId": "o9-solutions",
@@ -368,9 +368,9 @@
     "competitorId": "kinaxis",
     "competitorName": "Kinaxis Maestro",
     "title": "Subaru expands partnership with Kinaxis to improve forecasting",
-    "source": "automotivelogistics.media",
+    "source": "Automotive Logistics",
     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQX2NQcGlTS0JibEwxRGhmSDRkS0pmYmZnbnY1NnUyZHJiZm11N1Q3OVhkZzdFTVlUbWZtZWtEeGRIYnhXMUx1ckhLMzR2MUllZlRkZkdnX3dFRk9DSUNHZHdJRTlkTEZ0ZmJKaVpyYkh6SXJIRUpwZ0I2OXJWczdtRldDRWpxQ2FBT1B4Q2Z6bUNUekFDOUJ5cXhHWlUxVGJDTTREeENFU0J3TDl1SjZrNGZkY0E0Ni0xSVkteGVzeWlhWmR6UDJrSVlSajRYc202Y3JuU0U2ZnNjS3NoREs5Mmp6dmNzUEU?oc=5",
-    "summary": "Subaru expands partnership with Kinaxis to improve forecasting automotivelogistics.media",
+    "summary": "Subaru expands partnership with Kinaxis to improve forecasting Automotive Logistics",
     "status": "unverified"
   },
   {
@@ -437,6 +437,17 @@
     "source": "Accenture",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRlV4X3NrWjFmMkdBai0wVmg1Z09sMExib2p5ZE9hczZ2ck5HSGl5YkFzNHVvZEZRZGp0TnBQS3FpYzltS3REc0RZVE9KLXhyOXktbXROR0dOM24zWjBRSmVfUDlVUkZzWHRLTjlWZ0NKSzJJWldGdGdaQ2ZOVVZTcjhaUE5mbi1JcGJ2UmN0WU1maUpNX3l3MkpfWE9aZjkySlNOY3RqRHgwWHFHTURyOW9ZRUhYSXprWUF3c1c3QlQxdTVz?oc=5",
     "summary": "TCL Selects Blue Yonder and Accenture to Transform Supply Chain Planning Capabilities Accenture",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2023-04-04-1qwl5dw",
+    "date": "2023-04-04",
+    "competitorId": "o9-solutions",
+    "competitorName": "o9 Digital Brain",
+    "title": "Perfetti Van Melle transforms supply chain with new partnership",
+    "source": "Kennedy’s Confection",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ0FBYlE1VzdjeWtwOGJIVHZHVzZNY1ZrQWFpNng3TWtEUS1EUEI5RFM5WmZGMU1hX2RvUDdlN3JaNldJY0V3ZkxyYjE2Y3RYVUQ0MUhGWE1SYmFieTFpRGNaSjVoYU1YNWpZQkFDamxNUTF6dUJKZlFydm0xT3RBenFpckw5TUI0eHBrSUhicjJ5ZVJTNl9EY2E0R3Azdw?oc=5",
+    "summary": "Perfetti Van Melle transforms supply chain with new partnership Kennedy’s Confection",
     "status": "unverified"
   },
   {
@@ -536,17 +547,6 @@
     "source": "Retail4growth",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaUV6V18zXzBsQzdCaFZzREJLV0lPTUZhMFVkQ2htem90eU50dlpXVHlCUjcwUFdzUnQyS3E0MHdGVU9OeUJNTTFnLWZEODh6RlFuWFh1OXZNUV9tblNaVXAtemxTQTZYdUJhdkhRUGp0NndqSjVpNWRsem9PWjhLWlA4ZmtDUkRYd2k4N2FoRWVGdEo4Ymk5a0NrT1Fwdi1HSHA5aWhVN1JPU3PSAbIBQVVfeXFMT09oR0NOdnA2VWlfVEM5YU1vVEtQWlEwb2pYRU9CUTd2ZXJpV1RiYV82RjZBbzQ4a1I1NmdhNDJVVGxJQjEzWEtRU0d3MmFmbFFQVkQwbmswTmJzdXF4aFBNSlcweWlqeUkyZXQzSEJoVi1RY0dCcGk3Szh0LUpKWlI2WDBSRUxfQlFXeDNNcnhQRS1lUDVHZnVheVRmMGZfcjUzOUU5U3JRQUxWSWh0c3ppZw?oc=5",
     "summary": "Future Group partners with o9 Solutions for forecasts and refilling Retail4growth",
-    "status": "unverified"
-  },
-  {
-    "id": "lead-2020-01-20-7qt030",
-    "date": "2020-01-20",
-    "competitorId": "blue-yonder",
-    "competitorName": "Blue Yonder Luminate Planning",
-    "title": "Building Partnership Capacity and Logistics",
-    "source": "Air University (af.edu)",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVm9uVDJVQU1VZ1p2TmdfOEh3bFMwY29EeXZHWlhTOEt6R05haFdXRXViOTg5aGx5WXVidDhuaDZCTkY1cVFqMGpOLUFkS1dZY0JZUVpyZ3dFMnloRTFqcUd0aXVmT0Q3dk95eUJTLXBYd0pXa2h3SzMxalRNRzk3el9JOU9LQTRJdzJBSktaUGJaZXFRbGY0SXVxNkxHVVpqRkRGaE1oVTNuaHJwVW5qRkRUbDgyVGNuOThmUkp1Uk45ZlAxVWVtMlBIMWNWLTZZ?oc=5",
-    "summary": "Building Partnership Capacity and Logistics Air University (af.edu)",
     "status": "unverified"
   }
 ]
