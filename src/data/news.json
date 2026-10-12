@@ -58,18 +58,6 @@
     ]
   },
   {
-    "id": "n-2026-10-06-uzw5dp",
-    "date": "2026-10-06",
-    "title": "Can Kinaxis (TSX:KXS) AI Supply Chains Navigate Tariffs?",
-    "source": "Kalkine Media",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOamNlckpzZm1qZGgwdjVGd2Roc2F0eERDMXVmTHQ3QkhFZkFLaDkydkhKb2ZYQmtxcWJoWHhNNHpmc1hWTXVTQVltRzF4UTlQNXlmM2xWelhDR1AtRExXRUVXbjRsVnIxMFd6SmkxaDdDQWlwcTQ2Uk9NR3dsN2hLdjVsMF9hQVZLVU1UYlppSU8tdjFac2l0YXFldm9vLWM?oc=5",
-    "summary": "Can Kinaxis (TSX:KXS) AI Supply Chains Navigate Tariffs? Kalkine Media",
-    "tags": [
-      "competitor:kinaxis",
-      "agentic-ai"
-    ]
-  },
-  {
     "id": "n-2026-10-03-2vbflu",
     "date": "2026-10-03",
     "title": "How Can o9 Solutions Continue To Differentiate Itself?",
@@ -159,18 +147,6 @@
     "summary": "Why standing still is the riskiest move your supply chain can make The Independent",
     "tags": [
       "industry"
-    ]
-  },
-  {
-    "id": "n-2026-09-22-1uhwq7u",
-    "date": "2026-09-22",
-    "title": "Blue Yonder Named Leader in Gartner Supply Chain Management Suites Magic Quadrant",
-    "source": "Machine Maker",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU3lvZC1BSmlpaFlnWHU2RFFid2g5QlVrTmVPcUlRMWpQMjNlRFBlLU92TDJnWjRxZm04bTF4Mk1lNnQxZkFLaVdiWjVZM25ycTBpbzZicVQ1dUtjUExBbXlnTVZOaHp0Zndfbk1vX2NidTJVYU9uMDJ2dGY1U25mY3hjSWhTQ3VhRjFLNGJqdjk3SVl3NkRFVTQtMDBJVFFib2FvQkdkSDdmUkpjTllNRW02V1ByUQ?oc=5",
-    "summary": "Blue Yonder Named Leader in Gartner Supply Chain Management Suites Magic Quadrant Machine Maker",
-    "tags": [
-      "competitor:blue-yonder",
-      "gartner"
     ]
   },
   {
@@ -336,11 +312,33 @@
     "id": "n-2026-08-26-vmwhvi",
     "date": "2026-08-26",
     "title": "o9 Solutions Selected by TPV Technology to Transform its Global Demand Planning Capabilities",
-    "source": "FinancialContent",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNai1MajdjSkhZOXFuNHZCSW9ZdjZLbjBKUDdnRHZiaG5YcVh1Ni1pUHRiekdHN2t4NWwyUlJoXzJXOVNQRWNGelZ1OWZac0F1eENZMm9WbEIzUDdCY0FXTERfeV9sd0VhOUgwRlFaT00wNFVFNVg4ZXU1aVpvcFJkV1ZDTDRnZXM2a0N6cmE0VlJuYzBteGxQdlpOT1V2RWF1NnhrWjVwS3FzTWtiYndSdWpIRVRBUEFHNHBKWTI1YVp5bWo1VGxodVhTWFlYZnRkOFpqRWtRY0N2c0o0eHhpRFdmZDhxdw?oc=5",
-    "summary": "o9 Solutions Selected by TPV Technology to Transform its Global Demand Planning Capabilities FinancialContent",
+    "source": "Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPa19ZWXplRm9FY3BZdlUxSUxwREkyU3dqMUxEOEw1NV83N2c0RXN4QlEtTnp1VkcxQkNIaFF3MnFXcDNib3RzT3ZPQms1b2FUNjdYcFlqNlhXaUd4XzR1cV92eU83THBrOUQyOHdFMW8yeWhUR090eTQ3anBCWnlmelcxRS0yRDlaUlhkWFQ4dVZQcWxDSWY2TU90YkNKOUtaeUE?oc=5",
+    "summary": "o9 Solutions Selected by TPV Technology to Transform its Global Demand Planning Capabilities Yahoo Finance",
     "tags": [
       "competitor:o9-solutions"
+    ]
+  },
+  {
+    "id": "n-2026-08-26-9zqna3",
+    "date": "2026-08-26",
+    "title": "Anaplan names Deloitte & partners in Australia awards",
+    "source": "ChannelLife Australia",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbS1oMllPejVCREpBeS1QYTFfZjVjTzdOWEZVODZja3RDc0NxWEVTN3BQYU9OdnRpel9BZU9pc01yeW43TWNQNW5UZFNiclJmUFc1ZUNUeHVaaTc3akJTUU5Ed2lpd1h2cGg1WGFCb2cyTXhIUGpGT0hxV1RFNkVINml1S1VyQXdveTh1dQ?oc=5",
+    "summary": "Anaplan names Deloitte & partners in Australia awards ChannelLife Australia",
+    "tags": [
+      "competitor:anaplan"
+    ]
+  },
+  {
+    "id": "n-2026-08-25-1l1u5ss",
+    "date": "2026-08-25",
+    "title": "ketteQ Names Jennie Vandegrift Chief Customer Officer to Lead Global Customer Delivery and Success as Company Scales",
+    "source": "PR Newswire",
+    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPZWpZV1B6VDdFNjBVa2ZkT29SMTByZXBBcHBmbTc5MGhQdmZEWFhrN3l6YjlaMHI1bktYeDNaTVJGRDhIOGRyZkpzZDJkYnJQWEtjYXNXNUY1cjVmTVUwY2xCQU5td3UxMTRhOW5BYnRpYzNVOWc0NHNIYUZFbWtJNTBxOHFvcm92UDNNZWNXajRWdENCdERhRXpad0JTdHlrd0JJSjc3ODdsYVhPNlZGUEFzajh3LUpqOWx6cjBldEJUdEQ5d3ZxeV94eFp0eDBYWERMVlFSWE5YZkowQVRSZ0J5UVF3UlNCWU1ISjNKbndkNVdXQ3kwZUZ3WV9wdTBDZXc?oc=5",
+    "summary": "ketteQ Names Jennie Vandegrift Chief Customer Officer to Lead Global Customer Delivery and Success as Company Scales PR Newswire",
+    "tags": [
+      "ketteq"
     ]
   }
 ]
