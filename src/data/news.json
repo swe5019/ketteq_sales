@@ -137,18 +137,6 @@
     ]
   },
   {
-    "id": "n-2026-10-08-1h2qw7o",
-    "date": "2026-10-08",
-    "title": "Blue Yonder: Why AI and Connected Planning Could Reshape Food and Beverage Supply Chains",
-    "source": "EME Outlook Magazine",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYXlnLXdnUUlCcm0td0x2Njh0ak9lRlQwTmxjQ3l1Q2U0Y1RxRTRuTm9tdzUxZTA4MDdYNTRoUW12c3I0bklVdk84Ti0zWllXQkpMTzVXTUVoTllJdXU4OVhBc2dGSG13V3hXb0J5VUVyeFJnU2JHS1ZjVTdRdk9VVTVfMlhic1lMX0thTDNoNnBHMjJyaV8yVDBqUFNrbl9WZUxMOTVEX2lqbjV1VzluZjBvNUVKMVk1bFRCaW9GR01sY2JxYmNQYWpORlhuSGNh?oc=5",
-    "summary": "Blue Yonder: Why AI and Connected Planning Could Reshape Food and Beverage Supply Chains EME Outlook Magazine",
-    "tags": [
-      "competitor:blue-yonder",
-      "agentic-ai"
-    ]
-  },
-  {
     "id": "n-2026-10-07-xse2ca",
     "date": "2026-10-07",
     "title": "How Could AI Agents Reshape Kinaxis (TSX:KXS) Supply Chain Strategy?",
@@ -342,6 +330,17 @@
     "summary": "Anaplan awards top Australian partners for 2026 ARNnet",
     "tags": [
       "competitor:anaplan"
+    ]
+  },
+  {
+    "id": "n-2026-09-02-1ghxmgo",
+    "date": "2026-09-02",
+    "title": "AI’s data center build-out has a supply chain problem",
+    "source": "Diginomica",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5uaVRaNWcxR29Ud3J3dFpDVWxHYzVFNThBclNidUdXSHdvQ1JiRWR4d1BRWHpMbjVyaXpIZGoyRUxtYkJGVHVaM0hQU0hrbmk2OERvbEt4bEdlVWstSVd6SXVtaVJWcVNzZ3hQUzRkcHp5M2R1WnVWU1JHSjBfUQ?oc=5",
+    "summary": "AI’s data center build-out has a supply chain problem Diginomica",
+    "tags": [
+      "agentic-ai"
     ]
   }
 ]
