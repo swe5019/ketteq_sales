@@ -88,17 +88,6 @@
     "status": "unverified"
   },
   {
-    "id": "lead-2025-11-14-rv5wym",
-    "date": "2025-11-14",
-    "competitorId": "anaplan",
-    "competitorName": "Anaplan Supply Chain Planning",
-    "title": "CSCO Insights: Choosing Your Supply Chain Technology Partner",
-    "source": "Supply Chain Digital",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUmwxaVI3OFcxZloxMVN1TncxLVlKVDdqanE3UFJDM1ZqdV96dWsxTk9wSmszLXNuWTlOYllmUUtUWThkR1NZdE1LdnludFUyWkRTbFpZSnh1WXZOeEtSeHJXdjc1X3dzWkgxREU0dVRqdGtYRndxYjRyQURVcHpjY2s4aU43U2czSzEzOW9iSktycVJOLUEtMzFUSQ?oc=5",
-    "summary": "CSCO Insights: Choosing Your Supply Chain Technology Partner Supply Chain Digital",
-    "status": "unverified"
-  },
-  {
     "id": "lead-2025-09-25-65tt53",
     "date": "2025-09-25",
     "competitorId": "blue-yonder",
@@ -203,9 +192,9 @@
     "competitorId": "blue-yonder",
     "competitorName": "Blue Yonder Luminate Planning",
     "title": "FPT Software Partners with Blue Yonder to Transform Supply Chain Management Across Southeast Asia",
-    "source": "Medianet News Hub",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNnVtR1VNRTBQZk9wa3gzMl90OFBRM0RFTkNGbWVnbmpXUmIxdlBDcjJzTlBaWC1rNHhDX1Eyel9ZMnRrMHdPc0xXYkZaNVlVcWh6NHRySkRIMnhUekRKeUdsdTUxZXV2SWI2N2I1WGpmNzd1M0xmc1dDRC1fR2hseXpJU3lJd09kQ2YtSUxZN3Z6MkcyeGJ2d0RDc3VwTU90cnR6REpuZ1BhVmZ1Z2lzLUlvazZuSllaQlNUN00xOFZvT0YxREdrLUJnUmhKMnBWdUpYWWpMNGxKbDZD?oc=5",
-    "summary": "FPT Software Partners with Blue Yonder to Transform Supply Chain Management Across Southeast Asia Medianet News Hub",
+    "source": "Business Wire",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRmc5dm9KYVFOYVhRTGQ1WDdxOE9vMDdTZUVWck51cC1ldGF0NmhpNWxuZ2hBeGhVODZVWkRnR0laY0FyZFNjLWdIakdGUTJsQkU3YkpxeGRiNlZqbEtLWUR6aEpmYld3Ml9IRFNNU2psQmN0T2R6X1k0THFlMDRPdlF2N0NKbkxXMlZVUFAzUHNueUdiUnNEcDFmaDFsaXgtdm1pR0pPazA1ZlI3VHFtdlRsdTgwWmZ2aW9Tb28tV09jOWd6SUNZN1ZvWjNSaTZLZnhpcWFZalZpZk4tQ2pNcFE1c1NFQWlrSHc?oc=5",
+    "summary": "FPT Software Partners with Blue Yonder to Transform Supply Chain Management Across Southeast Asia Business Wire",
     "status": "unverified"
   },
   {
@@ -547,6 +536,17 @@
     "source": "Consumer Goods Technology",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuRjRPaDVEMnk4VWtsOGxua2ZyUlNETm01V2xwdzlKckpmcTlZT0dlNVFrUW5xcTBBamFrLW92X0xETUZIVmxkS3c2MXpKQnVsaEtESnFQbnZ2WXFTZGtCZWxnSW5mbFhiOWpSWkpCVUxoLWtNV1R3?oc=5",
     "summary": "Griffith Foods Rolls Out S&OP Tool Globally Consumer Goods Technology",
+    "status": "unverified"
+  },
+  {
+    "id": "lead-2017-02-02-1ju0297",
+    "date": "2017-02-02",
+    "competitorId": "kinaxis",
+    "competitorName": "Kinaxis Maestro",
+    "title": "Supply & Demand Chain Executive Selects Kinaxis Executive As A \"Pro To Know\"",
+    "source": "Supply Chain Market",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaTJTY2U5SEtXS3RGc0JrZi1SMUxiX1BzUk1HMXRybUlKaDRTaWJPbnRVQmhFQWpYT3E4MjBsNDBJUU1sdzlrcHpXWXVnWHNIYmkyQUhTci1ubDFRQmhzRWNuUDhINzd6YVdzYXVtNnlDakUyRHdhOWRQUTgwMzRGeC1oRHhkSzA?oc=5",
+    "summary": "Supply & Demand Chain Executive Selects Kinaxis Executive As A \"Pro To Know\" Supply Chain Market",
     "status": "unverified"
   }
 ]
