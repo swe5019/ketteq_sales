@@ -1,13 +1,25 @@
 [
   {
-    "id": "n-2026-11-06-1rrqaa0",
+    "id": "n-2026-11-06-ri4ww2",
     "date": "2026-11-06",
-    "title": "Blue Yonder: AI Could Transform Food and Beverage Production Planning",
-    "source": "Food & Beverage Outlook",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUzNMRzJuVHVUQ1N1SU1RS3BteVlHY3R1UVBmcmxsdXpiWU5YSm9fek41MGlfX0FzT1FRcTBpT1FNVHl2WExiNFB5QlVYVnNJUmRMcGZYWVhPLTZvZGg5eEhzNFFUTGNrMEtGbXhocHBrSjFza25TMWVWT0JjZDNxLUdVWE9ldGpaTlVsYmZxLW9aa082b0lUY3lZRHdTdmlod0pkemFxR2NKRllvZEhLQVk4Nk02X2YzVHJHV1psRGFfZTlTLWN3?oc=5",
-    "summary": "Blue Yonder: AI Could Transform Food and Beverage Production Planning Food & Beverage Outlook",
+    "title": "Blue Yonder Release 2026.3 Introduces New AI-Driven Supply Chain Capabilities",
+    "source": "Logistics Viewpoints",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaEpBOE5vcVVpQmoxYzJjcElPUC1McldQcDQxUDJvYW9qdk5pWkx3Tl80LUNUOUM5OWluNHB2VW9Ud0ZOdnA1aHNjZ0IwdzJTVWRTUkdEV0ljOVg2R0ZsUkJVN0hzSWNPbjJTaUQ2OFNSMFljR1IzVkdCSGF4RVp5Yy1CTUhDRHhjZ3JQVlNIcTYzM3BqbVlES2MwRDdrQWFURWVYVnZCcmpkaGxMVG4zdmRfaGM1Sl9YN0RMMlBR?oc=5",
+    "summary": "Blue Yonder Release 2026.3 Introduces New AI-Driven Supply Chain Capabilities Logistics Viewpoints",
     "tags": [
       "competitor:blue-yonder",
+      "agentic-ai"
+    ]
+  },
+  {
+    "id": "n-2026-11-06-lb0zql",
+    "date": "2026-11-06",
+    "title": "AI making Kinaxis’ software ‘increasingly sophisticated,’ CEO tells analysts",
+    "source": "Ottawa Business Journal",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPejhLOGl4eUFWazU5NkhESnpOTkNxdjgxcE9ScUdlMzFVRkUwRXJJTmYtTkNENEFyWk4wYXZMdUgzbmFvX0prZVY3M1NDRFFDYndMMmpDOGlTbUU2UUU0ZzVlQzlDYVM5TFh5WDREZl9HN0JyWmdsaUhiXzdreTMyQ1BiSno3QmwxVlU5OGt3OFd6dw?oc=5",
+    "summary": "AI making Kinaxis’ software ‘increasingly sophisticated,’ CEO tells analysts Ottawa Business Journal",
+    "tags": [
+      "competitor:kinaxis",
       "agentic-ai"
     ]
   },
@@ -18,18 +30,6 @@
     "source": "Australia",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOR0hBTy1NMTlKUENodHhKQ21xTldHa1VDd1VoVEYwOXFkYmRmTWxCVGJ0azI4aTEzdDR5YWNqdTN0SzRaQjBFbkdLV0dKVTZEcThXSUlYT3paYmJYMmQxNFl6clFoUmJ3bmpQdFdIX1lmdGxIbGkzQmhuVmFjM2lJbGxDNFh6V2JzLXFycUtQVjY?oc=5",
     "summary": "Blue Yonder launches AI-native order management tool Australia",
-    "tags": [
-      "competitor:blue-yonder",
-      "agentic-ai"
-    ]
-  },
-  {
-    "id": "n-2026-11-05-7qy036",
-    "date": "2026-11-05",
-    "title": "Blue Yonder Launches AI-Native Order Management for Retailers and Distributors",
-    "source": "Logistics Viewpoints",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNT1g2cnM0b2JTTTVoS1JTS3BzRXQyVWZSd25nOVY2OFdDSUFQZXcwRGRBSjQ4UUVYVDM3M1FYeTZsTFFmUGFkaHZ3cVVBcmFSWmJoZXpvNE9ROGtSVkV5VHc0LWQyek83aDRiMHc1cnh5a0dVM1NKQzBXeVdURENfeUxkaXdSYUJZX2lNR3RMZnR1MUtUYmd2ZHhSN3Nha1EwOXN3YXM5VDBDUDdVRXFGWlJhVVJiT2UzWGxPQk5KTQ?oc=5",
-    "summary": "Blue Yonder Launches AI-Native Order Management for Retailers and Distributors Logistics Viewpoints",
     "tags": [
       "competitor:blue-yonder",
       "agentic-ai"
@@ -60,6 +60,18 @@
     ]
   },
   {
+    "id": "n-2026-11-05-7qy036",
+    "date": "2026-11-05",
+    "title": "Blue Yonder Launches AI-Native Order Management for Retailers and Distributors",
+    "source": "Logistics Viewpoints",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNT1g2cnM0b2JTTTVoS1JTS3BzRXQyVWZSd25nOVY2OFdDSUFQZXcwRGRBSjQ4UUVYVDM3M1FYeTZsTFFmUGFkaHZ3cVVBcmFSWmJoZXpvNE9ROGtSVkV5VHc0LWQyek83aDRiMHc1cnh5a0dVM1NKQzBXeVdURENfeUxkaXdSYUJZX2lNR3RMZnR1MUtUYmd2ZHhSN3Nha1EwOXN3YXM5VDBDUDdVRXFGWlJhVVJiT2UzWGxPQk5KTQ?oc=5",
+    "summary": "Blue Yonder Launches AI-Native Order Management for Retailers and Distributors Logistics Viewpoints",
+    "tags": [
+      "competitor:blue-yonder",
+      "agentic-ai"
+    ]
+  },
+  {
     "id": "n-2026-11-05-1y564mk",
     "date": "2026-11-05",
     "title": "Kinaxis Reports 22% SaaS Growth in Q3 2026, Raises Full-Year Outlook",
@@ -72,12 +84,23 @@
     ]
   },
   {
-    "id": "n-2026-11-04-x4qknb",
+    "id": "n-2026-11-04-1efsocw",
     "date": "2026-11-04",
-    "title": "Kinaxis Inc. Reports Third Quarter 2026 Financial Results – Company Announcement",
-    "source": "Financial Times",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMDFOTHA0VlhGRlI5eU40OGd2WWNKemp3MXB3bnBqNjl3TnA0RWVSNk5fb1Q5UjJ1c0hiVUh1OU9zdDFEZ0xNb2tpZ1B3WUV6OFJHYnNlZ2NDZWZmWk1WV1NmVkVqQzFGX1hSWUVyckpZbnZRaGNxZHBvUzIwVUE3TjNONnJUaVZPZ2FKclMzeXNxZHVxOFo2NjhiR2todFI5TGVuYUZB?oc=5",
-    "summary": "Kinaxis Inc. Reports Third Quarter 2026 Financial Results – Company Announcement Financial Times",
+    "title": "Kinaxis Inc. Reports Third Quarter 2026 Financial Results",
+    "source": "Business Wire",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOekhaVW9aYVBvSy1IVHc3QVJyY19xdnJsTE5lMHNGX3JFYzV1ZExydF92cW0tMG1rcjJUQUhodWFCRkRlb1FrWktqOEczNnZpMnJxVlliaTJfQzlrNmZSTldRV2sybHNIdGZJS0dIc0pwejRhMlk3N2ozb0ZhQkJLaTlKcXRwX2ZXRzZMZVdnU3ZOa2dQV1dhOFU1dFdva3A5WnZEZURURlk5cllfSm9MSl9wYWY?oc=5",
+    "summary": "Kinaxis Inc. Reports Third Quarter 2026 Financial Results Business Wire",
+    "tags": [
+      "competitor:kinaxis"
+    ]
+  },
+  {
+    "id": "n-2026-11-04-s2nwg9",
+    "date": "2026-11-04",
+    "title": "Why Did Kinaxis Inc. (TSX:KXS) Fall 0.057% on November 3, 2026?",
+    "source": "kalkine.ca",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORHNELU1xQWlrbVFqdUhWN2haSDYtSVpnc3BKamt1RjZBWkRwSmNXek8taXIybGlGUnRQeEUxZGRlSVNfVGpJekRVMHhiYmF4OXNTZ21JNkJOX09NbWE2d3BITHM3UDNBRlFCQUFhRHlZaThCSGp0WG1KVHFBSFdCRHdVa1gzTkZpNWZNdXlMdzhhUE9M?oc=5",
+    "summary": "Why Did Kinaxis Inc. (TSX:KXS) Fall 0.057% on November 3, 2026? kalkine.ca",
     "tags": [
       "competitor:kinaxis"
     ]
@@ -159,17 +182,6 @@
     "tags": [
       "ketteq",
       "market-trend"
-    ]
-  },
-  {
-    "id": "n-2026-09-15-1eort3k",
-    "date": "2026-09-15",
-    "title": "LCI Industries' Lippert Unit Chooses ketteQ for Supply Chain Planning Platform",
-    "source": "Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYUhOaWw5MElRLWROYmlXTy1DUWNndHdhRFJ1VzJCLV83Um1yT2cxM0YtLXUyLS13d0FPc2I2WElwN1pEcDR0anRucEtHUmZtZmZaME1ubEQ3THdEMWlSXzUza2hHSFRITkhxSWpTTWZiRGJJN01lZXlkaUwyTnotdmMtNFA4c29wSmlxUkN6bjl2a0xGTE8xNm05TlI?oc=5",
-    "summary": "LCI Industries' Lippert Unit Chooses ketteQ for Supply Chain Planning Platform Yahoo Finance",
-    "tags": [
-      "ketteq"
     ]
   },
   {
@@ -266,6 +278,17 @@
     ]
   },
   {
+    "id": "n-2026-07-23-1d0ti3x",
+    "date": "2026-07-23",
+    "title": "o9 Solutions Demonstrates Over 10x Faster Optimization for Enterprise Supply Chain Planning with NVIDIA cuOpt",
+    "source": "Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaUZxcHprYnE0UGl2NkEwTWZNeG44cHBPSE9ZZldkNTh1RHlxSVdWbXRGWXYxSEgxamg1WE1VaEpYZ3g1OUhTc0p3Szd0a243U3JXX3hodVYyRzNQYjdHbFNCRzVNdDhndDZZMFN5QW80eW9Qa2xqSDZjN1NaNFVQUFZTc2RhS2U0amp4d1N2dHFVWnI5NG13YU5Nc19BUTQ?oc=5",
+    "summary": "o9 Solutions Demonstrates Over 10x Faster Optimization for Enterprise Supply Chain Planning with NVIDIA cuOpt Yahoo Finance",
+    "tags": [
+      "competitor:o9-solutions"
+    ]
+  },
+  {
     "id": "n-2026-07-22-11p1r57",
     "date": "2026-07-22",
     "title": "Nissin Foods Teams Up with Highspring and Blue Yonder to Adopt AI-driven Supply Chain Planning for Faster, Smarter Decisions",
@@ -319,30 +342,6 @@
     "summary": "LIDD Named Kinaxis Value-Added Reseller to Drive Supply Chain Transformation Across EMEA Business Wire",
     "tags": [
       "competitor:kinaxis"
-    ]
-  },
-  {
-    "id": "n-2026-05-26-ux2kux",
-    "date": "2026-05-26",
-    "title": "How Kinaxis, o9 & Blue Yonder Fix Fragmented Supply Chains",
-    "source": "Manufacturing Digital",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaFNMWUlDVWVmNDNDQ09abTBnaVBobG9wX1htUER1YmJheUExaFJGbFBSenFpaTF2SjB5SWRveEZpU2M1a2ZYZGtTNXQwT3ZEaUN6RDh4LTU3Q3Vxb3FZWktEV0lGbFVwLXV3OXg1WDJ5VlNlT05RYmRXLUE4cFJocS1fbkpibUc3SFA5V2t1VHpCYTI2azBZZA?oc=5",
-    "summary": "How Kinaxis, o9 & Blue Yonder Fix Fragmented Supply Chains Manufacturing Digital",
-    "tags": [
-      "competitor:kinaxis",
-      "competitor:o9-solutions",
-      "competitor:blue-yonder"
-    ]
-  },
-  {
-    "id": "n-2026-05-19-7l9inh",
-    "date": "2026-05-19",
-    "title": "Blue Yonder and Syndigo Partner to Bring Trusted Product Data to Supply Chain Planning and Execution",
-    "source": "Business Wire",
-    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTEc2dGtXa1NFVjU1dGVfUGJ5TUxFTENEQmNwMDdjRFNMbXFhX0dRQ1RCZlMzcndjV3ljbDB4eXgtOC13VHBsWEUwSllOZDBUZHpnVzYxNkpMakM2MVFfYWdhRTBscWFfLWNNSDhaSGFXLWxKX2QwaHdoTG5acTVsdGVoSXhGM2o5TmltZ0t1SUNFUTB2ZjNsMVhmeTEzNlNZb3lBeXd5Ukh2UmFfVkVxbE9leXNEVXRaWGduLXF4LTlCQXVsdEtSUkhRUVZsWnVLUUJuSWZYNUVxYmhwWUs0a2FlYUlhRUJ0dE1pM053?oc=5",
-    "summary": "Blue Yonder and Syndigo Partner to Bring Trusted Product Data to Supply Chain Planning and Execution Business Wire",
-    "tags": [
-      "competitor:blue-yonder"
     ]
   }
 ]
