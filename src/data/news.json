@@ -36,18 +36,6 @@
     ]
   },
   {
-    "id": "n-2026-11-05-ubdwr",
-    "date": "2026-11-05",
-    "title": "Blue Yonder Launches AI-Powered Order Management to Cut Fulfilment Costs",
-    "source": "EME Outlook Magazine",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcFlBZUFvWVh4TW9ET1RrRldSeDhYVnRLc0tyMDJ3YWJpVXRjYllYQUZmZDByeVZsbThRTXlHNmpLNDN1cHhGS2NMdTJoWHN0QVhKcUlZNVdtckU2UXp5eXlwUjVQYzlVWlFUV2ZuWXlFakVQbjBHN0tqSmFtMWFjQ05BWGJtMFYxSmZ2N2JpWExqYkFObTQ4R1RpM3B1aFVKUGlmT1AzUUhfR3pkUG54WmlZTU5na0NGZEg0ZQ?oc=5",
-    "summary": "Blue Yonder Launches AI-Powered Order Management to Cut Fulfilment Costs EME Outlook Magazine",
-    "tags": [
-      "competitor:blue-yonder",
-      "agentic-ai"
-    ]
-  },
-  {
     "id": "n-2026-11-05-c4vch8",
     "date": "2026-11-05",
     "title": "Blue Yonder Launches AI-Native Order Management to Help Retailers and Distributors Protect Sales and Lower Fulfillment Costs",
@@ -343,6 +331,18 @@
     "summary": "Blue Yonder and Syndigo Partner to Bring Trusted Product Data to Supply Chain Planning and Execution Business Wire",
     "tags": [
       "competitor:blue-yonder"
+    ]
+  },
+  {
+    "id": "n-2026-05-18-1d7xlim",
+    "date": "2026-05-18",
+    "title": "Accelerating supply chain AI with Kinaxis MCP on Amazon Bedrock AgentCore",
+    "source": "Amazon Web Services (AWS)",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMnp4SnhIUzhTM3NvRkd6V0VJSTFaaEFnZmxNQnc0SGF0a0JOc0NUaDlvT0NIWS0xOTE3bXMxQ0pnQ1E5ZUF5UnFkWDZsOElwVEljNHpQeV9UbzloNW5mYUJHRGRvUEV5eE9BQ0F2OS1tZUgxTVFWZjNaSzRPQ0FXZURFdnZzeG1VNUNoVV8yZ0RhanZxQ05DNUNuTTBuWmpsZHBqV2FzM3A5TWs?oc=5",
+    "summary": "Accelerating supply chain AI with Kinaxis MCP on Amazon Bedrock AgentCore Amazon Web Services (AWS)",
+    "tags": [
+      "competitor:kinaxis",
+      "agentic-ai"
     ]
   }
 ]
