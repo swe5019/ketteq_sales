@@ -1,16 +1,5 @@
 [
   {
-    "id": "n-2026-11-11-b7utqh",
-    "date": "2026-11-11",
-    "title": "OBI Group taps Blue Yonder technology to unify demand planning and replenishment across European stores",
-    "source": "Retail Technology Innovation Hub",
-    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONS1Qa1JpT1JpcnhHWWtrSk5QQmpkWjd3Ync3cHNFUGpDN2J5Sk1kNUY5bXpuN3N1SHRPOFg4eFRROUF3TGk1NEN1MldUZndUeFZsVDJsYkxDZnlQR3M0QjFsM2dfVUVsX2ZMUGNUTTVqalk0UVo2bGZkZGZlTFAwRV9MYXhZX0ViemNSREdMWEN1VXBqLUlfcklHSm9FMHRyNElEUWhQNFRHYWZ4dnRlUkFucUFCRXlWa1NMd3dpUjZwbklXU3FHRVpwT0F4UERxTms0VFFlTEtjb280Q1dLZXFjRFpEVTBnbGlJRWxYVHg?oc=5",
-    "summary": "OBI Group taps Blue Yonder technology to unify demand planning and replenishment across European stores Retail Technology Innovation Hub",
-    "tags": [
-      "competitor:blue-yonder"
-    ]
-  },
-  {
     "id": "n-2026-11-10-1588rbr",
     "date": "2026-11-10",
     "title": "Kinaxis loves solving hard problems, says CEO Razat Gaurav. Just as well in an ever more complex Supply Chain world in which AI can’t be the whole answer…",
@@ -20,17 +9,6 @@
     "tags": [
       "competitor:kinaxis",
       "agentic-ai"
-    ]
-  },
-  {
-    "id": "n-2026-11-10-13oeys",
-    "date": "2026-11-10",
-    "title": "OBI Group Will Adopt Blue Yonder Solutions to Unify Demand Planning and Replenishment Across 660+ European Stores",
-    "source": "Via TT",
-    "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQRXgxWGhtQkJnWWQtX1lzSDl3bVBBR2JYdFlwYnBONGVtNGxSTmNSaFFOa0dYVzd3U1FTcXdKZGRRZW5JbUdZQ25PV0hrU0oxOWdBa1BWMmpOMnAxWFJPNkNXcVluQ0tBMG5QWjNsODlnV241WlJrZFBydW9xVWJyVnNiMHFkaTFySkRoeUdZZlNqS0tWQk04Z3R0QktlelhqdVFab1lkRmlDRXpBdmQ2cExTSjdaMnhaanNhTDNKTWRQbHZ5Q19SRkJHLVMzUFNXUjJlaGE2aUgyak4zTGFhbG5GSGo0Q3BWY2J4end0SUthSTRGdU83N0dVM2JiN0cwWmRKWF84M0twVFJCTEE?oc=5",
-    "summary": "OBI Group Will Adopt Blue Yonder Solutions to Unify Demand Planning and Replenishment Across 660+ European Stores Via TT",
-    "tags": [
-      "competitor:blue-yonder"
     ]
   },
   {
@@ -345,6 +323,29 @@
     "summary": "Oracle Named a Leader in Two 2026 Gartner® Magic Quadrant™ Reports for Supply Chain Planning Solutions: Discrete and Process Industries Oracle",
     "tags": [
       "gartner"
+    ]
+  },
+  {
+    "id": "n-2026-03-27-1wzg58l",
+    "date": "2026-03-27",
+    "title": "AI-Enhanced Supply Chain Management Systems Make Exception Handling Easier",
+    "source": "Panasonic Newsroom Global",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KQlF0NEJoeUZ3VVhYVDl1VXVDQ3hzcHlpZkI1UHU0VmlGendFNUtEeFJROXIwUnZ2OWZXWDhMRGhTVmZGZFE4VHZRUHpFbDJfeFJlN20zVG51Yjg?oc=5",
+    "summary": "AI-Enhanced Supply Chain Management Systems Make Exception Handling Easier Panasonic Newsroom Global",
+    "tags": [
+      "agentic-ai"
+    ]
+  },
+  {
+    "id": "n-2026-03-26-1qfmyer",
+    "date": "2026-03-26",
+    "title": "Anaplan Announces AI-Driven Applications to Advance Enterprise Decision-Making",
+    "source": "Supply & Demand Chain Executive",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaGpTVzV1ZWxfNGE5cnFfR250TksyRS1GUUZBeTNWSXpMbHAzTDRHZmlOX3BsWlVLNWF0dERHZjctOW5tdndXUENSZW5ldklTdWNDTm9aVEEwWW5fUV93bUc0YS13Mm8xUGF2a2VBT1FVc1gtR19jcXdsX2pCYWwzUVJWVTRRYTVjSnJteGpKb2g0T3Jfb1RJSnFIN2dhNzdQVGhjSXBvUXp4ekVJcnBJTnVfbjREdG1kSm41aTdxVUptLU1MTE9jLWpyN3RtY2lNNDRCeEZlR18tYW5HZ1ZYaUZR?oc=5",
+    "summary": "Anaplan Announces AI-Driven Applications to Advance Enterprise Decision-Making Supply & Demand Chain Executive",
+    "tags": [
+      "competitor:anaplan",
+      "agentic-ai"
     ]
   }
 ]
