@@ -1,5 +1,27 @@
 [
   {
+    "id": "n-2026-11-13-rd3pr9",
+    "date": "2026-11-13",
+    "title": "Kinaxis Named a Leader in Five 2026 IDC MarketScapes for Worldwide Supply Chain Planning",
+    "source": "Yahoo Finance Singapore",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYzFwdHF4SURmRW5GMHVPS04zWjdVOVF4MzdMLWhseVVqR0J4MmF5c2dXa3JTUEE2ZlJzRHF6VVlQb3FqYnF6Qmx5c0ZOV2xOck50WFc1VV9vYTZjZThkekh1dS1peHpvMk9RT0ZkT3NVMmVKTExmQXAya285VVN3bTRMZlNRZw?oc=5",
+    "summary": "Kinaxis Named a Leader in Five 2026 IDC MarketScapes for Worldwide Supply Chain Planning Yahoo Finance Singapore",
+    "tags": [
+      "competitor:kinaxis"
+    ]
+  },
+  {
+    "id": "n-2026-11-11-b7utqh",
+    "date": "2026-11-11",
+    "title": "OBI Group taps Blue Yonder technology to unify demand planning and replenishment across European stores",
+    "source": "Retail Technology Innovation Hub",
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONS1Qa1JpT1JpcnhHWWtrSk5QQmpkWjd3Ync3cHNFUGpDN2J5Sk1kNUY5bXpuN3N1SHRPOFg4eFRROUF3TGk1NEN1MldUZndUeFZsVDJsYkxDZnlQR3M0QjFsM2dfVUVsX2ZMUGNUTTVqalk0UVo2bGZkZGZlTFAwRV9MYXhZX0ViemNSREdMWEN1VXBqLUlfcklHSm9FMHRyNElEUWhQNFRHYWZ4dnRlUkFucUFCRXlWa1NMd3dpUjZwbklXU3FHRVpwT0F4UERxTms0VFFlTEtjb280Q1dLZXFjRFpEVTBnbGlJRWxYVHg?oc=5",
+    "summary": "OBI Group taps Blue Yonder technology to unify demand planning and replenishment across European stores Retail Technology Innovation Hub",
+    "tags": [
+      "competitor:blue-yonder"
+    ]
+  },
+  {
     "id": "n-2026-11-10-1588rbr",
     "date": "2026-11-10",
     "title": "Kinaxis loves solving hard problems, says CEO Razat Gaurav. Just as well in an ever more complex Supply Chain world in which AI can’t be the whole answer…",
@@ -9,6 +31,17 @@
     "tags": [
       "competitor:kinaxis",
       "agentic-ai"
+    ]
+  },
+  {
+    "id": "n-2026-11-10-13oeys",
+    "date": "2026-11-10",
+    "title": "OBI Group Will Adopt Blue Yonder Solutions to Unify Demand Planning and Replenishment Across 660+ European Stores",
+    "source": "Business Wire",
+    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQbkdWTXl4cGNhNElqUjYyUzk2VTNlT0xvaVdJdEtHdXlmVkRoN0dfMUNTMGFrY2dTcHJCSE5GSFlfS2gybEdIb1cxQkMzUUk5bFFsakIwbmNINXlia2R5aEJEaHo4bTBtLXZaVmRTbXN2ZlFDYTE4RW0zVElaZzVlc0FDblowNTNiU2E3WVY2dHJrOExYU3A3dTR5TVk4dDE5c1JvbkRJSEEyZG1RcmwycGtmaHJqNWNqQVZlVlR1dkZHVXRTc1p0NGxJY1RGVmlXVTBhcVVibGdLNTRMbkJfbmE5NWdjbUlNQ2JndWVBMjJJVWFSVnhscHFSZTl5QQ?oc=5",
+    "summary": "OBI Group Will Adopt Blue Yonder Solutions to Unify Demand Planning and Replenishment Across 660+ European Stores Business Wire",
+    "tags": [
+      "competitor:blue-yonder"
     ]
   },
   {
@@ -23,34 +56,12 @@
     ]
   },
   {
-    "id": "n-2026-11-03-y0o5e2",
-    "date": "2026-11-03",
-    "title": "OMP Extends UnisonIQ with Agent Library and Agent Studio: AI Agents that Produce Executable Supply Chain Plans",
-    "source": "Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVW9PalFhdTFDVEhEU0REeHZ5WXhvTkg2Q2l0ODljcWpzUlZha2pXNmozTXhyLTVpU3BfWlpSV3prbjB1ZGUxSDY0SkRza25Pc2ppSjhYdnBmLWFfTE5qLXFua21IR2FmaWtGTTFsUWV3cDlLanFHTXA4Ti1rM3ZXa3JzdDZ2TlVBVVdXVmpxNFVfZXRQb2I0MU5QaEs3SU0?oc=5",
-    "summary": "OMP Extends UnisonIQ with Agent Library and Agent Studio: AI Agents that Produce Executable Supply Chain Plans Yahoo Finance",
-    "tags": [
-      "agentic-ai"
-    ]
-  },
-  {
     "id": "n-2026-10-09-1sfn9hv",
     "date": "2026-10-09",
     "title": "What if everything changes tomorrow? A Canadian company is using AI to help businesses navigate supply chain uncertainty",
     "source": "Microsoft Source",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tdHNtSUFDWEU2aEc1NXJxajgwYjdfLS10MmpUa2pET3JWRFBQc1NweEtrV0ZncjM0WGdBVEtCbW51c2hjSVFTOVIwQjhOQXQ1OFpjWXlVTjUyaDc4cVN0eVJIRWRtVFNWVElycGo1SXByanNlOFg1TkV1X3k0cjA?oc=5",
     "summary": "What if everything changes tomorrow? A Canadian company is using AI to help businesses navigate supply chain uncertainty Microsoft Source",
-    "tags": [
-      "agentic-ai"
-    ]
-  },
-  {
-    "id": "n-2026-10-07-ubslsx",
-    "date": "2026-10-07",
-    "title": "StockIQ Launches AI Agent ‘Edison’ to Empower Supply Chain Efficiency Through Real-Time, Data-Backed Decision Making",
-    "source": "Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObzJZTGNLZ2JCVVRSSm9ZaEV1dDRxUmQzY0hqdVl4SkR6Ykt0TFB3am9RU0xnQlVjMTlPRnE5M0Q4emVrVDJZRnluMTFVNWtGbGZjNzFLZE1sTGRMcmU0NHpza3J3clhHZzNuMV9TdmdqbGw0NWtPb3NZN0xjbGZfV3BrTzEtcXhjSDk0eXg4ODNyaHNvVmJ0Q3NqRGE?oc=5",
-    "summary": "StockIQ Launches AI Agent ‘Edison’ to Empower Supply Chain Efficiency Through Real-Time, Data-Backed Decision Making Yahoo Finance",
     "tags": [
       "agentic-ai"
     ]
@@ -147,17 +158,6 @@
     "summary": "Top 5 Supply Chain Planning Software in 2026 Trans.INFO",
     "tags": [
       "industry"
-    ]
-  },
-  {
-    "id": "n-2026-07-23-1d0ti3x",
-    "date": "2026-07-23",
-    "title": "o9 Solutions Demonstrates Over 10x Faster Optimization for Enterprise Supply Chain Planning with NVIDIA cuOpt",
-    "source": "Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaUZxcHprYnE0UGl2NkEwTWZNeG44cHBPSE9ZZldkNTh1RHlxSVdWbXRGWXYxSEgxamg1WE1VaEpYZ3g1OUhTc0p3Szd0a243U3JXX3hodVYyRzNQYjdHbFNCRzVNdDhndDZZMFN5QW80eW9Qa2xqSDZjN1NaNFVQUFZTc2RhS2U0amp4d1N2dHFVWnI5NG13YU5Nc19BUTQ?oc=5",
-    "summary": "o9 Solutions Demonstrates Over 10x Faster Optimization for Enterprise Supply Chain Planning with NVIDIA cuOpt Yahoo Finance",
-    "tags": [
-      "competitor:o9-solutions"
     ]
   },
   {
